@@ -15,6 +15,11 @@
                 我是中文描述cn。
                 ]]>
             </description>
+            <description xml:lang="en-CN">
+                <![CDATA[
+                我是中文描述en-CN。
+                ]]>
+            </description>
             <description xml:lang="zh-Hans">
                 <![CDATA[
                 我是中文描述zh-Hans。
