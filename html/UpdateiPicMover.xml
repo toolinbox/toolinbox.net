@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>iPic Mover's Changelog</title>
-        <description>Most recent changes with links to updates.</description>        
+        <description>Most recent changes with links to updates.</description>
         <item>
             <title>Version 0.1.0</title>
-            <description>
+            <description xml:lang="en">
                 <![CDATA[
                 <ul>
                     <li>Feature 1</li>
@@ -13,7 +13,7 @@
                 </ul>
                 ]]>
             </description>
-            <description xml:lang="zh-Hans">
+            <description xml:lang="zh-Han">
                 <![CDATA[
                 <h3>新功能</h3>
                 <ul>
