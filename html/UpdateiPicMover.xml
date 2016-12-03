@@ -6,16 +6,8 @@
         <language>en</language>
         <item>
             <title>Version 0.1.0</title>
-            <description>
-                <![CDATA[
-                I'm the English description.
-                ]]>
-            </description>v
-            <description xml:lang="cn">
-                <![CDATA[
-                我是中文描述。
-                ]]>
-            </description>
+            <sparkle:releaseNotesLink>https://en.toolinbox.net</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="cn">https://toolinbox.net</sparkle:releaseNotesLink>
             <pubDate>Sat, 03 Dec 2016 19:20:11 +0000</pubDate>
             <enclosure url="http://localhost/~jason/iPicMover/iPicMover_v0.1.0.dmg" sparkle:version="10" sparkle:shortVersionString="0.1.0" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
