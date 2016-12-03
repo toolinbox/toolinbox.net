@@ -15,17 +15,19 @@
             </description>
             <description xml:lang="zh-Hans">
                 <![CDATA[
-                <h2>新功能</h2>
+                <h3>新功能</h3>
                 <ul>
                     <li>功能 1</li>
                     <li>功能 2</li>
                 </ul>
-                <br />
-                <h2>Bug</h2>
+
+                <h3>Bug</h3>
                 <ul>
                     <li>Bug 1</li>
                     <li>Bug 2</li>
                 </ul>
+
+                <a href="https://toolinbox.net">了解更多</a>
                 ]]>
             </description>
             <pubDate>Sat, 03 Dec 2016 19:20:11 +0000</pubDate>
