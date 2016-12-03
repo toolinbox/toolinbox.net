@@ -9,10 +9,20 @@
                 <![CDATA[
                 I'm the English description.
                 ]]>
-            </description>v
+            </description>
             <description xml:lang="cn">
                 <![CDATA[
-                我是中文描述。
+                我是中文描述cn。
+                ]]>
+            </description>
+            <description xml:lang="zh-Hans">
+                <![CDATA[
+                我是中文描述zh-Hans。
+                ]]>
+            </description>
+            <description xml:lang="zh-Hans-CN">
+                <![CDATA[
+                我是中文描述zh-Hans-CN。
                 ]]>
             </description>
             <pubDate>Sat, 03 Dec 2016 19:20:11 +0000</pubDate>
