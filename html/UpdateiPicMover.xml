@@ -15,9 +15,16 @@
             </description>
             <description xml:lang="zh-Hans">
                 <![CDATA[
+                <h2>新功能</h2>
                 <ul>
                     <li>功能 1</li>
                     <li>功能 2</li>
+                </ul>
+                <br />
+                <h2>Bug</h2>
+                <ul>
+                    <li>Bug 1</li>
+                    <li>Bug 2</li>
                 </ul>
                 ]]>
             </description>
