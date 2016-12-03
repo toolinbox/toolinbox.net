@@ -7,27 +7,18 @@
             <title>Version 0.1.0</title>
             <description>
                 <![CDATA[
-                I'm the English description.
-                ]]>
-            </description>
-            <description xml:lang="cn">
-                <![CDATA[
-                我是中文描述cn。
-                ]]>
-            </description>
-            <description xml:lang="en-CN">
-                <![CDATA[
-                我是中文描述en-CN。
+                <ul>
+                    <li>Feature 1</li>
+                    <li>Feature 2</li>
+                </ul>
                 ]]>
             </description>
             <description xml:lang="zh-Hans">
                 <![CDATA[
-                我是中文描述zh-Hans。
-                ]]>
-            </description>
-            <description xml:lang="zh-Hans-CN">
-                <![CDATA[
-                我是中文描述zh-Hans-CN。
+                <ul>
+                    <li>功能 1</li>
+                    <li>功能 2</li>
+                </ul>
                 ]]>
             </description>
             <pubDate>Sat, 03 Dec 2016 19:20:11 +0000</pubDate>
