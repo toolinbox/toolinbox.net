@@ -12,7 +12,7 @@
                 ]]>
             </description>
             <pubDate>Sat, 03 Dec 2016 19:20:11 +0000</pubDate>
-            <enclosure url="https://www.typora.io/download/typora_0.9.9.8.4.zip" sparkle:version="1.0.0" type="application/octet-stream" />
+            <enclosure url="https://www.typora.io/download/typora_0.9.9.8.4.zip" sparkle:version="100" sparkle:shortVersionString="1.0.0" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
         </item>
     </channel>
