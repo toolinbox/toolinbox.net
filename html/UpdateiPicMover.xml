@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>iPic Mover's Changelog</title>
+        <title xml:lang="cn">iPic Mover 更新日志</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <description>
+                <![CDATA[
+                I'm English description.
+                ]]>
+            </description>
+            <description xml:lang="cn">
+                <![CDATA[
+                我是中文描述。
+                ]]>
+            </description>
+            <pubDate>Sat, 03 Dec 2016 19:20:11 +0000</pubDate>
+            <enclosure url="https://www.typora.io/download/typora_0.9.9.8.4.zip" sparkle:version="1.0.0" type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
