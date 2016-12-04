@@ -25,6 +25,7 @@
   var ca = query.ca;
   var ev = query.ev;
   var la = query.la;
+  var ec = query.ec;
 
   ga('create', id, 'auto');
   ga('require', 'displayfeatures');
@@ -42,6 +43,10 @@
 
       if (typeof la != 'undefined' && la !== '') {
         cmd+=',\''+la+'\'';
+
+        if (typeof ec != 'undefined' && ec !== '') {
+          cmd+=',\''+ec+'\'';
+        }
       }
     }
 
@@ -49,7 +54,7 @@
     eval(cmd);
   }
   
-  setTimeout(function(){ window.location = "http://toolinbox.net"; }, 1e4);
+  setTimeout(function(){ window.location = "https://toolinbox.net"; }, 1e4);
 </script>
 
 
