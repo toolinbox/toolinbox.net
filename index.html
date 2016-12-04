@@ -251,6 +251,180 @@
             
               
                 
+                <a class="post-title-link" href="/iPic/iPicMover.html" itemprop="url">
+                  图床搬家神器：iPic Mover
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">发表于</span>
+            <time itemprop="dateCreated" datetime="2016-12-04T23:21:23+08:00" content="2016-12-04">
+              2016-12-04
+            </time>
+          </span>
+
+          
+            <span class="post-category" >
+              &nbsp; | &nbsp;
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/categories/iPic/" itemprop="url" rel="index">
+                    <span itemprop="name">iPic</span>
+                  </a>
+                </span>
+
+                
+                
+
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/iPic/iPicMover.html#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count" data-disqus-identifier="iPic/iPicMover.html" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <p>在 Markdown 中插图很麻烦；还好，<a href="https://toolinbox.net/iPic/">iPic</a> 解决了这个问题。</p>
+<p>可是，已有 Markdown 文件中的图片该如何迁移呢？</p>
+<p>不怕，现在有了 iPic Mover :)</p>
+<p><img src="https://oaawbohq4.qnssl.com/blog/6uid2.png" alt=""></p>
+<h1 id="iPic-Mover-是什么？我需要吗？"><a href="#iPic-Mover-是什么？我需要吗？" class="headerlink" title="iPic Mover 是什么？我需要吗？"></a>iPic Mover 是什么？我需要吗？</h1><p>先来看看这几个场景，你有没有遇到过？</p>
+<p>１. <strong>批量将本地图片上传至图床，并更新链接、删除本地图片</strong></p>
+<ul>
+<li>很多 Markdown 都支持插入本地图片，但很少支持上传图片至图床。</li>
+<li><a href="http://www.typora.io/" target="_blank" rel="external">Typora</a> 除外，因为它集成了 iPicUploader，在插入本地图片时，可以调用 iPic 上传。</li>
+</ul>
+<p>２. <strong>更换图床</strong></p>
+<ul>
+<li>比如，最近流行升级至 https，而原来的图床很可能不支持 https，这就需要更换图床</li>
+</ul>
+<p>３. <strong>WordPress 迁移至 Markdown 时，迁移图片</strong></p>
+<ul>
+<li>Markdown 可谓风头正劲，可 WordPress 也是昔日王者。将 WordPress 迁移至 Markdown 时，比较痛苦的是 WordPress 中上传的图片资源怎么办？</li>
+<li>此功能正在开发中…</li>
+</ul>
+<p>４. <strong>压缩已有图片</strong></p>
+<ul>
+<li>曾经年少轻狂，上传几 MB 的图片，眼都不眨一下。现在看看流量账单，心疼啊。可是，要把所有文章中的图片下载、压缩、再上传、更新图片链接，麻烦啊 :(</li>
+<li>下个版本即将支持…</li>
+</ul>
+<p>如果你遇到过上面的麻烦，恭喜，iPic Mover 就是为你准备的。</p>
+<h1 id="如何使用-iPic-Mover"><a href="#如何使用-iPic-Mover" class="headerlink" title="如何使用 iPic Mover ?"></a>如何使用 iPic Mover ?</h1><p>二话不说先上图：</p>
+<p><img src="http://ww2.sinaimg.cn/large/006tNc79gw1faf5yylpijg30ii0b84qp.gif" alt=""></p>
+<p>可以看出，只要选择 Markdown 的根目录即可，iPic Mover 自动帮你：</p>
+<ul>
+<li>找到所有 Markdown 文件</li>
+<li>找到 Markdown 文件中所有图片</li>
+<li>上传图片</li>
+<li>更新 Markdown 文件中的图片链接</li>
+</ul>
+<p>当然，还有几个可选项：</p>
+<ul>
+<li>迁移图片前复制文件夹或文件<ul>
+<li>如果选定，则仅在复制的 Markdown 文件中更新图片链接。原有的 Markdown 文件将不被修改。这个主要是为了测试使用。</li>
+<li><strong>注意：</strong>强烈建议在迁移前备份原始文件</li>
+</ul>
+</li>
+<li>仅上传本地图片<ul>
+<li>默认会将所有图片迁移至新图床。如果选定，则仅上传本地图片、不上传已经在云上的图片</li>
+</ul>
+</li>
+<li>上传后删除本地图片文件<ul>
+<li>如果你不希望本地残留无用的图片，可以勾选。上传失败的本地图片文件不会被删除。</li>
+</ul>
+</li>
+</ul>
+<h1 id="iPic-Mover-是如何工作的？"><a href="#iPic-Mover-是如何工作的？" class="headerlink" title="iPic Mover 是如何工作的？"></a>iPic Mover 是如何工作的？</h1><p>除了上面介绍的，核心的，iPic Mover 是通过调用 iPicUploader 来上传图片。具体可见：<a href="https://toolinbox.net/iPic/iPicUploader.html">图床神器 iPic 免费开放上传服务：iPicUploader</a></p>
+<p>由于需要调用 iPic 来上传图片，iPic Mover 在运行时会检测 iPic 是否安装。如果未安装，会提示在 Mac App Store 下载。</p>
+<h1 id="下载-iPic-Mover"><a href="#下载-iPic-Mover" class="headerlink" title="下载 iPic Mover"></a>下载 iPic Mover</h1><p>说到最后，终于来重点了：</p>
+<p><a href="https://toolinbox.net/html/iPicMover/download.html">&gt;&gt;&gt; 点我下载 iPic Mover &lt;&lt;&lt;</a></p>
+<p>马上试试吧。有 Bug、想吐槽，<a href="https://toolinbox.net/html/feedback.html?lang=zh-Hans&amp;app=iPicMover">点这里跟我聊聊</a>，期待你的反馈。</p>
+
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
                 <a class="post-title-link" href="/iPic/iPicUploader_Typora.html" itemprop="url">
                   Typora: 首个集成 iPic 上传服务的 Markdown 编辑器
                 </a>
@@ -1465,148 +1639,6 @@
 
 
     
-      
-
-  
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-            
-            
-              
-                
-                <a class="post-title-link" href="/iPic/ChangeLog.html" itemprop="url">
-                  iPic 更新日志
-                </a>
-              
-            
-          </h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            <span class="post-meta-item-icon">
-              <i class="fa fa-calendar-o"></i>
-            </span>
-            <span class="post-meta-item-text">发表于</span>
-            <time itemprop="dateCreated" datetime="2016-05-22T18:32:16+08:00" content="2016-05-22">
-              2016-05-22
-            </time>
-          </span>
-
-          
-            <span class="post-category" >
-              &nbsp; | &nbsp;
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/categories/iPic/" itemprop="url" rel="index">
-                    <span itemprop="name">iPic</span>
-                  </a>
-                </span>
-
-                
-                
-
-              
-            </span>
-          
-
-          
-            
-              <span class="post-comments-count">
-                &nbsp; | &nbsp;
-                <a href="/iPic/ChangeLog.html#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count" data-disqus-identifier="iPic/ChangeLog.html" itemprop="commentsCount"></span>
-                </a>
-              </span>
-            
-          
-
-          
-
-          
-          
-
-          
-        </div>
-      </header>
-    
-
-
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          <h1 id="v1-3-1"><a href="#v1-3-1" class="headerlink" title="v1.3.1"></a>v1.3.1</h1><p>2016/10/18</p>
-<ul>
-<li>七牛支持华南、北美节点</li>
-<li>可以复制图床</li>
-<li>内嵌 <a href="https://github.com/toolinbox/iPicUploader">iPicUploader</a> 上传服务</li>
-<li>适配 Swift 3.0</li>
-</ul>
-<h1 id="v1-2-0"><a href="#v1-2-0" class="headerlink" title="v1.2.0"></a>v1.2.0</h1><p>2016/08/29</p>
-<ul>
-<li>新增 <a href="https://aws.amazon.com/s3/">Amazon S3</a> 图床</li>
-<li>修复 Bug<ul>
-<li>批量上传图片时，链接顺序与选择的一致</li>
-<li>从 Dock 栏文件夹中拖动上传有时没反应</li>
-</ul>
-</li>
-</ul>
-<h1 id="v1-1-2"><a href="#v1-1-2" class="headerlink" title="v1.1.2"></a>v1.1.2</h1><p>2016/08/21</p>
-<ul>
-<li>新增 <a href="https://www.aliyun.com/product/oss">阿里云 OSS</a> 图床</li>
-<li>优化七牛上传速度</li>
-</ul>
-          <div class="post-more-link text-center">
-            <a class="btn" href="/iPic/ChangeLog.html#more" rel="contents">
-              阅读全文 &raquo;
-            </a>
-          </div>
-        
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-
-
-    
   </section>
 
   
@@ -1652,7 +1684,7 @@
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/">
-              <span class="site-state-item-count">16</span>
+              <span class="site-state-item-count">17</span>
               <span class="site-state-item-name">日志</span>
             </a>
           </div>
