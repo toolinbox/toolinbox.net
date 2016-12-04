@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>iPic Mover's Changelog</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.1.0</title>
+            <description xml:lang="en">
+                <![CDATA[
+                <ul>
+                    <li>Feature 1</li>
+                    <li>Feature 2</li>
+                </ul>
+                ]]>
+            </description>
+            <description xml:lang="zh-Han">
+                <![CDATA[
+                <h3>新功能</h3>
+                <ul>
+                    <li>功能 1</li>
+                    <li>功能 2</li>
+                </ul>
+
+                <h3>Bug</h3>
+                <ul>
+                    <li>Bug 1</li>
+                    <li>Bug 2</li>
+                </ul>
+
+                <a href="https://toolinbox.net">了解更多</a>
+                ]]>
+            </description>
+            <pubDate>Sat, 03 Dec 2016 19:20:11 +0000</pubDate>
+            <enclosure url="http://localhost/~jason/iPicMover/iPicMover_v0.1.0.dmg" sparkle:version="10" sparkle:shortVersionString="0.1.0" type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
