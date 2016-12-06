@@ -2,16 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://toolinbox.net/iPic/index.html</loc>
+    
+    <lastmod>2016-12-06T05:28:08.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iTimer/index.html</loc>
+    
+    <lastmod>2016-12-06T05:27:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iPic/iPicUploader.html</loc>
+    
+    <lastmod>2016-12-06T05:26:26.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iPic/iPicIntroduce3.html</loc>
+    
+    <lastmod>2016-12-06T05:26:08.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://toolinbox.net/iPic/iPicMover.html</loc>
     
-    <lastmod>2016-12-04T15:47:45.000Z</lastmod>
+    <lastmod>2016-12-06T05:25:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iPaste/index.html</loc>
+    
+    <lastmod>2016-12-06T05:25:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iPic/iPicIntroduce2.html</loc>
+    
+    <lastmod>2016-12-06T05:25:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iPic/iPicIntroduce1.html</loc>
+    
+    <lastmod>2016-12-06T05:24:43.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://toolinbox.net/iPic/iPicUploader_Typora.html</loc>
     
-    <lastmod>2016-11-25T14:04:24.000Z</lastmod>
+    <lastmod>2016-12-06T05:24:13.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iHosts/index.html</loc>
+    
+    <lastmod>2016-12-06T05:21:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iHosts/iHostsSSPai.html</loc>
+    
+    <lastmod>2016-12-06T05:21:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iPic/AddAliOSS.html</loc>
+    
+    <lastmod>2016-12-06T05:21:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iPic/AddQiniuImageHost.html</loc>
+    
+    <lastmod>2016-12-06T05:21:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iPic/AddUpYunImageHost.html</loc>
+    
+    <lastmod>2016-12-06T05:21:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iPic/AddS3.html</loc>
+    
+    <lastmod>2016-12-06T05:21:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
+    
+    <lastmod>2016-12-06T05:21:50.000Z</lastmod>
     
   </url>
   
@@ -19,13 +117,6 @@
     <loc>http://toolinbox.net/iPic/ChangeLog.html</loc>
     
     <lastmod>2016-10-19T00:24:45.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iPic/index.html</loc>
-    
-    <lastmod>2016-10-02T13:27:34.000Z</lastmod>
     
   </url>
   
@@ -44,65 +135,9 @@
   </url>
   
   <url>
-    <loc>http://toolinbox.net/iTimer/index.html</loc>
-    
-    <lastmod>2016-09-22T05:01:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iPaste/index.html</loc>
-    
-    <lastmod>2016-09-22T04:22:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iHosts/index.html</loc>
-    
-    <lastmod>2016-09-22T04:21:13.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iPic/iPicUploader.html</loc>
-    
-    <lastmod>2016-09-17T10:25:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://toolinbox.net/404.html</loc>
     
     <lastmod>2016-09-17T10:18:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iPic/AddQiniuImageHost.html</loc>
-    
-    <lastmod>2016-09-01T04:17:00.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iPic/AddUpYunImageHost.html</loc>
-    
-    <lastmod>2016-09-01T04:16:47.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iPic/AddS3.html</loc>
-    
-    <lastmod>2016-08-29T14:08:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iPic/AddAliOSS.html</loc>
-    
-    <lastmod>2016-08-28T13:19:22.000Z</lastmod>
     
   </url>
   
@@ -117,41 +152,6 @@
     <loc>http://toolinbox.net/iPic/iPicUploadService.html</loc>
     
     <lastmod>2016-06-03T14:17:09.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iPic/iPicIntroduce1.html</loc>
-    
-    <lastmod>2016-05-31T14:53:30.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iPic/iPicIntroduce3.html</loc>
-    
-    <lastmod>2016-05-31T14:53:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iPic/iPicIntroduce2.html</loc>
-    
-    <lastmod>2016-05-31T14:42:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
-    
-    <lastmod>2016-05-23T15:06:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/iHosts/iHostsSSPai.html</loc>
-    
-    <lastmod>2016-05-23T14:52:31.000Z</lastmod>
     
   </url>
   
