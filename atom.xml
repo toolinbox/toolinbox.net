@@ -1100,9 +1100,14 @@
     <link href="http://toolinbox.net/iTimer/ChangeLog.html"/>
     <id>http://toolinbox.net/iTimer/ChangeLog.html</id>
     <published>2015-11-22T10:32:16.000Z</published>
-    <updated>2016-09-26T01:31:59.000Z</updated>
+    <updated>2016-12-28T13:17:38.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;
+    <content type="html">&lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;2016/12/28&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可自定义计时器时长&lt;/li&gt;
+&lt;li&gt;适配 Swift 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;意念钟更名为 &lt;strong&gt;iTimer&lt;/strong&gt;，并更新 Logo&lt;/li&gt;
 &lt;li&gt;增加更多计时器&lt;/li&gt;
@@ -1122,7 +1127,12 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;
+      &lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;2016/12/28&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可自定义计时器时长&lt;/li&gt;
+&lt;li&gt;适配 Swift 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;意念钟更名为 &lt;strong&gt;iTimer&lt;/strong&gt;，并更新 Logo&lt;/li&gt;
 &lt;li&gt;增加更多计时器&lt;/li&gt;
