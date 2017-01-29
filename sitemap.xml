@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://toolinbox.net/iPaste/index.html</loc>
+    
+    <lastmod>2017-01-29T01:27:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://toolinbox.net/iPic/index.html</loc>
     
     <lastmod>2017-01-12T03:47:26.000Z</lastmod>
@@ -58,13 +65,6 @@
   </url>
   
   <url>
-    <loc>http://toolinbox.net/iPaste/index.html</loc>
-    
-    <lastmod>2016-12-06T05:25:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://toolinbox.net/iPic/iPicIntroduce2.html</loc>
     
     <lastmod>2016-12-06T05:25:01.000Z</lastmod>
@@ -86,14 +86,14 @@
   </url>
   
   <url>
-    <loc>http://toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
+    <loc>http://toolinbox.net/iPic/AddQiniuImageHost.html</loc>
     
     <lastmod>2016-12-06T05:21:50.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://toolinbox.net/iPic/AddQiniuImageHost.html</loc>
+    <loc>http://toolinbox.net/iPic/AddUpYunImageHost.html</loc>
     
     <lastmod>2016-12-06T05:21:50.000Z</lastmod>
     
@@ -107,7 +107,7 @@
   </url>
   
   <url>
-    <loc>http://toolinbox.net/iPic/AddUpYunImageHost.html</loc>
+    <loc>http://toolinbox.net/iPic/AddS3.html</loc>
     
     <lastmod>2016-12-06T05:21:50.000Z</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://toolinbox.net/iPic/AddS3.html</loc>
+    <loc>http://toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
     
     <lastmod>2016-12-06T05:21:50.000Z</lastmod>
     
