@@ -23,6 +23,7 @@
 		var query = getQueryParams(document.location.search);
 		var lang = query.lang;
 		var app = query.app;
+		var pid = query.pid;
 		var version = query.version;
 		var os = query.os;
 
@@ -75,6 +76,7 @@
 				Version: version,
 				Language: lang,
 				OS: os,
+				PID: pid,
 			});
 
 			this.open();
