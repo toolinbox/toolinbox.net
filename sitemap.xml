@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://toolinbox.net/Klib/KlibMAS.html</loc>
+    
+    <lastmod>2017-02-22T14:47:40.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://toolinbox.net/Klib/index.html</loc>
     
     <lastmod>2017-02-20T21:23:37.000Z</lastmod>
@@ -100,7 +107,7 @@
   </url>
   
   <url>
-    <loc>http://toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
+    <loc>http://toolinbox.net/iHosts/iHostsSSPai.html</loc>
     
     <lastmod>2016-12-06T05:21:50.000Z</lastmod>
     
@@ -114,7 +121,7 @@
   </url>
   
   <url>
-    <loc>http://toolinbox.net/iHosts/iHostsSSPai.html</loc>
+    <loc>http://toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
     
     <lastmod>2016-12-06T05:21:50.000Z</lastmod>
     
