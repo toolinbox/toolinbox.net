@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://toolinbox.net/Klib/index.html</loc>
+    
+    <lastmod>2017-06-23T12:03:35.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://toolinbox.net/Klib/Klib.html</loc>
     
     <lastmod>2017-06-19T23:03:44.000Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://toolinbox.net/Klib/KlibDropbox.html</loc>
     
     <lastmod>2017-05-13T02:30:11.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/Klib/index.html</loc>
-    
-    <lastmod>2017-05-13T02:13:14.000Z</lastmod>
     
   </url>
   
@@ -170,13 +170,6 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iPic/iPicIntroduce1.html</loc>
-    
-    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://toolinbox.net/iPic/iPicIntroduce2.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
@@ -192,6 +185,13 @@
   
   <url>
     <loc>https://toolinbox.net/iPic/AddQiniuImageHost.html</loc>
+    
+    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iPic/iPicIntroduce1.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
