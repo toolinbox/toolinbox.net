@@ -27,7 +27,8 @@
 		var version = query.version;
 		var os = query.os;
 
-		if (lang == 'cn' || lang == 'en-CN' || lang == 'zh-Hans' || lang == 'zh-Hans-CN') {
+		var langLowerCase = lang.toLowerCase();
+		if (langLowerCase.indexOf("cn") !== -1 || langLowerCase.indexOf("zh") !== -1 || langLowerCase.indexOf("hans") !== -1) {
 			v_title = "反馈";
 			HS.beacon.config({
 				modal: v_modal,
