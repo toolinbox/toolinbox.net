@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://toolinbox.net/Klib/index.html</loc>
-    
-    <lastmod>2017-08-17T03:25:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://toolinbox.net/iPaste/index.html</loc>
     
-    <lastmod>2017-07-25T08:28:22.000Z</lastmod>
+    <lastmod>2017-09-18T10:31:28.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://toolinbox.net/iPaste/ChangeLog.html</loc>
     
-    <lastmod>2017-07-25T04:54:41.000Z</lastmod>
+    <lastmod>2017-09-18T07:14:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/Klib/index.html</loc>
+    
+    <lastmod>2017-08-17T03:25:28.000Z</lastmod>
     
   </url>
   
@@ -177,7 +177,7 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
+    <loc>https://toolinbox.net/iPic/iPicIntroduce1.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
@@ -198,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iPic/iPicIntroduce1.html</loc>
+    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
