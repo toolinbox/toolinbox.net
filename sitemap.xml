@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://toolinbox.net/iPaste/iPaste.html</loc>
+    
+    <lastmod>2017-10-08T07:57:41.289Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iHosts/iHosts.html</loc>
+    
+    <lastmod>2017-10-08T07:56:20.532Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://toolinbox.net/iPaste/index.html</loc>
     
     <lastmod>2017-09-19T08:35:46.000Z</lastmod>
@@ -51,23 +65,9 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iHosts/iHosts.html</loc>
-    
-    <lastmod>2017-04-24T09:53:11.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://toolinbox.net/iPic/iPic.html</loc>
     
     <lastmod>2017-04-24T08:51:32.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iPaste/iPaste.html</loc>
-    
-    <lastmod>2017-04-24T08:51:29.000Z</lastmod>
     
   </url>
   
@@ -170,6 +170,20 @@
   </url>
   
   <url>
+    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
+    
+    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
+    
+    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://toolinbox.net/iPic/AddQiniuImageHost.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
@@ -184,21 +198,7 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
-    
-    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://toolinbox.net/iPic/iPicIntroduce1.html</loc>
-    
-    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
