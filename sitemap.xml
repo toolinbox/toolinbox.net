@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://toolinbox.net/iPic/ChangeLog.html</loc>
+    
+    <lastmod>2017-10-21T16:12:42.106Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://toolinbox.net/iPic/AddTencentCOS.html</loc>
     
     <lastmod>2017-10-19T14:04:13.266Z</lastmod>
@@ -54,13 +61,6 @@
     <loc>https://toolinbox.net/Klib/Klib.html</loc>
     
     <lastmod>2017-06-19T23:03:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iPic/ChangeLog.html</loc>
-    
-    <lastmod>2017-05-18T14:45:58.000Z</lastmod>
     
   </url>
   
@@ -177,7 +177,7 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
+    <loc>https://toolinbox.net/iPic/iPicIntroduce2.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
@@ -191,14 +191,7 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iPic/iPicIntroduce2.html</loc>
-    
-    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iPic/iPicIntroduce1.html</loc>
+    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
@@ -206,6 +199,13 @@
   
   <url>
     <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
+    
+    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iPic/iPicIntroduce1.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
