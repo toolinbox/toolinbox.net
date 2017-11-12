@@ -136,6 +136,26 @@
   </entry>
   
   <entry>
+    <title>iText - 截图识字</title>
+    <link href="https://toolinbox.net/iText/Beta.html"/>
+    <id>https://toolinbox.net/iText/Beta.html</id>
+    <published>2017-03-10T00:08:08.000Z</published>
+    <updated>2017-11-12T14:43:09.616Z</updated>
+    
+    <content type="html"><![CDATA[<p>iText 是一款从图片中识别文字的 OCR 工具。</p><ul><li>集成百度深度学习算法，识别结果惊人的准确</li><li>配合截图、拖拽、选择图片文件等方式，操作非常便利</li></ul><h2 id="通过截图识别"><a href="#通过截图识别" class="headerlink" title="通过截图识别"></a>通过截图识别</h2><p>选择屏幕任意区域，立即识别其中的文字。</p><p><img src="https://ws2.sinaimg.cn/large/006tKfTcgy1flfolsdootg30g20cwdrs.gif" alt=""></p><p>配合快捷键，截图更方便。默认快捷键为 <code>⇧⌘1</code>；当然，你可以在 iText 偏好设置中修改。</p><h2 id="通过拖拽识别"><a href="#通过拖拽识别" class="headerlink" title="通过拖拽识别"></a>通过拖拽识别</h2><p>比如，你在网上看到了一张图片、或者本地有个图片文件，都可以拖拽至 iText 菜单栏图标进行识别。</p><p><img src="https://ws1.sinaimg.cn/large/006tKfTcgy1flfolnx0v4g30g60cs4b4.gif" alt=""></p><h2 id="通过选择图片文件识别"><a href="#通过选择图片文件识别" class="headerlink" title="通过选择图片文件识别"></a>通过选择图片文件识别</h2><p>当然，你也可以在 iText 菜单中选择图片文件进行识别。</p><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>目前，iText 还处于封闭内测期。如需体验，请联系：<a href="mailto:iToolinbox+iText@gmail.com" target="_blank" rel="external">iToolinbox+iText@gmail.com</a></p><p>如果你觉得 iText 还可以改进，欢迎：</p><ul><li><a href="https://toolinbox.net/html/feedback.html?lang=cn&amp;app=iText">在这里留言</a></li><li><a href="https://telegram.me/toolinbox" target="_blank" rel="external">加入 Telegram 群</a></li><li>微信扫码入群：</li></ul><p><img src="https://toolinbox.net/html/iPic/iPicGroup.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;iText 是一款从图片中识别文字的 OCR 工具。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;集成百度深度学习算法，识别结果惊人的准确&lt;/li&gt;&lt;li&gt;配合截图、拖拽、选择图片文件等方式，操作非常便利&lt;/li&gt;&lt;/ul&gt;&lt;h2 id=&quot;通过截图识别&quot;&gt;&lt;a href=&quot;#通过截图识别&quot; cl
+    
+    </summary>
+    
+      <category term="iText" scheme="https://toolinbox.net/categories/iText/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Klib 成功上架 Mac App Store</title>
     <link href="https://toolinbox.net/Klib/KlibMAS.html"/>
     <id>https://toolinbox.net/Klib/KlibMAS.html</id>
@@ -196,26 +216,6 @@
   </entry>
   
   <entry>
-    <title>在 iPic 中添加 Amazon S3 图床</title>
-    <link href="https://toolinbox.net/iPic/AddS3.html"/>
-    <id>https://toolinbox.net/iPic/AddS3.html</id>
-    <published>2016-12-09T00:08:08.000Z</published>
-    <updated>2017-04-23T14:55:32.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Amazon Simple Storage Service (<a href="https://aws.amazon.com/s3/" target="_blank" rel="external">Amazon S3</a>) 可轻松使用对象存储，具有简单的 Web 服务接口，可用于在 Web 上的任何位置存储和检索任意数量的数据。更多介绍，可参考 <a href="http://docs.aws.amazon.com/zh_cn/AmazonS3/latest/gsg/GetStartedWithS3.html" target="_blank" rel="external">Amazon S3 入门指南</a></p><h1 id="在-iPic-中添加-Amazon-S3-图床"><a href="#在-iPic-中添加-Amazon-S3-图床" class="headerlink" title="在 iPic 中添加 Amazon S3 图床"></a>在 iPic 中添加 Amazon S3 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>Amazon S3</code></p><p><img src="https://ohpsctde4.qnssl.com/s1hej.jpg" alt=""></p><p>以下分别介绍各项的意义及如何配置：</p><ul><li><code>Bucket</code><ul><li>即 Amazon S3 中对应的 Bucket</li></ul></li><li><code>Access Key</code> 与 <code>Secret Key</code><ul><li>推荐使用 Amazon 的 <a href="http://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html" target="_blank" rel="external">AWS Identity and Access Management (IAM) </a>来创建更安全的 Access Key 与 Secret Key，并设置对 Bucket 的最少权限</li></ul></li><li><code>网址前缀</code><ul><li>用于生成上传图片的完成 Http 路径，比如 <em><a href="https://ipic-test.s3.amazonaws.com" target="_blank" rel="external">https://ipic-test.s3.amazonaws.com</a></em></li><li>如果你绑定了域名，可以使用绑定的域名</li></ul></li></ul><p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传的图片。</p><a id="more"></a><p>除了上述基本的设置，Amazon S3 还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p><p><img src="https://ohpsctde4.qnssl.com/sjlh5.jpg" alt=""></p><ul><li><code>网址前缀</code><ul><li>和前文介绍的一致</li></ul></li><li><code>文件名前缀</code><ul><li>可简单理解为 Amazon S3 中的目录</li><li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="https://ipic-test.s3.amazonaws.com/blog/pic.jpg" target="_blank" rel="external">https://ipic-test.s3.amazonaws.com/blog/pic.jpg</a></em></li></ul></li><li><code>自定义文件名</code><ul><li>支持以下三种文件名</li><li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li><li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li><li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li></ul></li><li><code>网址后缀</code><ul><li>即在网址最后追加自定义的内容，为以后扩展预留</li></ul></li></ul><p>最后，点击 <strong>应用</strong> 按钮进行保存。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Amazon Simple Storage Service (&lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt;) 可轻松使用对象存储，具有简单的 Web 服务接口，可用于在 Web 上的任何位置存储和检索任意数量的数据。更多介绍，可参考 &lt;a href=&quot;http://docs.aws.amazon.com/zh_cn/AmazonS3/latest/gsg/GetStartedWithS3.html&quot;&gt;Amazon S3 入门指南&lt;/a&gt;&lt;/p&gt;&lt;h1 id=&quot;在-iPic-中添加-Amazon-S3-图床&quot;&gt;&lt;a href=&quot;#在-iPic-中添加-Amazon-S3-图床&quot; class=&quot;headerlink&quot; title=&quot;在 iPic 中添加 Amazon S3 图床&quot;&gt;&lt;/a&gt;在 iPic 中添加 Amazon S3 图床&lt;/h1&gt;&lt;p&gt;打开 &lt;code&gt;偏好设置&lt;/code&gt;，进入 &lt;code&gt;图床&lt;/code&gt; 页，选择添加 &lt;code&gt;Amazon S3&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/s1hej.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;以下分别介绍各项的意义及如何配置：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;&lt;li&gt;即 Amazon S3 中对应的 Bucket&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;&lt;li&gt;推荐使用 Amazon 的 &lt;a href=&quot;http://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html&quot;&gt;AWS Identity and Access Management (IAM) &lt;/a&gt;来创建更安全的 Access Key 与 Secret Key，并设置对 Bucket 的最少权限&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;网址前缀&lt;/code&gt;&lt;ul&gt;&lt;li&gt;用于生成上传图片的完成 Http 路径，比如 &lt;em&gt;&lt;a href=&quot;https://ipic-test.s3.amazonaws.com&quot;&gt;https://ipic-test.s3.amazonaws.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;li&gt;如果你绑定了域名，可以使用绑定的域名&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;完成输入后，可以点击 &lt;strong&gt;验证&lt;/strong&gt; 按钮。如果输入没有问题，则右侧会出现 &lt;strong&gt;通过&lt;/strong&gt; 链接，点击后就可以看到测试时上传的图片。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>在 iPic 中添加又拍云</title>
     <link href="https://toolinbox.net/iPic/AddUpYunImageHost.html"/>
     <id>https://toolinbox.net/iPic/AddUpYunImageHost.html</id>
@@ -227,6 +227,26 @@
     <summary type="html">
     
       &lt;p&gt;最近大家多次提到在 iPic 中支持&lt;code&gt;又拍云&lt;/code&gt;，于是 iPic 就支持了&lt;code&gt;又拍云&lt;/code&gt;。&lt;/p&gt;&lt;h1 id=&quot;注册又拍云账户&quot;&gt;&lt;a href=&quot;#注册又拍云账户&quot; class=&quot;headerlink&quot; title=&quot;注册又拍云账户&quot;&gt;&lt;/a&gt;注册又拍云账户&lt;/h1&gt;&lt;p&gt;这点比较简单，直接到 &lt;a href=&quot;https://console.upyun.com/#/register/&quot;&gt;这里&lt;/a&gt; 注册即可。&lt;/p&gt;&lt;h1 id=&quot;在又拍云中添加资源&quot;&gt;&lt;a href=&quot;#在又拍云中添加资源&quot; class=&quot;headerlink&quot; title=&quot;在又拍云中添加资源&quot;&gt;&lt;/a&gt;在又拍云中添加资源&lt;/h1&gt;&lt;p&gt;又拍的数据处理是以 &lt;strong&gt;服务&lt;/strong&gt; 为单位的。登录又拍后，进入 &lt;a href=&quot;https://console.upyun.com/#/services/&quot;&gt;服务&lt;/a&gt; 页面。下面简单介绍注册的过程（图在上、文字介绍在下）：&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/ahyp3.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;点击 &lt;code&gt;创建服务&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>在 iPic 中添加 Amazon S3 图床</title>
+    <link href="https://toolinbox.net/iPic/AddS3.html"/>
+    <id>https://toolinbox.net/iPic/AddS3.html</id>
+    <published>2016-12-09T00:08:08.000Z</published>
+    <updated>2017-04-23T14:55:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Amazon Simple Storage Service (<a href="https://aws.amazon.com/s3/" target="_blank" rel="external">Amazon S3</a>) 可轻松使用对象存储，具有简单的 Web 服务接口，可用于在 Web 上的任何位置存储和检索任意数量的数据。更多介绍，可参考 <a href="http://docs.aws.amazon.com/zh_cn/AmazonS3/latest/gsg/GetStartedWithS3.html" target="_blank" rel="external">Amazon S3 入门指南</a></p><h1 id="在-iPic-中添加-Amazon-S3-图床"><a href="#在-iPic-中添加-Amazon-S3-图床" class="headerlink" title="在 iPic 中添加 Amazon S3 图床"></a>在 iPic 中添加 Amazon S3 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>Amazon S3</code></p><p><img src="https://ohpsctde4.qnssl.com/s1hej.jpg" alt=""></p><p>以下分别介绍各项的意义及如何配置：</p><ul><li><code>Bucket</code><ul><li>即 Amazon S3 中对应的 Bucket</li></ul></li><li><code>Access Key</code> 与 <code>Secret Key</code><ul><li>推荐使用 Amazon 的 <a href="http://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html" target="_blank" rel="external">AWS Identity and Access Management (IAM) </a>来创建更安全的 Access Key 与 Secret Key，并设置对 Bucket 的最少权限</li></ul></li><li><code>网址前缀</code><ul><li>用于生成上传图片的完成 Http 路径，比如 <em><a href="https://ipic-test.s3.amazonaws.com" target="_blank" rel="external">https://ipic-test.s3.amazonaws.com</a></em></li><li>如果你绑定了域名，可以使用绑定的域名</li></ul></li></ul><p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传的图片。</p><a id="more"></a><p>除了上述基本的设置，Amazon S3 还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p><p><img src="https://ohpsctde4.qnssl.com/sjlh5.jpg" alt=""></p><ul><li><code>网址前缀</code><ul><li>和前文介绍的一致</li></ul></li><li><code>文件名前缀</code><ul><li>可简单理解为 Amazon S3 中的目录</li><li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="https://ipic-test.s3.amazonaws.com/blog/pic.jpg" target="_blank" rel="external">https://ipic-test.s3.amazonaws.com/blog/pic.jpg</a></em></li></ul></li><li><code>自定义文件名</code><ul><li>支持以下三种文件名</li><li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li><li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li><li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li></ul></li><li><code>网址后缀</code><ul><li>即在网址最后追加自定义的内容，为以后扩展预留</li></ul></li></ul><p>最后，点击 <strong>应用</strong> 按钮进行保存。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Amazon Simple Storage Service (&lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt;) 可轻松使用对象存储，具有简单的 Web 服务接口，可用于在 Web 上的任何位置存储和检索任意数量的数据。更多介绍，可参考 &lt;a href=&quot;http://docs.aws.amazon.com/zh_cn/AmazonS3/latest/gsg/GetStartedWithS3.html&quot;&gt;Amazon S3 入门指南&lt;/a&gt;&lt;/p&gt;&lt;h1 id=&quot;在-iPic-中添加-Amazon-S3-图床&quot;&gt;&lt;a href=&quot;#在-iPic-中添加-Amazon-S3-图床&quot; class=&quot;headerlink&quot; title=&quot;在 iPic 中添加 Amazon S3 图床&quot;&gt;&lt;/a&gt;在 iPic 中添加 Amazon S3 图床&lt;/h1&gt;&lt;p&gt;打开 &lt;code&gt;偏好设置&lt;/code&gt;，进入 &lt;code&gt;图床&lt;/code&gt; 页，选择添加 &lt;code&gt;Amazon S3&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/s1hej.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;以下分别介绍各项的意义及如何配置：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;&lt;li&gt;即 Amazon S3 中对应的 Bucket&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;&lt;li&gt;推荐使用 Amazon 的 &lt;a href=&quot;http://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html&quot;&gt;AWS Identity and Access Management (IAM) &lt;/a&gt;来创建更安全的 Access Key 与 Secret Key，并设置对 Bucket 的最少权限&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;网址前缀&lt;/code&gt;&lt;ul&gt;&lt;li&gt;用于生成上传图片的完成 Http 路径，比如 &lt;em&gt;&lt;a href=&quot;https://ipic-test.s3.amazonaws.com&quot;&gt;https://ipic-test.s3.amazonaws.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;li&gt;如果你绑定了域名，可以使用绑定的域名&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;完成输入后，可以点击 &lt;strong&gt;验证&lt;/strong&gt; 按钮。如果输入没有问题，则右侧会出现 &lt;strong&gt;通过&lt;/strong&gt; 链接，点击后就可以看到测试时上传的图片。&lt;/p&gt;
     
     </summary>
     
@@ -387,26 +407,6 @@
     <summary type="html">
     
       &lt;h1 id=&quot;v1-5-0&quot;&gt;&lt;a href=&quot;#v1-5-0&quot; class=&quot;headerlink&quot; title=&quot;v1.5.0&quot;&gt;&lt;/a&gt;v1.5.0&lt;/h1&gt;&lt;p&gt;2017/10/23&lt;/p&gt;&lt;ul&gt;&lt;li&gt;支持上传图片至腾讯云 COS&lt;/li&gt;&lt;li&gt;可直接拖拽 GIF 图片上传&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v1-4-8&quot;&gt;&lt;a href=&quot;#v1-4-8&quot; class=&quot;headerlink&quot; title=&quot;v1.4.8&quot;&gt;&lt;/a&gt;v1.4.8&lt;/h1&gt;&lt;p&gt;2017/05/19&lt;/p&gt;&lt;ul&gt;&lt;li&gt;问题修复与性能改进&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v1-4-0&quot;&gt;&lt;a href=&quot;#v1-4-0&quot; class=&quot;headerlink&quot; title=&quot;v1.4.0&quot;&gt;&lt;/a&gt;v1.4.0&lt;/h1&gt;&lt;p&gt;2016/12/21&lt;/p&gt;&lt;ul&gt;&lt;li&gt;上传前压缩图片&lt;/li&gt;&lt;li&gt;全面适配 https&lt;/li&gt;&lt;li&gt;支持 &lt;a href=&quot;https://toolinbox.net/iPic/iPicMover.html&quot;&gt;iPic Mover&lt;/a&gt;，一键迁移 Markdown 中所有图片&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v1-3-1&quot;&gt;&lt;a href=&quot;#v1-3-1&quot; class=&quot;headerlink&quot; title=&quot;v1.3.1&quot;&gt;&lt;/a&gt;v1.3.1&lt;/h1&gt;&lt;p&gt;2016/10/18&lt;/p&gt;&lt;ul&gt;&lt;li&gt;七牛支持华南、北美节点&lt;/li&gt;&lt;li&gt;可以复制图床&lt;/li&gt;&lt;li&gt;内嵌 &lt;a href=&quot;https://github.com/toolinbox/iPicUploader&quot;&gt;iPicUploader&lt;/a&gt; 上传服务&lt;/li&gt;&lt;li&gt;适配 Swift 3.0&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v1-2-0&quot;&gt;&lt;a href=&quot;#v1-2-0&quot; class=&quot;headerlink&quot; title=&quot;v1.2.0&quot;&gt;&lt;/a&gt;v1.2.0&lt;/h1&gt;&lt;p&gt;2016/08/29&lt;/p&gt;&lt;ul&gt;&lt;li&gt;新增 &lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt; 图床&lt;/li&gt;&lt;li&gt;修复 Bug&lt;ul&gt;&lt;li&gt;批量上传图片时，链接顺序与选择的一致&lt;/li&gt;&lt;li&gt;从 Dock 栏文件夹中拖动上传有时没反应&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v1-1-2&quot;&gt;&lt;a href=&quot;#v1-1-2&quot; class=&quot;headerlink&quot; title=&quot;v1.1.2&quot;&gt;&lt;/a&gt;v1.1.2&lt;/h1&gt;&lt;p&gt;2016/08/21&lt;/p&gt;&lt;ul&gt;&lt;li&gt;新增 &lt;a href=&quot;https://www.aliyun.com/product/oss&quot;&gt;阿里云 OSS&lt;/a&gt; 图床&lt;/li&gt;&lt;li&gt;优化七牛上传速度&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>iPic - 从未插得如此顺滑（有动图）</title>
-    <link href="https://toolinbox.net/iPic/iPicIntroduce1.html"/>
-    <id>https://toolinbox.net/iPic/iPicIntroduce1.html</id>
-    <published>2016-05-17T12:50:42.000Z</published>
-    <updated>2017-04-23T08:21:21.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://ww4.sinaimg.cn/large/006tNc79gw1fah01ehhjwg30qo0f0e84.gif" alt="iPic1.gif"></p><p>只要在 iPic 中开启自动上传，不论屏幕截图、还是复制图片文件，都将自动上传至微博图床、并复制 Markdown 格式的链接，直接粘贴插入，够懒人吧？</p><p>写博客、在V2EX 发帖、在知乎讨论、在豆瓣灌水 …</p><p><strong>有了iPic，插图从未如此顺滑！</strong></p><h1 id="我也要体验"><a href="#我也要体验" class="headerlink" title="我也要体验"></a>我也要体验</h1><p>来来来，发邮件至 iToolinbox+iPic#gmail.com，邮件中回答以下问题即可。</p><ul><li>你在什么场景下需要插入图片？<ul><li>比如写博客、在 V2EX 发贴</li></ul></li><li>你目前是怎么做的？<ul><li>比如使用论坛本身的插图功能</li></ul></li><li>你最希望这种工具有什么功能？<ul><li>比如支持其它图床</li></ul></li></ul><p><img src="https://ww4.sinaimg.cn/large/006tNc79gw1fah01i82l8g30qo0f0e84.gif" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ww4.sinaimg.cn/large/006tNc79gw1fah01ehhjwg30qo0f0e84.gif&quot; alt=&quot;iPic1.gif&quot;&gt;&lt;/p&gt;&lt;p&gt;只要在 iPic 中开启自动上传，不论屏幕截图、还是复制图片文件，都将自动
     
     </summary>
     
