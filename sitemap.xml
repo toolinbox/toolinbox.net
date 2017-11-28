@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://toolinbox.net/Klib/index.html</loc>
+    
+    <lastmod>2017-11-28T08:54:43.284Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iHosts/index.html</loc>
+    
+    <lastmod>2017-11-28T08:54:40.568Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iPaste/index.html</loc>
+    
+    <lastmod>2017-11-28T08:54:36.768Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iTimer/index.html</loc>
+    
+    <lastmod>2017-11-28T08:54:32.435Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iPic/index.html</loc>
+    
+    <lastmod>2017-11-28T08:54:26.907Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iText/index.html</loc>
+    
+    <lastmod>2017-11-28T08:54:12.619Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://toolinbox.net/Klib/Klib.html</loc>
     
     <lastmod>2017-11-28T08:50:55.690Z</lastmod>
@@ -40,48 +82,6 @@
     <loc>https://toolinbox.net/iPic/iPic.html</loc>
     
     <lastmod>2017-11-28T08:50:38.201Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iTimer/index.html</loc>
-    
-    <lastmod>2017-11-28T08:47:03.113Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iHosts/index.html</loc>
-    
-    <lastmod>2017-11-28T08:46:35.612Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iPaste/index.html</loc>
-    
-    <lastmod>2017-11-28T08:46:00.025Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iPic/index.html</loc>
-    
-    <lastmod>2017-11-28T08:44:58.755Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/Klib/index.html</loc>
-    
-    <lastmod>2017-11-28T08:43:15.852Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iText/index.html</loc>
-    
-    <lastmod>2017-11-28T08:26:21.417Z</lastmod>
     
   </url>
   
@@ -198,6 +198,20 @@
   </url>
   
   <url>
+    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
+    
+    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
+    
+    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://toolinbox.net/iPic/iPicIntroduce1.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
@@ -212,21 +226,7 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
-    
-    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://toolinbox.net/iPic/iPicIntroduce2.html</loc>
-    
-    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
