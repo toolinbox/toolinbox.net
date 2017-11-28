@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://toolinbox.net/iText/index.html</loc>
+    
+    <lastmod>2017-11-28T12:33:46.278Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://toolinbox.net/Klib/index.html</loc>
     
     <lastmod>2017-11-28T08:54:43.284Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://toolinbox.net/iPic/index.html</loc>
     
     <lastmod>2017-11-28T08:54:26.907Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iText/index.html</loc>
-    
-    <lastmod>2017-11-28T08:54:12.619Z</lastmod>
     
   </url>
   
@@ -198,14 +198,14 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
+    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
+    <loc>https://toolinbox.net/iPic/iPicIntroduce2.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
@@ -226,7 +226,7 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iPic/iPicIntroduce2.html</loc>
+    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
