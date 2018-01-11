@@ -6,7 +6,7 @@
     <entry>
       <title><![CDATA[Klib - 重塑 Kindle 标注、笔记管理]]></title>
       <url>https://toolinbox.net/Klib/Klib.html</url>
-      <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://ps.toolinbox.net/kxvf1.png" width="200"></a></p><p><strong>Klib</strong> (<strong>K</strong>indle <strong>lib</strong>rary) 是全新的 Kindle、iBooks 标注、笔记管理工具，macOS 平台。</p><p><strong>为笔记而生：</strong></p><ul><li>隐藏已读：专注于当下阅读</li><li>回顾笔记：在 Kindle for macOS 中查看上下文，<strong>全球首创</strong></li><li>方便分享：以「<strong>Markdown</strong>」格式复制、导出至「<strong>印象笔记</strong>」(Evernote)</li><li>自由编辑、全面搜索：书名、作者、笔记、备注等</li></ul><p><strong>地表最强导入：</strong></p><ol><li>通过 USB 从「Kindle」导入</li><li>通过网络从「亚马逊」导入</li><li>导入「Kindle for iPhone」等客户端的标注笔记</li><li>导入 iBooks 中的 Highlights、Notes</li><li>导入「多看」系统中的书摘</li><li>使用 macOS 服务快速收集书摘</li></ol><p><strong><a href="/Klib/">查看 Klib 使用教程</a></strong></p><hr>]]></content>
+      <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://ps.toolinbox.net/kxvf1.png" width="200"></a></p><p><strong>Klib</strong> 是全新的标注、笔记管理工具，目前已支持 <strong>Kindle、iBooks、多看</strong>。</p><p><strong>为笔记而生：</strong></p><ul><li>隐藏已读：专注于当下阅读</li><li>回顾笔记：在 Kindle for macOS 中查看上下文，<strong>全球首创</strong></li><li>方便分享：以「<strong>Markdown</strong>」格式复制、导出至「<strong>印象笔记</strong>」(Evernote)</li><li>自由编辑、全面搜索：书名、作者、笔记、备注等</li></ul><p><strong>地表最强导入：</strong></p><ol><li>通过 USB 从「Kindle」导入</li><li>通过网络从「亚马逊」导入</li><li>导入「Kindle for iPhone」等客户端的标注笔记</li><li>导入 iBooks 中的 Highlights、Notes</li><li>导入「多看」系统中的书摘</li><li>使用 macOS 服务快速收集书摘</li></ol><p><strong><a href="/Klib/">查看 Klib 使用教程</a></strong></p><hr>]]></content>
       
         <categories>
             
@@ -340,20 +340,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[iPaste 更新日志]]></title>
-      <url>https://toolinbox.net/iPaste/ChangeLog.html</url>
-      <content type="html"><![CDATA[<h1 id="v2-1-0"><a href="#v2-1-0" class="headerlink" title="v2.1.0"></a>v2.1.0</h1><p>2017/10/19</p><ul><li>使用快捷键「Control-Command-A|B|C…」打开对应分组</li></ul><h1 id="v2-0-2"><a href="#v2-0-2" class="headerlink" title="v2.0.2"></a>v2.0.2</h1><p>2017/09/19</p><ul><li>可与 iPaste for iOS 同步</li><li>剪贴板历史增加标题</li></ul><h1 id="v1-5-1"><a href="#v1-5-1" class="headerlink" title="v1.5.1"></a>v1.5.1</h1><p>2017/07/25</p><ul><li>可使用分组管理钉住的历史</li><li>可自由编辑剪贴板历史</li><li>高级版历史数量上调为 30</li></ul><h1 id="v1-2-6"><a href="#v1-2-6" class="headerlink" title="v1.2.6"></a>v1.2.6</h1><p>2016/09/27</p><ul><li>贴贴板更名为 <strong>iPaste</strong>，并更新 Logo</li><li>增加剪切板历史数量</li><li>退出时保存剪切板历史</li><li>多次连续复制，不产生重复记录</li><li>可隐藏菜单栏图标</li></ul><h1 id="v0-8-2"><a href="#v0-8-2" class="headerlink" title="v0.8.2"></a>v0.8.2</h1><p>2015/12/18</p><ul><li>钉住常用的剪贴板历史</li></ul><a id="more"></a><h1 id="v0-7-0"><a href="#v0-7-0" class="headerlink" title="v0.7.0"></a>v0.7.0</h1><p>2015/12/07</p><ul><li>问题修复与体验改进</li></ul><h1 id="v0-6-1"><a href="#v0-6-1" class="headerlink" title="v0.6.1"></a>v0.6.1</h1><p>2015/11/28</p><ul><li>正式上架 Mac App Store</li></ul>]]></content>
-      
-        <categories>
-            
-            <category> iPaste </category>
-            
-        </categories>
-        
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[iTimer 更新日志]]></title>
       <url>https://toolinbox.net/iTimer/ChangeLog.html</url>
       <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p>2016/12/28</p><ul><li>可自定义计时器时长</li><li>适配 Swift 3</li></ul><h1 id="v1-2-3"><a href="#v1-2-3" class="headerlink" title="v1.2.3"></a>v1.2.3</h1><p>2016/09/26</p><ul><li>意念钟更名为 <strong>iTimer</strong>，并更新 Logo</li><li>增加更多计时器</li><li>支持 macOS Sierra</li></ul><a id="more"></a><h1 id="v0-6-2"><a href="#v0-6-2" class="headerlink" title="v0.6.2"></a>v0.6.2</h1><p>2015/12/15</p><ul><li>提醒你开始计时</li><li>支持开机自启动</li></ul><h1 id="v0-5-1"><a href="#v0-5-1" class="headerlink" title="v0.5.1"></a>v0.5.1</h1><p>2015/12/05</p><ul><li>正式上架 Mac App Store</li></ul>]]></content>
@@ -361,6 +347,20 @@
         <categories>
             
             <category> iTimer </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[iPaste 更新日志]]></title>
+      <url>https://toolinbox.net/iPaste/ChangeLog.html</url>
+      <content type="html"><![CDATA[<h1 id="v2-1-0"><a href="#v2-1-0" class="headerlink" title="v2.1.0"></a>v2.1.0</h1><p>2017/10/19</p><ul><li>使用快捷键「Control-Command-A|B|C…」打开对应分组</li></ul><h1 id="v2-0-2"><a href="#v2-0-2" class="headerlink" title="v2.0.2"></a>v2.0.2</h1><p>2017/09/19</p><ul><li>可与 iPaste for iOS 同步</li><li>剪贴板历史增加标题</li></ul><h1 id="v1-5-1"><a href="#v1-5-1" class="headerlink" title="v1.5.1"></a>v1.5.1</h1><p>2017/07/25</p><ul><li>可使用分组管理钉住的历史</li><li>可自由编辑剪贴板历史</li><li>高级版历史数量上调为 30</li></ul><h1 id="v1-2-6"><a href="#v1-2-6" class="headerlink" title="v1.2.6"></a>v1.2.6</h1><p>2016/09/27</p><ul><li>贴贴板更名为 <strong>iPaste</strong>，并更新 Logo</li><li>增加剪切板历史数量</li><li>退出时保存剪切板历史</li><li>多次连续复制，不产生重复记录</li><li>可隐藏菜单栏图标</li></ul><h1 id="v0-8-2"><a href="#v0-8-2" class="headerlink" title="v0.8.2"></a>v0.8.2</h1><p>2015/12/18</p><ul><li>钉住常用的剪贴板历史</li></ul><a id="more"></a><h1 id="v0-7-0"><a href="#v0-7-0" class="headerlink" title="v0.7.0"></a>v0.7.0</h1><p>2015/12/07</p><ul><li>问题修复与体验改进</li></ul><h1 id="v0-6-1"><a href="#v0-6-1" class="headerlink" title="v0.6.1"></a>v0.6.1</h1><p>2015/11/28</p><ul><li>正式上架 Mac App Store</li></ul>]]></content>
+      
+        <categories>
+            
+            <category> iPaste </category>
             
         </categories>
         
