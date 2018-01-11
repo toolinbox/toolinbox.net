@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://toolinbox.net/"/>
-  <updated>2018-01-11T07:08:25.603Z</updated>
+  <updated>2018-01-11T07:28:08.190Z</updated>
   <id>https://toolinbox.net/</id>
   
   <author>
@@ -16,13 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Klib - 重塑 Kindle 标注、笔记管理</title>
+    <title>Klib - Kindle、iBooks、多看标注管理</title>
     <link href="https://toolinbox.net/Klib/Klib.html"/>
     <id>https://toolinbox.net/Klib/Klib.html</id>
     <published>2017-11-28T02:00:00.000Z</published>
-    <updated>2018-01-11T07:08:25.603Z</updated>
+    <updated>2018-01-11T07:28:08.190Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://ps.toolinbox.net/kxvf1.png" width="200"></a></p><p><strong>Klib</strong> 是全新的标注、笔记管理工具，目前已支持 <strong>Kindle、iBooks、多看</strong>。</p><p><strong>为笔记而生：</strong></p><ul><li>隐藏已读：专注于当下阅读</li><li>回顾笔记：在 Kindle for macOS 中查看上下文，<strong>全球首创</strong></li><li>方便分享：以「<strong>Markdown</strong>」格式复制、导出至「<strong>印象笔记</strong>」(Evernote)</li><li>自由编辑、全面搜索：书名、作者、笔记、备注等</li></ul><p><strong>地表最强导入：</strong></p><ol><li>通过 USB 从「Kindle」导入</li><li>通过网络从「亚马逊」导入</li><li>导入「Kindle for iPhone」等客户端的标注笔记</li><li>导入 iBooks 中的 Highlights、Notes</li><li>导入「多看」系统中的书摘</li><li>使用 macOS 服务快速收集书摘</li></ol><p><strong><a href="/Klib/">查看 Klib 使用教程</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://ps.toolinbox.net/kxvf1.png" width="200"></a></p><p><strong>Klib 是全新的读书笔记管理工具，目前已支持 Kindle、iBooks、多看。</strong></p><p><strong>为笔记而生：</strong></p><ul><li>隐藏已读：专注于当下阅读</li><li>回顾笔记：在 Kindle for macOS 中查看上下文，<strong>全球首创</strong></li><li>方便分享：以「<strong>Markdown</strong>」格式复制、导出至「<strong>印象笔记</strong>」(Evernote)</li><li>自由编辑、全面搜索：书名、作者、笔记、备注等</li></ul><p><strong>地表最强导入：</strong></p><ol><li>通过 USB 从「Kindle」导入</li><li>通过网络从「亚马逊」导入</li><li>导入「Kindle for iPhone」等客户端的标注笔记</li><li>导入 iBooks 中的 Highlights、Notes</li><li>导入「多看」系统中的书摘</li><li>使用 macOS 服务快速收集书摘</li></ol><p><strong><a href="/Klib/">查看 Klib 使用教程</a></strong></p><hr>]]></content>
     
     <summary type="html">
     
@@ -236,26 +236,6 @@
   </entry>
   
   <entry>
-    <title>在 iPic 中添加又拍云</title>
-    <link href="https://toolinbox.net/iPic/AddUpYunImageHost.html"/>
-    <id>https://toolinbox.net/iPic/AddUpYunImageHost.html</id>
-    <published>2016-12-09T00:08:08.000Z</published>
-    <updated>2017-04-23T14:55:42.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>最近大家多次提到在 iPic 中支持<code>又拍云</code>，于是 iPic 就支持了<code>又拍云</code>。</p><h1 id="注册又拍云账户"><a href="#注册又拍云账户" class="headerlink" title="注册又拍云账户"></a>注册又拍云账户</h1><p>这点比较简单，直接到 <a href="https://console.upyun.com/#/register/" target="_blank" rel="external">这里</a> 注册即可。</p><h1 id="在又拍云中添加资源"><a href="#在又拍云中添加资源" class="headerlink" title="在又拍云中添加资源"></a>在又拍云中添加资源</h1><p>又拍的数据处理是以 <strong>服务</strong> 为单位的。登录又拍后，进入 <a href="https://console.upyun.com/#/services/" target="_blank" rel="external">服务</a> 页面。下面简单介绍注册的过程（图在上、文字介绍在下）：</p><p><img src="https://ohpsctde4.qnssl.com/ahyp3.jpg" alt=""></p><ul><li>点击 <code>创建服务</code></li></ul><a id="more"></a><p><img src="https://ohpsctde4.qnssl.com/cgmyw.jpg" alt=""></p><ul><li>输入 <code>服务名称</code></li></ul><p><img src="https://ohpsctde4.qnssl.com/rk4by.jpg" alt=""></p><ul><li>选择 <code>又拍云存储</code></li></ul><p><img src="https://ohpsctde4.qnssl.com/0d6ak.jpg" alt=""></p><ul><li>添加操作员。注意：至少选中 <code>可写入</code> 权限</li></ul><p><img src="https://ohpsctde4.qnssl.com/10rti.jpg" alt=""></p><ul><li>创建完成</li></ul><h1 id="在-iPic-中添加又拍图床"><a href="#在-iPic-中添加又拍图床" class="headerlink" title="在 iPic 中添加又拍图床"></a>在 iPic 中添加又拍图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>又拍</code>。以下分别介绍各项的意义及如何配置：</p><p><img src="https://ohpsctde4.qnssl.com/ihqg0.png" alt=""></p><ul><li><code>服务</code><ul><li>就是刚才创建的 <em>资源</em>，这里即是 <em>ipic-test</em></li></ul></li><li><code>操作员</code> 与 <code>密码</code><ul><li>就是刚才创建的 <em>操作员</em> 及其 <em>密码</em></li></ul></li><li><code>网址前缀</code><ul><li>用于生成上传图片的完成 Http 路径，比如 <em><a href="http://ipic-test.b0.upaiyun.com/logo.jpg" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/logo.jpg</a></em></li><li>当输入服务时，网址前缀会自动填充，比如 <em><a href="http://ipic-test.b0.upaiyun.com/" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/</a></em></li><li>如果你绑定了域名，可以使用绑定的域名。</li></ul></li></ul><p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传至又拍的图片。</p><p>除了上述基本的设置，又拍图床还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p><p><img src="https://ohpsctde4.qnssl.com/wzz8v.jpg" alt=""></p><ul><li><code>网址前缀</code><ul><li>和前文介绍的一致</li></ul></li><li><code>文件名前缀</code><ul><li>可简单理解为图床中的目录</li><li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="http://ipic-test.b0.upaiyun.com/blog/pic.jpg" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/blog/pic.jpg</a></em></li></ul></li><li><code>自定义文件名</code><ul><li>支持以下三种文件名</li><li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li><li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li><li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li></ul></li><li><code>网址后缀</code><ul><li>可用于自定义图片版本。比如，在又拍中添加了名字为 <code>s</code> 的版本表示缩略图，间隔标识符为 <code>-</code>，则可以在 <code>网址后缀</code> 中输入 <code>-s</code>。这样之后每次上传图片生成的链接最后都会附上 <code>-s</code>，也即表示缩略图。</li></ul></li></ul><p>最后，点击 <strong>应用</strong> 按钮进行保存。</p><h1 id="使用又拍云"><a href="#使用又拍云" class="headerlink" title="使用又拍云"></a>使用又拍云</h1><p>在 <code>iPic 菜单 &gt; 图床</code> 中选择刚刚添加的又拍，之后上传的图片就会在又拍图床中。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;最近大家多次提到在 iPic 中支持&lt;code&gt;又拍云&lt;/code&gt;，于是 iPic 就支持了&lt;code&gt;又拍云&lt;/code&gt;。&lt;/p&gt;&lt;h1 id=&quot;注册又拍云账户&quot;&gt;&lt;a href=&quot;#注册又拍云账户&quot; class=&quot;headerlink&quot; title=&quot;注册又拍云账户&quot;&gt;&lt;/a&gt;注册又拍云账户&lt;/h1&gt;&lt;p&gt;这点比较简单，直接到 &lt;a href=&quot;https://console.upyun.com/#/register/&quot;&gt;这里&lt;/a&gt; 注册即可。&lt;/p&gt;&lt;h1 id=&quot;在又拍云中添加资源&quot;&gt;&lt;a href=&quot;#在又拍云中添加资源&quot; class=&quot;headerlink&quot; title=&quot;在又拍云中添加资源&quot;&gt;&lt;/a&gt;在又拍云中添加资源&lt;/h1&gt;&lt;p&gt;又拍的数据处理是以 &lt;strong&gt;服务&lt;/strong&gt; 为单位的。登录又拍后，进入 &lt;a href=&quot;https://console.upyun.com/#/services/&quot;&gt;服务&lt;/a&gt; 页面。下面简单介绍注册的过程（图在上、文字介绍在下）：&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/ahyp3.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;点击 &lt;code&gt;创建服务&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>在 iPic 中添加 Amazon S3 图床</title>
     <link href="https://toolinbox.net/iPic/AddS3.html"/>
     <id>https://toolinbox.net/iPic/AddS3.html</id>
@@ -267,6 +247,26 @@
     <summary type="html">
     
       &lt;p&gt;Amazon Simple Storage Service (&lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt;) 可轻松使用对象存储，具有简单的 Web 服务接口，可用于在 Web 上的任何位置存储和检索任意数量的数据。更多介绍，可参考 &lt;a href=&quot;http://docs.aws.amazon.com/zh_cn/AmazonS3/latest/gsg/GetStartedWithS3.html&quot;&gt;Amazon S3 入门指南&lt;/a&gt;&lt;/p&gt;&lt;h1 id=&quot;在-iPic-中添加-Amazon-S3-图床&quot;&gt;&lt;a href=&quot;#在-iPic-中添加-Amazon-S3-图床&quot; class=&quot;headerlink&quot; title=&quot;在 iPic 中添加 Amazon S3 图床&quot;&gt;&lt;/a&gt;在 iPic 中添加 Amazon S3 图床&lt;/h1&gt;&lt;p&gt;打开 &lt;code&gt;偏好设置&lt;/code&gt;，进入 &lt;code&gt;图床&lt;/code&gt; 页，选择添加 &lt;code&gt;Amazon S3&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/s1hej.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;以下分别介绍各项的意义及如何配置：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;&lt;li&gt;即 Amazon S3 中对应的 Bucket&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;&lt;li&gt;推荐使用 Amazon 的 &lt;a href=&quot;http://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html&quot;&gt;AWS Identity and Access Management (IAM) &lt;/a&gt;来创建更安全的 Access Key 与 Secret Key，并设置对 Bucket 的最少权限&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;网址前缀&lt;/code&gt;&lt;ul&gt;&lt;li&gt;用于生成上传图片的完成 Http 路径，比如 &lt;em&gt;&lt;a href=&quot;https://ipic-test.s3.amazonaws.com&quot;&gt;https://ipic-test.s3.amazonaws.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;li&gt;如果你绑定了域名，可以使用绑定的域名&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;完成输入后，可以点击 &lt;strong&gt;验证&lt;/strong&gt; 按钮。如果输入没有问题，则右侧会出现 &lt;strong&gt;通过&lt;/strong&gt; 链接，点击后就可以看到测试时上传的图片。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>在 iPic 中添加又拍云</title>
+    <link href="https://toolinbox.net/iPic/AddUpYunImageHost.html"/>
+    <id>https://toolinbox.net/iPic/AddUpYunImageHost.html</id>
+    <published>2016-12-09T00:08:08.000Z</published>
+    <updated>2017-04-23T14:55:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近大家多次提到在 iPic 中支持<code>又拍云</code>，于是 iPic 就支持了<code>又拍云</code>。</p><h1 id="注册又拍云账户"><a href="#注册又拍云账户" class="headerlink" title="注册又拍云账户"></a>注册又拍云账户</h1><p>这点比较简单，直接到 <a href="https://console.upyun.com/#/register/" target="_blank" rel="external">这里</a> 注册即可。</p><h1 id="在又拍云中添加资源"><a href="#在又拍云中添加资源" class="headerlink" title="在又拍云中添加资源"></a>在又拍云中添加资源</h1><p>又拍的数据处理是以 <strong>服务</strong> 为单位的。登录又拍后，进入 <a href="https://console.upyun.com/#/services/" target="_blank" rel="external">服务</a> 页面。下面简单介绍注册的过程（图在上、文字介绍在下）：</p><p><img src="https://ohpsctde4.qnssl.com/ahyp3.jpg" alt=""></p><ul><li>点击 <code>创建服务</code></li></ul><a id="more"></a><p><img src="https://ohpsctde4.qnssl.com/cgmyw.jpg" alt=""></p><ul><li>输入 <code>服务名称</code></li></ul><p><img src="https://ohpsctde4.qnssl.com/rk4by.jpg" alt=""></p><ul><li>选择 <code>又拍云存储</code></li></ul><p><img src="https://ohpsctde4.qnssl.com/0d6ak.jpg" alt=""></p><ul><li>添加操作员。注意：至少选中 <code>可写入</code> 权限</li></ul><p><img src="https://ohpsctde4.qnssl.com/10rti.jpg" alt=""></p><ul><li>创建完成</li></ul><h1 id="在-iPic-中添加又拍图床"><a href="#在-iPic-中添加又拍图床" class="headerlink" title="在 iPic 中添加又拍图床"></a>在 iPic 中添加又拍图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>又拍</code>。以下分别介绍各项的意义及如何配置：</p><p><img src="https://ohpsctde4.qnssl.com/ihqg0.png" alt=""></p><ul><li><code>服务</code><ul><li>就是刚才创建的 <em>资源</em>，这里即是 <em>ipic-test</em></li></ul></li><li><code>操作员</code> 与 <code>密码</code><ul><li>就是刚才创建的 <em>操作员</em> 及其 <em>密码</em></li></ul></li><li><code>网址前缀</code><ul><li>用于生成上传图片的完成 Http 路径，比如 <em><a href="http://ipic-test.b0.upaiyun.com/logo.jpg" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/logo.jpg</a></em></li><li>当输入服务时，网址前缀会自动填充，比如 <em><a href="http://ipic-test.b0.upaiyun.com/" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/</a></em></li><li>如果你绑定了域名，可以使用绑定的域名。</li></ul></li></ul><p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传至又拍的图片。</p><p>除了上述基本的设置，又拍图床还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p><p><img src="https://ohpsctde4.qnssl.com/wzz8v.jpg" alt=""></p><ul><li><code>网址前缀</code><ul><li>和前文介绍的一致</li></ul></li><li><code>文件名前缀</code><ul><li>可简单理解为图床中的目录</li><li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="http://ipic-test.b0.upaiyun.com/blog/pic.jpg" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/blog/pic.jpg</a></em></li></ul></li><li><code>自定义文件名</code><ul><li>支持以下三种文件名</li><li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li><li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li><li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li></ul></li><li><code>网址后缀</code><ul><li>可用于自定义图片版本。比如，在又拍中添加了名字为 <code>s</code> 的版本表示缩略图，间隔标识符为 <code>-</code>，则可以在 <code>网址后缀</code> 中输入 <code>-s</code>。这样之后每次上传图片生成的链接最后都会附上 <code>-s</code>，也即表示缩略图。</li></ul></li></ul><p>最后，点击 <strong>应用</strong> 按钮进行保存。</p><h1 id="使用又拍云"><a href="#使用又拍云" class="headerlink" title="使用又拍云"></a>使用又拍云</h1><p>在 <code>iPic 菜单 &gt; 图床</code> 中选择刚刚添加的又拍，之后上传的图片就会在又拍图床中。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近大家多次提到在 iPic 中支持&lt;code&gt;又拍云&lt;/code&gt;，于是 iPic 就支持了&lt;code&gt;又拍云&lt;/code&gt;。&lt;/p&gt;&lt;h1 id=&quot;注册又拍云账户&quot;&gt;&lt;a href=&quot;#注册又拍云账户&quot; class=&quot;headerlink&quot; title=&quot;注册又拍云账户&quot;&gt;&lt;/a&gt;注册又拍云账户&lt;/h1&gt;&lt;p&gt;这点比较简单，直接到 &lt;a href=&quot;https://console.upyun.com/#/register/&quot;&gt;这里&lt;/a&gt; 注册即可。&lt;/p&gt;&lt;h1 id=&quot;在又拍云中添加资源&quot;&gt;&lt;a href=&quot;#在又拍云中添加资源&quot; class=&quot;headerlink&quot; title=&quot;在又拍云中添加资源&quot;&gt;&lt;/a&gt;在又拍云中添加资源&lt;/h1&gt;&lt;p&gt;又拍的数据处理是以 &lt;strong&gt;服务&lt;/strong&gt; 为单位的。登录又拍后，进入 &lt;a href=&quot;https://console.upyun.com/#/services/&quot;&gt;服务&lt;/a&gt; 页面。下面简单介绍注册的过程（图在上、文字介绍在下）：&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/ahyp3.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;点击 &lt;code&gt;创建服务&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;
     
     </summary>
     
