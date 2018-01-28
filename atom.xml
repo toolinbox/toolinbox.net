@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://toolinbox.net/"/>
-  <updated>2018-01-11T07:28:08.190Z</updated>
+  <updated>2018-01-11T07:28:08.191Z</updated>
   <id>https://toolinbox.net/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://toolinbox.net/Klib/Klib.html"/>
     <id>https://toolinbox.net/Klib/Klib.html</id>
     <published>2017-11-28T02:00:00.000Z</published>
-    <updated>2018-01-11T07:28:08.190Z</updated>
+    <updated>2018-01-11T07:28:08.191Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://ps.toolinbox.net/kxvf1.png" width="200"></a></p><p><strong>Klib 是全新的读书笔记管理工具，目前已支持 Kindle、iBooks、多看。</strong></p><p><strong>为笔记而生：</strong></p><ul><li>隐藏已读：专注于当下阅读</li><li>回顾笔记：在 Kindle for macOS 中查看上下文，<strong>全球首创</strong></li><li>方便分享：以「<strong>Markdown</strong>」格式复制、导出至「<strong>印象笔记</strong>」(Evernote)</li><li>自由编辑、全面搜索：书名、作者、笔记、备注等</li></ul><p><strong>地表最强导入：</strong></p><ol><li>通过 USB 从「Kindle」导入</li><li>通过网络从「亚马逊」导入</li><li>导入「Kindle for iPhone」等客户端的标注笔记</li><li>导入 iBooks 中的 Highlights、Notes</li><li>导入「多看」系统中的书摘</li><li>使用 macOS 服务快速收集书摘</li></ol><p><strong><a href="/Klib/">查看 Klib 使用教程</a></strong></p><hr>]]></content>
     
@@ -100,7 +100,7 @@
     <link href="https://toolinbox.net/iHosts/iHosts.html"/>
     <id>https://toolinbox.net/iHosts/iHosts.html</id>
     <published>2017-11-27T22:00:00.000Z</published>
-    <updated>2017-11-28T08:50:51.507Z</updated>
+    <updated>2017-11-28T08:50:51.508Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1102004240?ls=1&mt=12&at=1000lv4R&ct=iHosts_home" target="_blank"><img src="https://ps.toolinbox.net/ou9fz.png" width="200"></a></p><p><strong>iHosts</strong>，唯一上架 Mac App Store 的 /etc/hosts 编辑神器，使用分组管理 Hosts，灵活组合、一键切换。可快速预览、实时查看 Hosts，支持语法着色。</p><p><strong><a href="/iHosts/">查看 iHosts 使用教程</a></strong></p><hr>]]></content>
     
@@ -120,7 +120,7 @@
     <link href="https://toolinbox.net/iTimer/iTimer.html"/>
     <id>https://toolinbox.net/iTimer/iTimer.html</id>
     <published>2017-11-27T21:00:00.000Z</published>
-    <updated>2017-11-28T08:50:41.602Z</updated>
+    <updated>2017-11-28T08:50:41.603Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1062139745?ls=1&mt=12&at=1000lv4R&ct=iTimer_home" target="_blank"><img src="https://ps.toolinbox.net/x8p47.png" width="200"></a></p><p><strong>iTimer</strong> 帮你专注于当下，也可用作番茄钟。非常简洁，只出现在菜单栏，用饼图表示剩余时间，可快速开始倒计时、或重新启动。</p><p><strong><a href="/iTimer/">查看 iTimer 使用教程</a></strong></p>]]></content>
     
@@ -140,7 +140,7 @@
     <link href="https://toolinbox.net/Klib/KlibExportAllHighlights.html"/>
     <id>https://toolinbox.net/Klib/KlibExportAllHighlights.html</id>
     <published>2017-10-21T00:08:00.000Z</published>
-    <updated>2018-01-20T15:55:24.618Z</updated>
+    <updated>2018-01-20T15:55:24.619Z</updated>
     
     <content type="html"><![CDATA[<p>使用 Kindle 的重度用户会知道，在 Kindle 上读书时可以任性标注，但在导出标注时则有限制：<strong>Kindle 限制能导出的标注的文字总数</strong>。这个比例没有明文规定，各本书也有不同，通常理解是一本书所有内容的 10%；一旦超出这一限制，导出时则会看到恼人的 <code>&lt;您已达到本内容的剪贴上限&gt;</code>。</p><p><img src="https://ps.toolinbox.net/r0f3c.png" alt=""></p><p>如果大家遇到这个问题，又实在想导出所有的标注，<strong>怎么办呢？可以这样操作</strong>：</p><ul><li>先使用 <a href="https://toolinbox.net/Klib/">Klib</a> 导入 Kindle 中的标注。</li><li>使用 Kindle for macOS 继续下面的操作（因为效率高）<ul><li><a href="https://www.amazon.cn/kindleformac" target="_blank" rel="external">点击这里，从亚马逊下载最新版 Kindle for macOS</a></li></ul></li><li>在 Kindle for macOS 中删除已经导入的标注。<ul><li>可以在 Klib 中查看最后一条标注的内容，在 Kindle for macOS 中搜索这条标注，然后删除这条标注前面所有的标注。</li><li>同时，在 Klib 中多选 <code>&lt;您已达到本内容的剪贴上限&gt;</code> 对应的标注，右击并删除。</li></ul></li><li>将剩下的标注导出为 html 文件，操作示意：<ul><li><img src="https://ohpsctde4.qnssl.com/vo0ua.jpg" alt=""></li></ul></li><li>使用 Klib 导入 html 文件<ul><li>点击 Klib <code>文件</code> 菜单，选择 <code>从 Kindle 导入…</code>，然后选择刚才导出的 html 文件。</li></ul></li><li>如果 Klib 依然有 <code>&lt;您已达到本内容的剪贴上限&gt;</code>，重复上面的步骤：删除已导入的、重新导出、然后导入。</li></ul><p>我测试过，这个办法是有效的。技术上，是 Kindle 在导出标注时，会机械地判断导出的内容是否过多。而一旦删除已经导入的标注，自然能向后延伸，导出后面更多的标注。</p><p>这个方法有 2 个潜在的问题需要注意：</p><ol><li>标注一旦导出，就无法在 Kindle 中展现了。</li><li>一旦删除，Amazon 是不会替你恢复的。<ul><li>你要自己保存标注（比如使用 Klib 管理，并定期备份）</li></ul></li></ol><p>这 2 点请大家知会。如果理解了，就可以放心地使用上述方法，<strong>完整导出你自己花时间做出的读书笔记</strong>。</p><p>祝，阅读愉快。</p>]]></content>
     
@@ -180,7 +180,7 @@
     <link href="https://toolinbox.net/iText/Beta.html"/>
     <id>https://toolinbox.net/iText/Beta.html</id>
     <published>2017-03-10T00:08:08.000Z</published>
-    <updated>2017-11-27T12:09:59.353Z</updated>
+    <updated>2017-11-27T12:09:59.354Z</updated>
     
     <content type="html"><![CDATA[<p>iText 是一款从图片中识别文字的 OCR 工具。</p><ul><li>集成百度深度学习算法，识别结果惊人的准确</li><li>配合截图、拖拽、选择图片文件等方式，操作非常便利</li></ul><h2 id="通过截图识别"><a href="#通过截图识别" class="headerlink" title="通过截图识别"></a>通过截图识别</h2><p>选择屏幕任意区域，立即识别其中的文字。</p><p><img src="https://ws2.sinaimg.cn/large/006tKfTcgy1flfolsdootg30g20cwdrs.gif" alt=""></p><p>配合快捷键，截图更方便。默认快捷键为 <code>⇧⌘1</code>；当然，你可以在 iText 偏好设置中修改。</p><h2 id="通过拖拽识别"><a href="#通过拖拽识别" class="headerlink" title="通过拖拽识别"></a>通过拖拽识别</h2><p>比如，你在网上看到了一张图片、或者本地有个图片文件，都可以拖拽至 iText 菜单栏图标进行识别。</p><p><img src="https://ws1.sinaimg.cn/large/006tKfTcgy1flfolnx0v4g30g60cs4b4.gif" alt=""></p><h2 id="通过选择图片文件识别"><a href="#通过选择图片文件识别" class="headerlink" title="通过选择图片文件识别"></a>通过选择图片文件识别</h2><p>当然，你也可以在 iText 菜单中选择图片文件进行识别。</p><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>目前，iText 还处于公测期。如需体验，<a href="https://s.toolinbox.net/iText/d/" target="_blank" rel="external">点此下载</a></p><p>如果你觉得 iText 还可以改进，欢迎：</p><ul><li><a href="https://toolinbox.net/html/feedback.html?lang=cn&amp;app=iText">在这里留言</a></li><li><a href="https://telegram.me/toolinbox" target="_blank" rel="external">加入 Telegram 群</a></li><li>微信扫码入群：</li></ul><p><img src="https://toolinbox.net/html/iPic/iPicGroup.jpg" alt=""></p>]]></content>
     
@@ -316,26 +316,6 @@
   </entry>
   
   <entry>
-    <title>图床神器 iPic 免费开放上传服务：iPicUploader</title>
-    <link href="https://toolinbox.net/iPic/iPicUploader.html"/>
-    <id>https://toolinbox.net/iPic/iPicUploader.html</id>
-    <published>2016-11-09T00:08:08.000Z</published>
-    <updated>2017-04-23T14:56:26.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://ohpsctde4.qnssl.com/hnqid.png" alt=""></p><h1 id="iPic-是什么？"><a href="#iPic-是什么？" class="headerlink" title="iPic 是什么？"></a>iPic 是什么？</h1><p>图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。</p><ul><li>通过拖拽上传图片</li><li>通过服务上传图片 [Command + U]</li><li>上传复制的图片 [Shift + Command + U]</li><li>支持微博、七牛、又拍、阿里云等图床</li><li>自动保存 Markdown 格式链接</li><li><a href="https://toolinbox.net/iPic/">操作视频</a></li></ul><p><a href="https://itunes.apple.com/app/id1101244278?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPic_home" target="_blank" rel="external">下载 iPic 试试</a></p><h1 id="iPicUploader"><a href="#iPicUploader" class="headerlink" title="iPicUploader"></a>iPicUploader</h1><p>iPic 开放了自己的上传服务。</p><p>如果你的 App 也需要上传图片至图床，不需要自己开发，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。</p><p>这就是 <strong>iPicUploader</strong></p><a id="more"></a><h2 id="iPicUploader-主要接口"><a href="#iPicUploader-主要接口" class="headerlink" title="iPicUploader 主要接口"></a>iPicUploader 主要接口</h2><p>只需几行代码，即可上传图片至七牛、又拍、阿里云等图床。</p><figure class="highlight swift"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">let</span> imageFilePath = <span class="string">"/Path/to/the/pic.jpg"</span></div><div class="line"></div><div class="line">iPic.uploadImage(imageFilePath, handler: &#123; (imageLink, error) <span class="keyword">in</span>    </div><div class="line">	<span class="keyword">if</span> <span class="keyword">let</span> imageLink = imageLink &#123;</div><div class="line">		<span class="comment">// Image uploaded        </span></div><div class="line">	   </div><div class="line">	&#125; <span class="keyword">else</span> <span class="keyword">if</span> <span class="keyword">let</span> error = error &#123;</div><div class="line">		<span class="comment">// Some error happened</span></div><div class="line">	&#125;</div><div class="line">&#125;)</div></pre></td></tr></table></figure><h2 id="iPicUploader-示例"><a href="#iPicUploader-示例" class="headerlink" title="iPicUploader 示例"></a>iPicUploader 示例</h2><p>iPicUploader 中还包含了一个全功能示例项目，让我们来看看它都支持哪些上传方式。</p><h3 id="1-通过拖拽上传"><a href="#1-通过拖拽上传" class="headerlink" title="1. 通过拖拽上传"></a>1. 通过拖拽上传</h3><p><img src="https://ww1.sinaimg.cn/large/006tNc79gw1fah02pdgycg30j60ase7o.gif" alt=""></p><p>可以看出，iPicUploader 支持同时上传多张图片。</p><h3 id="2-通过选择图片文件上传"><a href="#2-通过选择图片文件上传" class="headerlink" title="2. 通过选择图片文件上传"></a>2. 通过选择图片文件上传</h3><p><img src="https://ww2.sinaimg.cn/large/006tNc79gw1fah02quok1g30j60ashdt.gif" alt=""></p><h3 id="3-通过复制粘贴上传"><a href="#3-通过复制粘贴上传" class="headerlink" title="3. 通过复制粘贴上传"></a>3. 通过复制粘贴上传</h3><p><img src="https://ww3.sinaimg.cn/large/006tNc79gw1fah02sw6c9g30j60asb29.gif" alt=""></p><p>当然，除了复制图片文件，还可以复制其他 App （比如浏览器）中的图片来上传。</p><h2 id="如何使用-iPicUploader"><a href="#如何使用-iPicUploader" class="headerlink" title="如何使用 iPicUploader"></a>如何使用 iPicUploader</h2><p>目前，iPicUploader 已经开源、并发布在 GitHub 中。</p><p><a href="https://github.com/toolinbox/iPicUploader" target="_blank" rel="external">&gt;&gt;&gt; 在 GitHub 中查看 iPicUploader &lt;&lt;&lt;</a></p><p>并且，iPicUploader 也已经上架 CocoaPods，只需在项目的 Podfile 中增加下面一行即可。</p><figure class="highlight ruby"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">pod <span class="string">"iPicUploader"</span></div></pre></td></tr></table></figure><p>希望 iPicUploader 可以帮你创造更有意思的 App 😀</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/hnqid.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;iPic-是什么？&quot;&gt;&lt;a href=&quot;#iPic-是什么？&quot; class=&quot;headerlink&quot; title=&quot;iPic 是什么？&quot;&gt;&lt;/a&gt;iPic 是什么？&lt;/h1&gt;&lt;p&gt;图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;通过拖拽上传图片&lt;/li&gt;&lt;li&gt;通过服务上传图片 [Command + U]&lt;/li&gt;&lt;li&gt;上传复制的图片 [Shift + Command + U]&lt;/li&gt;&lt;li&gt;支持微博、七牛、又拍、阿里云等图床&lt;/li&gt;&lt;li&gt;自动保存 Markdown 格式链接&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;操作视频&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iPic_home&quot;&gt;下载 iPic 试试&lt;/a&gt;&lt;/p&gt;&lt;h1 id=&quot;iPicUploader&quot;&gt;&lt;a href=&quot;#iPicUploader&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader&quot;&gt;&lt;/a&gt;iPicUploader&lt;/h1&gt;&lt;p&gt;iPic 开放了自己的上传服务。&lt;/p&gt;&lt;p&gt;如果你的 App 也需要上传图片至图床，不需要自己开发，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。&lt;/p&gt;&lt;p&gt;这就是 &lt;strong&gt;iPicUploader&lt;/strong&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Typora: 首个集成 iPic 上传服务的 Markdown 编辑器</title>
     <link href="https://toolinbox.net/iPic/iPicUploader_Typora.html"/>
     <id>https://toolinbox.net/iPic/iPicUploader_Typora.html</id>
@@ -347,6 +327,26 @@
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/z68rh.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;有了 &lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;iPic&lt;/a&gt; 的加持，&lt;a href=&quot;http://www.typora.io/&quot;&gt;Typora&lt;/a&gt; 也可以很方便地在 Markdown 中插图。&lt;/p&gt;&lt;h1 id=&quot;一键上传本地图片&quot;&gt;&lt;a href=&quot;#一键上传本地图片&quot; class=&quot;headerlink&quot; title=&quot;一键上传本地图片&quot;&gt;&lt;/a&gt;一键上传本地图片&lt;/h1&gt;&lt;p&gt;如果已经在 Markdown 中使用的本地图片、需要将其上传至图床，只要一键：&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ww2.sinaimg.cn/large/006tNc79gw1fah02u0ekcg30ha0c0k3l.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>图床神器 iPic 免费开放上传服务：iPicUploader</title>
+    <link href="https://toolinbox.net/iPic/iPicUploader.html"/>
+    <id>https://toolinbox.net/iPic/iPicUploader.html</id>
+    <published>2016-11-09T00:08:08.000Z</published>
+    <updated>2017-04-23T14:56:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://ohpsctde4.qnssl.com/hnqid.png" alt=""></p><h1 id="iPic-是什么？"><a href="#iPic-是什么？" class="headerlink" title="iPic 是什么？"></a>iPic 是什么？</h1><p>图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。</p><ul><li>通过拖拽上传图片</li><li>通过服务上传图片 [Command + U]</li><li>上传复制的图片 [Shift + Command + U]</li><li>支持微博、七牛、又拍、阿里云等图床</li><li>自动保存 Markdown 格式链接</li><li><a href="https://toolinbox.net/iPic/">操作视频</a></li></ul><p><a href="https://itunes.apple.com/app/id1101244278?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPic_home" target="_blank" rel="external">下载 iPic 试试</a></p><h1 id="iPicUploader"><a href="#iPicUploader" class="headerlink" title="iPicUploader"></a>iPicUploader</h1><p>iPic 开放了自己的上传服务。</p><p>如果你的 App 也需要上传图片至图床，不需要自己开发，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。</p><p>这就是 <strong>iPicUploader</strong></p><a id="more"></a><h2 id="iPicUploader-主要接口"><a href="#iPicUploader-主要接口" class="headerlink" title="iPicUploader 主要接口"></a>iPicUploader 主要接口</h2><p>只需几行代码，即可上传图片至七牛、又拍、阿里云等图床。</p><figure class="highlight swift"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">let</span> imageFilePath = <span class="string">"/Path/to/the/pic.jpg"</span></div><div class="line"></div><div class="line">iPic.uploadImage(imageFilePath, handler: &#123; (imageLink, error) <span class="keyword">in</span>    </div><div class="line">	<span class="keyword">if</span> <span class="keyword">let</span> imageLink = imageLink &#123;</div><div class="line">		<span class="comment">// Image uploaded        </span></div><div class="line">	   </div><div class="line">	&#125; <span class="keyword">else</span> <span class="keyword">if</span> <span class="keyword">let</span> error = error &#123;</div><div class="line">		<span class="comment">// Some error happened</span></div><div class="line">	&#125;</div><div class="line">&#125;)</div></pre></td></tr></table></figure><h2 id="iPicUploader-示例"><a href="#iPicUploader-示例" class="headerlink" title="iPicUploader 示例"></a>iPicUploader 示例</h2><p>iPicUploader 中还包含了一个全功能示例项目，让我们来看看它都支持哪些上传方式。</p><h3 id="1-通过拖拽上传"><a href="#1-通过拖拽上传" class="headerlink" title="1. 通过拖拽上传"></a>1. 通过拖拽上传</h3><p><img src="https://ww1.sinaimg.cn/large/006tNc79gw1fah02pdgycg30j60ase7o.gif" alt=""></p><p>可以看出，iPicUploader 支持同时上传多张图片。</p><h3 id="2-通过选择图片文件上传"><a href="#2-通过选择图片文件上传" class="headerlink" title="2. 通过选择图片文件上传"></a>2. 通过选择图片文件上传</h3><p><img src="https://ww2.sinaimg.cn/large/006tNc79gw1fah02quok1g30j60ashdt.gif" alt=""></p><h3 id="3-通过复制粘贴上传"><a href="#3-通过复制粘贴上传" class="headerlink" title="3. 通过复制粘贴上传"></a>3. 通过复制粘贴上传</h3><p><img src="https://ww3.sinaimg.cn/large/006tNc79gw1fah02sw6c9g30j60asb29.gif" alt=""></p><p>当然，除了复制图片文件，还可以复制其他 App （比如浏览器）中的图片来上传。</p><h2 id="如何使用-iPicUploader"><a href="#如何使用-iPicUploader" class="headerlink" title="如何使用 iPicUploader"></a>如何使用 iPicUploader</h2><p>目前，iPicUploader 已经开源、并发布在 GitHub 中。</p><p><a href="https://github.com/toolinbox/iPicUploader" target="_blank" rel="external">&gt;&gt;&gt; 在 GitHub 中查看 iPicUploader &lt;&lt;&lt;</a></p><p>并且，iPicUploader 也已经上架 CocoaPods，只需在项目的 Podfile 中增加下面一行即可。</p><figure class="highlight ruby"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">pod <span class="string">"iPicUploader"</span></div></pre></td></tr></table></figure><p>希望 iPicUploader 可以帮你创造更有意思的 App 😀</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/hnqid.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;iPic-是什么？&quot;&gt;&lt;a href=&quot;#iPic-是什么？&quot; class=&quot;headerlink&quot; title=&quot;iPic 是什么？&quot;&gt;&lt;/a&gt;iPic 是什么？&lt;/h1&gt;&lt;p&gt;图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;通过拖拽上传图片&lt;/li&gt;&lt;li&gt;通过服务上传图片 [Command + U]&lt;/li&gt;&lt;li&gt;上传复制的图片 [Shift + Command + U]&lt;/li&gt;&lt;li&gt;支持微博、七牛、又拍、阿里云等图床&lt;/li&gt;&lt;li&gt;自动保存 Markdown 格式链接&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;操作视频&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iPic_home&quot;&gt;下载 iPic 试试&lt;/a&gt;&lt;/p&gt;&lt;h1 id=&quot;iPicUploader&quot;&gt;&lt;a href=&quot;#iPicUploader&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader&quot;&gt;&lt;/a&gt;iPicUploader&lt;/h1&gt;&lt;p&gt;iPic 开放了自己的上传服务。&lt;/p&gt;&lt;p&gt;如果你的 App 也需要上传图片至图床，不需要自己开发，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。&lt;/p&gt;&lt;p&gt;这就是 &lt;strong&gt;iPicUploader&lt;/strong&gt;&lt;/p&gt;
     
     </summary>
     
