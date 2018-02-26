@@ -424,6 +424,24 @@
 
     
   <url>
+    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
+    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>iTimer 更新日志</title>
+        <pubTime>2015-11-22T10:32:16.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iTimer" url="https://toolinbox.net/categories/iTimer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://toolinbox.net/iPic/iPicIntroduce2.html</loc>
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     <data>
@@ -471,24 +489,6 @@
            
              
               <breadCrumb title="iPic" url="https://toolinbox.net/categories/iPic/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
-    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>iTimer 更新日志</title>
-        <pubTime>2015-11-22T10:32:16.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iTimer" url="https://toolinbox.net/categories/iTimer/"/>
           
         </display>
     </data>
