@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://toolinbox.net/iText/index.html</loc>
+    
+    <lastmod>2018-03-27T09:55:28.228Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iText/iText.html</loc>
+    
+    <lastmod>2018-03-27T09:54:36.720Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://toolinbox.net/Klib/KlibExportAllHighlights.html</loc>
     
     <lastmod>2018-01-20T15:55:24.619Z</lastmod>
@@ -19,13 +33,6 @@
     <loc>https://toolinbox.net/Klib/Klib.html</loc>
     
     <lastmod>2018-01-11T07:28:08.191Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iText/index.html</loc>
-    
-    <lastmod>2017-12-30T08:10:17.256Z</lastmod>
     
   </url>
   
@@ -61,13 +68,6 @@
     <loc>https://toolinbox.net/iHosts/iHosts.html</loc>
     
     <lastmod>2017-11-28T08:50:51.508Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iText/iText.html</loc>
-    
-    <lastmod>2017-11-28T08:50:48.289Z</lastmod>
     
   </url>
   
@@ -205,14 +205,14 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
+    <loc>https://toolinbox.net/iPic/iPicIntroduce1.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
+    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
@@ -233,7 +233,7 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iPic/iPicIntroduce1.html</loc>
+    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
