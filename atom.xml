@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://toolinbox.net/"/>
-  <updated>2018-01-11T07:28:08.191Z</updated>
+  <updated>2018-11-05T13:29:32.484Z</updated>
   <id>https://toolinbox.net/</id>
   
   <author>
@@ -16,13 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Klib - Kindle、iBooks、多看标注管理</title>
+    <title>Klib - Kindle、Apple Books、多看标注管理</title>
     <link href="https://toolinbox.net/Klib/Klib.html"/>
     <id>https://toolinbox.net/Klib/Klib.html</id>
     <published>2017-11-28T02:00:00.000Z</published>
-    <updated>2018-01-11T07:28:08.191Z</updated>
+    <updated>2018-11-05T13:29:32.484Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://ps.toolinbox.net/kxvf1.png" width="200"></a></p><p><strong>Klib 是全新的读书笔记管理工具，目前已支持 Kindle、iBooks、多看。</strong></p><p><strong>为笔记而生：</strong></p><ul><li>隐藏已读：专注于当下阅读</li><li>回顾笔记：在 Kindle for macOS 中查看上下文，<strong>全球首创</strong></li><li>方便分享：以「<strong>Markdown</strong>」格式复制、导出至「<strong>印象笔记</strong>」(Evernote)</li><li>自由编辑、全面搜索：书名、作者、笔记、备注等</li></ul><p><strong>地表最强导入：</strong></p><ol><li>通过 USB 从「Kindle」导入</li><li>通过网络从「亚马逊」导入</li><li>导入「Kindle for iPhone」等客户端的标注笔记</li><li>导入 iBooks 中的 Highlights、Notes</li><li>导入「多看」系统中的书摘</li><li>使用 macOS 服务快速收集书摘</li></ol><p><strong><a href="/Klib/">查看 Klib 使用教程</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://ps.toolinbox.net/kxvf1.png" width="200"></a></p><p><strong>Klib 是全新的读书笔记管理工具，目前已支持 Kindle、Apple Books、多看。</strong></p><p><strong>为笔记而生：</strong></p><ul><li>隐藏已读：专注于当下阅读</li><li>回顾笔记：在 Kindle for macOS 中查看上下文，<strong>全球首创</strong></li><li>方便分享：以「<strong>Markdown</strong>」格式复制、导出至「<strong>印象笔记</strong>」(Evernote)</li><li>自由编辑、全面搜索：书名、作者、笔记、备注等</li></ul><p><strong>地表最强导入：</strong></p><ol><li>通过 USB 从「Kindle」导入</li><li>通过网络从「亚马逊」导入</li><li>导入「Kindle for iPhone」等客户端的标注笔记</li><li>导入 Apple Books 中的 Highlights、Notes</li><li>导入「多看」系统中的书摘</li><li>使用 macOS 服务快速收集书摘</li></ol><p><strong><a href="/Klib/">查看 Klib 使用教程</a></strong></p><hr>]]></content>
     
     <summary type="html">
     
@@ -316,26 +316,6 @@
   </entry>
   
   <entry>
-    <title>Typora: 首个集成 iPic 上传服务的 Markdown 编辑器</title>
-    <link href="https://toolinbox.net/iPic/iPicUploader_Typora.html"/>
-    <id>https://toolinbox.net/iPic/iPicUploader_Typora.html</id>
-    <published>2016-11-09T00:08:08.000Z</published>
-    <updated>2017-04-23T14:56:21.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://ohpsctde4.qnssl.com/z68rh.jpg" alt=""></p><p>有了 <a href="https://toolinbox.net/iPic/">iPic</a> 的加持，<a href="http://www.typora.io/" target="_blank" rel="external">Typora</a> 也可以很方便地在 Markdown 中插图。</p><h1 id="一键上传本地图片"><a href="#一键上传本地图片" class="headerlink" title="一键上传本地图片"></a>一键上传本地图片</h1><p>如果已经在 Markdown 中使用的本地图片、需要将其上传至图床，只要一键：</p><p><img src="https://ww2.sinaimg.cn/large/006tNc79gw1fah02u0ekcg30ha0c0k3l.gif" alt=""></p><a id="more"></a><h1 id="插入图片时自动上传至图床"><a href="#插入图片时自动上传至图床" class="headerlink" title="插入图片时自动上传至图床"></a>插入图片时自动上传至图床</h1><p>如果在开启此选择，则在插入本地图片时，自动上传至图床、并替换图床链接。</p><p><img src="https://ww4.sinaimg.cn/large/006tNc79gw1fah02vc5sdg30hm0bsnbg.gif" alt=""></p><h1 id="iPicUploader"><a href="#iPicUploader" class="headerlink" title="iPicUploader"></a>iPicUploader</h1><p><a href="https://toolinbox.net/iPic/iPicUploader.html">前情回顾</a></p><p>图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。同时，iPic 开放了自己的上传服务：如果你的 App 也需要上传图片至图床，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。</p><p>这就是 <strong>iPicUploader</strong> 目前，iPicUploader 已经开源、并发布在 GitHub 中。</p><p><a href="https://github.com/toolinbox/iPicUploader" target="_blank" rel="external">&gt;&gt;&gt; 在 GitHub 中查看 iPicUploader &lt;&lt;&lt;</a></p><p>Typora 则是首个接入 iPicUploader 的知名 Markdown 编辑器。</p><p>如果你希望 iPic 集成到你现在用的 Markdown 编辑器中，可以联系我、或 Markdown 编辑器的作者，希望 iPic 能让大家更方便地在 Markdown 中插入图片。</p><p><img src="https://ohpsctde4.qnssl.com/levrk.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/z68rh.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;有了 &lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;iPic&lt;/a&gt; 的加持，&lt;a href=&quot;http://www.typora.io/&quot;&gt;Typora&lt;/a&gt; 也可以很方便地在 Markdown 中插图。&lt;/p&gt;&lt;h1 id=&quot;一键上传本地图片&quot;&gt;&lt;a href=&quot;#一键上传本地图片&quot; class=&quot;headerlink&quot; title=&quot;一键上传本地图片&quot;&gt;&lt;/a&gt;一键上传本地图片&lt;/h1&gt;&lt;p&gt;如果已经在 Markdown 中使用的本地图片、需要将其上传至图床，只要一键：&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ww2.sinaimg.cn/large/006tNc79gw1fah02u0ekcg30ha0c0k3l.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>图床神器 iPic 免费开放上传服务：iPicUploader</title>
     <link href="https://toolinbox.net/iPic/iPicUploader.html"/>
     <id>https://toolinbox.net/iPic/iPicUploader.html</id>
@@ -347,6 +327,26 @@
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/hnqid.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;iPic-是什么？&quot;&gt;&lt;a href=&quot;#iPic-是什么？&quot; class=&quot;headerlink&quot; title=&quot;iPic 是什么？&quot;&gt;&lt;/a&gt;iPic 是什么？&lt;/h1&gt;&lt;p&gt;图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;通过拖拽上传图片&lt;/li&gt;&lt;li&gt;通过服务上传图片 [Command + U]&lt;/li&gt;&lt;li&gt;上传复制的图片 [Shift + Command + U]&lt;/li&gt;&lt;li&gt;支持微博、七牛、又拍、阿里云等图床&lt;/li&gt;&lt;li&gt;自动保存 Markdown 格式链接&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;操作视频&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iPic_home&quot;&gt;下载 iPic 试试&lt;/a&gt;&lt;/p&gt;&lt;h1 id=&quot;iPicUploader&quot;&gt;&lt;a href=&quot;#iPicUploader&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader&quot;&gt;&lt;/a&gt;iPicUploader&lt;/h1&gt;&lt;p&gt;iPic 开放了自己的上传服务。&lt;/p&gt;&lt;p&gt;如果你的 App 也需要上传图片至图床，不需要自己开发，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。&lt;/p&gt;&lt;p&gt;这就是 &lt;strong&gt;iPicUploader&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Typora: 首个集成 iPic 上传服务的 Markdown 编辑器</title>
+    <link href="https://toolinbox.net/iPic/iPicUploader_Typora.html"/>
+    <id>https://toolinbox.net/iPic/iPicUploader_Typora.html</id>
+    <published>2016-11-09T00:08:08.000Z</published>
+    <updated>2017-04-23T14:56:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://ohpsctde4.qnssl.com/z68rh.jpg" alt=""></p><p>有了 <a href="https://toolinbox.net/iPic/">iPic</a> 的加持，<a href="http://www.typora.io/" target="_blank" rel="external">Typora</a> 也可以很方便地在 Markdown 中插图。</p><h1 id="一键上传本地图片"><a href="#一键上传本地图片" class="headerlink" title="一键上传本地图片"></a>一键上传本地图片</h1><p>如果已经在 Markdown 中使用的本地图片、需要将其上传至图床，只要一键：</p><p><img src="https://ww2.sinaimg.cn/large/006tNc79gw1fah02u0ekcg30ha0c0k3l.gif" alt=""></p><a id="more"></a><h1 id="插入图片时自动上传至图床"><a href="#插入图片时自动上传至图床" class="headerlink" title="插入图片时自动上传至图床"></a>插入图片时自动上传至图床</h1><p>如果在开启此选择，则在插入本地图片时，自动上传至图床、并替换图床链接。</p><p><img src="https://ww4.sinaimg.cn/large/006tNc79gw1fah02vc5sdg30hm0bsnbg.gif" alt=""></p><h1 id="iPicUploader"><a href="#iPicUploader" class="headerlink" title="iPicUploader"></a>iPicUploader</h1><p><a href="https://toolinbox.net/iPic/iPicUploader.html">前情回顾</a></p><p>图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。同时，iPic 开放了自己的上传服务：如果你的 App 也需要上传图片至图床，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。</p><p>这就是 <strong>iPicUploader</strong> 目前，iPicUploader 已经开源、并发布在 GitHub 中。</p><p><a href="https://github.com/toolinbox/iPicUploader" target="_blank" rel="external">&gt;&gt;&gt; 在 GitHub 中查看 iPicUploader &lt;&lt;&lt;</a></p><p>Typora 则是首个接入 iPicUploader 的知名 Markdown 编辑器。</p><p>如果你希望 iPic 集成到你现在用的 Markdown 编辑器中，可以联系我、或 Markdown 编辑器的作者，希望 iPic 能让大家更方便地在 Markdown 中插入图片。</p><p><img src="https://ohpsctde4.qnssl.com/levrk.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ohpsctde4.qnssl.com/z68rh.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;有了 &lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;iPic&lt;/a&gt; 的加持，&lt;a href=&quot;http://www.typora.io/&quot;&gt;Typora&lt;/a&gt; 也可以很方便地在 Markdown 中插图。&lt;/p&gt;&lt;h1 id=&quot;一键上传本地图片&quot;&gt;&lt;a href=&quot;#一键上传本地图片&quot; class=&quot;headerlink&quot; title=&quot;一键上传本地图片&quot;&gt;&lt;/a&gt;一键上传本地图片&lt;/h1&gt;&lt;p&gt;如果已经在 Markdown 中使用的本地图片、需要将其上传至图床，只要一键：&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ww2.sinaimg.cn/large/006tNc79gw1fah02u0ekcg30ha0c0k3l.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
