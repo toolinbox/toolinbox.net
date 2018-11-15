@@ -3,6 +3,24 @@
 
 
     
+  <url>
+    <loc>https://toolinbox.net/iPaste/iPaste_macOS_Mojave.html</loc>
+    <lastmod>2018-11-15T04:28:27.940Z</lastmod>
+    <data>
+        <display>
+        <title>iPaste 如何在 macOS Mojave 10.14 下正常工作</title>
+        <pubTime>2017-10-27T23:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iPaste" url="https://toolinbox.net/categories/iPaste/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
     
   <url>
@@ -478,24 +496,6 @@
 
     
   <url>
-    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
-    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>iTimer 更新日志</title>
-        <pubTime>2015-11-22T10:32:16.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iTimer" url="https://toolinbox.net/categories/iTimer/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://toolinbox.net/iPic/iPicIntroduce1.html</loc>
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     <data>
@@ -507,6 +507,24 @@
            
              
               <breadCrumb title="iPic" url="https://toolinbox.net/categories/iPic/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
+    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>iTimer 更新日志</title>
+        <pubTime>2015-11-22T10:32:16.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iTimer" url="https://toolinbox.net/categories/iTimer/"/>
           
         </display>
     </data>
