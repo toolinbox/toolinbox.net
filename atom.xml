@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://toolinbox.net/"/>
-  <updated>2018-11-05T13:29:32.484Z</updated>
+  <updated>2019-05-05T09:19:28.209Z</updated>
   <id>https://toolinbox.net/</id>
   
   <author>
@@ -19,10 +19,30 @@
     <title>Klib - Kindle、Apple Books、多看标注管理</title>
     <link href="https://toolinbox.net/Klib/Klib.html"/>
     <id>https://toolinbox.net/Klib/Klib.html</id>
-    <published>2017-11-28T02:00:00.000Z</published>
-    <updated>2018-11-05T13:29:32.484Z</updated>
+    <published>2019-05-05T02:00:00.000Z</published>
+    <updated>2019-05-05T09:19:28.209Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://ps.toolinbox.net/kxvf1.png" width="200"></a></p><p><strong>Klib 是全新的读书笔记管理工具，目前已支持 Kindle、Apple Books、多看。</strong></p><p><strong>为笔记而生：</strong></p><ul><li>隐藏已读：专注于当下阅读</li><li>回顾笔记：在 Kindle for macOS 中查看上下文，<strong>全球首创</strong></li><li>方便分享：以「<strong>Markdown</strong>」格式复制、导出至「<strong>印象笔记</strong>」(Evernote)</li><li>自由编辑、全面搜索：书名、作者、笔记、备注等</li></ul><p><strong>地表最强导入：</strong></p><ol><li>通过 USB 从「Kindle」导入</li><li>通过网络从「亚马逊」导入</li><li>导入「Kindle for iPhone」等客户端的标注笔记</li><li>导入 Apple Books 中的 Highlights、Notes</li><li>导入「多看」系统中的书摘</li><li>使用 macOS 服务快速收集书摘</li></ol><p><strong><a href="/Klib/">查看 Klib 使用教程</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://ps.toolinbox.net/kxvf1.png" width="200"></a></p>
+<p><strong>Klib 是全新的读书笔记管理工具，目前已支持 Kindle、Apple Books、多看。</strong></p>
+<p><strong>为笔记而生：</strong></p>
+<ul>
+<li>隐藏已读：专注于当下阅读</li>
+<li>回顾笔记：在 Kindle for macOS 中查看上下文，<strong>全球首创</strong></li>
+<li>方便分享：以「<strong>Markdown</strong>」格式复制、导出至「<strong>印象笔记</strong>」(Evernote)</li>
+<li>自由编辑、全面搜索：书名、作者、笔记、备注等</li>
+</ul>
+<p><strong>地表最强导入：</strong></p>
+<ol>
+<li>通过 USB 从「Kindle」导入</li>
+<li>通过网络从「亚马逊」导入</li>
+<li>导入「Kindle for iPhone」等客户端的标注笔记</li>
+<li>导入 Apple Books 中的 Highlights、Notes</li>
+<li>导入「多看」系统中的书摘</li>
+<li>使用 macOS 服务快速收集书摘</li>
+</ol>
+<p><strong><a href="/Klib/">查看 Klib 使用教程</a></strong></p>
+<hr>
+]]></content>
     
     <summary type="html">
     
@@ -39,10 +59,14 @@
     <title>iPic - Markdown 图床、文件上件工具</title>
     <link href="https://toolinbox.net/iPic/iPic.html"/>
     <id>https://toolinbox.net/iPic/iPic.html</id>
-    <published>2017-11-28T01:00:00.000Z</published>
-    <updated>2018-11-07T12:16:36.842Z</updated>
+    <published>2019-05-05T01:00:00.000Z</published>
+    <updated>2019-05-05T09:19:40.055Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_home" target="_blank"><img src="https://ps.toolinbox.net/ro6or.png" width="200"></a></p><p>有了图床神器 <strong>iPic</strong>，可以通过拖拽、快捷键等方式上传图片或文件，支持微博、七牛、又拍、阿里云、Imgur、Flickr、Amazon S3 等云存储，自动保存 Markdown 格式链接，给你前所未有的插图体验。</p><p><strong><a href="/iPic/">查看 iPic 使用教程</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_home" target="_blank"><img src="https://ps.toolinbox.net/ro6or.png" width="200"></a></p>
+<p>有了图床神器 <strong>iPic</strong>，可以通过拖拽、快捷键等方式上传图片或文件，支持微博、七牛、又拍、阿里云、Imgur、Flickr、Amazon S3 等云存储，自动保存 Markdown 格式链接，给你前所未有的插图体验。</p>
+<p><strong><a href="/iPic/">查看 iPic 使用教程</a></strong></p>
+<hr>
+]]></content>
     
     <summary type="html">
     
@@ -59,10 +83,14 @@
     <title>iText - OCR 截图识字</title>
     <link href="https://toolinbox.net/iText/iText.html"/>
     <id>https://toolinbox.net/iText/iText.html</id>
-    <published>2017-11-28T00:00:00.000Z</published>
-    <updated>2018-03-27T09:54:36.720Z</updated>
+    <published>2019-05-05T00:00:00.000Z</published>
+    <updated>2019-05-05T09:19:44.512Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1314980676?ls=1&mt=12&at=1000lv4R&ct=iText_me" target="_blank"><img src="https://ps.toolinbox.net/jfyjb.png" width="200"></a></p><p><strong>iText</strong> 是一款 <strong>从图片中识别文字</strong> 的 OCR 工具。通过截图、或拖拽图片，即可以从扫描版 PDF 等任意图片中识字。<strong>使用腾讯、百度、Google 三引擎，识别结果惊人地准确.</strong></p><p><strong><a href="/iText/">查看 iText 使用教程</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1314980676?ls=1&mt=12&at=1000lv4R&ct=iText_me" target="_blank"><img src="https://ps.toolinbox.net/jfyjb.png" width="200"></a></p>
+<p><strong>iText</strong> 是一款 <strong>从图片中识别文字</strong> 的 OCR 工具。通过截图、或拖拽图片，即可以从扫描版 PDF 等任意图片中识字。<strong>使用腾讯、百度、Google 三引擎，识别结果惊人地准确.</strong></p>
+<p><strong><a href="/iText/">查看 iText 使用教程</a></strong></p>
+<hr>
+]]></content>
     
     <summary type="html">
     
@@ -79,10 +107,14 @@
     <title>iPaste - 简洁高效的剪切板神器</title>
     <link href="https://toolinbox.net/iPaste/iPaste.html"/>
     <id>https://toolinbox.net/iPaste/iPaste.html</id>
-    <published>2017-11-27T23:00:00.000Z</published>
-    <updated>2017-11-28T08:50:44.709Z</updated>
+    <published>2019-05-04T23:00:00.000Z</published>
+    <updated>2019-05-05T09:19:36.074Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_home" target="_blank"><img src="https://ps.toolinbox.net/w4gro.png" width="200"></a></p><p><strong>iPaste</strong>，简洁高效的粘贴板工具，iOS、macOS 又平台，可钉住常用的剪切板历史，支持分组，支持文本、图片、文件等任意格式，适配各种快捷键。</p><p><strong><a href="/iPaste/">查看 iPaste 使用教程</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_home" target="_blank"><img src="https://ps.toolinbox.net/w4gro.png" width="200"></a></p>
+<p><strong>iPaste</strong>，简洁高效的粘贴板工具，iOS、macOS 又平台，可钉住常用的剪切板历史，支持分组，支持文本、图片、文件等任意格式，适配各种快捷键。</p>
+<p><strong><a href="/iPaste/">查看 iPaste 使用教程</a></strong></p>
+<hr>
+]]></content>
     
     <summary type="html">
     
@@ -99,10 +131,14 @@
     <title>iHosts - /etc/hosts 编辑神器</title>
     <link href="https://toolinbox.net/iHosts/iHosts.html"/>
     <id>https://toolinbox.net/iHosts/iHosts.html</id>
-    <published>2017-11-27T22:00:00.000Z</published>
-    <updated>2017-11-28T08:50:51.508Z</updated>
+    <published>2019-05-04T22:00:00.000Z</published>
+    <updated>2019-05-05T09:19:31.825Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1102004240?ls=1&mt=12&at=1000lv4R&ct=iHosts_home" target="_blank"><img src="https://ps.toolinbox.net/ou9fz.png" width="200"></a></p><p><strong>iHosts</strong>，唯一上架 Mac App Store 的 /etc/hosts 编辑神器，使用分组管理 Hosts，灵活组合、一键切换。可快速预览、实时查看 Hosts，支持语法着色。</p><p><strong><a href="/iHosts/">查看 iHosts 使用教程</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1102004240?ls=1&mt=12&at=1000lv4R&ct=iHosts_home" target="_blank"><img src="https://ps.toolinbox.net/ou9fz.png" width="200"></a></p>
+<p><strong>iHosts</strong>，唯一上架 Mac App Store 的 /etc/hosts 编辑神器，使用分组管理 Hosts，灵活组合、一键切换。可快速预览、实时查看 Hosts，支持语法着色。</p>
+<p><strong><a href="/iHosts/">查看 iHosts 使用教程</a></strong></p>
+<hr>
+]]></content>
     
     <summary type="html">
     
@@ -119,10 +155,13 @@
     <title>iTimer - 番茄钟计时器</title>
     <link href="https://toolinbox.net/iTimer/iTimer.html"/>
     <id>https://toolinbox.net/iTimer/iTimer.html</id>
-    <published>2017-11-27T21:00:00.000Z</published>
-    <updated>2017-11-28T08:50:41.603Z</updated>
+    <published>2019-05-04T21:00:00.000Z</published>
+    <updated>2019-05-05T09:19:49.315Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1062139745?ls=1&mt=12&at=1000lv4R&ct=iTimer_home" target="_blank"><img src="https://ps.toolinbox.net/x8p47.png" width="200"></a></p><p><strong>iTimer</strong> 帮你专注于当下，也可用作番茄钟。非常简洁，只出现在菜单栏，用饼图表示剩余时间，可快速开始倒计时、或重新启动。</p><p><strong><a href="/iTimer/">查看 iTimer 使用教程</a></strong></p>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/cn/app/id1062139745?ls=1&mt=12&at=1000lv4R&ct=iTimer_home" target="_blank"><img src="https://ps.toolinbox.net/x8p47.png" width="200"></a></p>
+<p><strong>iTimer</strong> 帮你专注于当下，也可用作番茄钟。非常简洁，只出现在菜单栏，用饼图表示剩余时间，可快速开始倒计时、或重新启动。</p>
+<p><strong><a href="/iTimer/">查看 iTimer 使用教程</a></strong></p>
+]]></content>
     
     <summary type="html">
     
@@ -136,13 +175,59 @@
   </entry>
   
   <entry>
+    <title>兑换码使用方式</title>
+    <link href="https://toolinbox.net/help/redeem.html"/>
+    <id>https://toolinbox.net/help/redeem.html</id>
+    <published>2019-04-04T22:00:00.000Z</published>
+    <updated>2019-05-05T09:26:15.444Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://p.toolinbox.net/it9vj.jpg" alt=""></p>
+<ol>
+<li>在 macOS 中打开 Mac App Store</li>
+<li>找到兑换入口，输入兑换码并兑换。入口参见上图，旧版 Mac App Store 在首页右侧中部</li>
+<li>重启 App 并稍等，然后在「偏好设置 &gt; 账户」中查看是否已升级。如果未升级，可尝试点击页面底部「恢复」</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://p.toolinbox.net/it9vj.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在 macOS 中打开 Mac App Store&lt;/li&gt;
+&lt;li&gt;找到兑换入口，输入兑换码并兑换。入口参见上图，旧版 Mac App Sto
+    
+    </summary>
+    
+      <category term="Help" scheme="https://toolinbox.net/categories/Help/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>iPaste 如何在 macOS Mojave 10.14 下正常工作</title>
     <link href="https://toolinbox.net/iPaste/iPaste_macOS_Mojave.html"/>
     <id>https://toolinbox.net/iPaste/iPaste_macOS_Mojave.html</id>
     <published>2017-10-27T23:00:00.000Z</published>
     <updated>2018-11-15T04:28:27.940Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>近期，一些用户在升级至 macOS Mojave 10.14 后，可能会出现点击 iPaste 历史，却无法粘贴至目标程序的问题。为什么呢、以及该如何解决呢？且向下看。</p><p>由于 iPaste 是沙盒应用，不能直接将剪贴板历史粘贴到目标应用。所以，iPaste 通过系统 <code>Script</code> 脚本，模拟 <code>⌘V</code> 快捷键，进行自动粘贴。</p><p>之前一直可以正常工作，但 macOS Mojave 10.14 对脚本进行更严格的限制，使得目前的策略可能失效。怎么解决呢？请看接下来的介绍。</p><h2 id="如何在-macOS-Mojave-下正常使用-iPaste"><a href="#如何在-macOS-Mojave-下正常使用-iPaste" class="headerlink" title="如何在 macOS Mojave 下正常使用 iPaste"></a>如何在 macOS Mojave 下正常使用 iPaste</h2><p>１. 在 iPaste 中尝试粘贴，根据提示保存脚本。</p><p>２. 再次在 iPaste 中尝试粘贴，这里 iPaste 会尝试调用脚本。macOS 系统会有如下提示：</p><p><img src="https://ps.toolinbox.net/dp0es.jpg" alt=""></p><p>也即，macOS 会让你确认，是否允许 iPaste 调用脚本。自然，需要点击 <code>OK</code> 确定。</p><p>如果之前点了不允许，需要打开系统偏好设置 <code>System Preferences.app</code>：</p><p><img src="https://ps.toolinbox.net/rdclp.jpg" alt=""></p><p>然后依次点击 <code>Security &amp; Privacy</code>、<code>Privacy</code>、<code>Automation</code>，点击左下角的锁，输入密码后解锁。然后选中 iPaste 下面的 <code>System Events</code>：</p><p><img src="https://ps.toolinbox.net/k9bk0.jpg" alt=""></p><p>３. 继续尝试粘贴，这里 iPaste 会调用脚本，并尝试发送 <code>⌘V</code> 快捷键。macOS 系统会有如下提示：</p><p><img src="https://ps.toolinbox.net/buae4.jpg" alt=""></p><p>也即，macOS 会让你确认，是否允许 iPaste 发送 <code>⌘V</code> 快捷键。点击 <code>Open System Preferences</code>（如果此时点了拒绝，可手动打开 <code>System Preferences.app</code>），然后依次点击 <code>Security &amp; Privacy</code>、<code>Privacy</code>、<code>Accessibility</code>，点击左下角的锁，输入密码后解锁。然后在右侧选中 iPaste：</p><p><img src="https://ps.toolinbox.net/tfcdu.jpg" alt=""></p><p>４. 再次在 iPaste 中尝试粘贴，应该就可以了；大功告成。</p><p>一旦设置完成，之后就不需要再次设置了。一切如常，请继续保持高效。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>近期，一些用户在升级至 macOS Mojave 10.14 后，可能会出现点击 iPaste 历史，却无法粘贴至目标程序的问题。为什么呢、以及该如何解决呢？且向下看。</p>
+<p>由于 iPaste 是沙盒应用，不能直接将剪贴板历史粘贴到目标应用。所以，iPaste 通过系统 <code>Script</code> 脚本，模拟 <code>⌘V</code> 快捷键，进行自动粘贴。</p>
+<p>之前一直可以正常工作，但 macOS Mojave 10.14 对脚本进行更严格的限制，使得目前的策略可能失效。怎么解决呢？请看接下来的介绍。</p>
+<h2 id="如何在-macOS-Mojave-下正常使用-iPaste"><a href="#如何在-macOS-Mojave-下正常使用-iPaste" class="headerlink" title="如何在 macOS Mojave 下正常使用 iPaste"></a>如何在 macOS Mojave 下正常使用 iPaste</h2><p>１. 在 iPaste 中尝试粘贴，根据提示保存脚本。</p>
+<p>２. 再次在 iPaste 中尝试粘贴，这里 iPaste 会尝试调用脚本。macOS 系统会有如下提示：</p>
+<p><img src="https://ps.toolinbox.net/dp0es.jpg" alt=""></p>
+<p>也即，macOS 会让你确认，是否允许 iPaste 调用脚本。自然，需要点击 <code>OK</code> 确定。</p>
+<p>如果之前点了不允许，需要打开系统偏好设置 <code>System Preferences.app</code>：</p>
+<p><img src="https://ps.toolinbox.net/rdclp.jpg" alt=""></p>
+<p>然后依次点击 <code>Security &amp; Privacy</code>、<code>Privacy</code>、<code>Automation</code>，点击左下角的锁，输入密码后解锁。然后选中 iPaste 下面的 <code>System Events</code>：</p>
+<p><img src="https://ps.toolinbox.net/k9bk0.jpg" alt=""></p>
+<p>３. 继续尝试粘贴，这里 iPaste 会调用脚本，并尝试发送 <code>⌘V</code> 快捷键。macOS 系统会有如下提示：</p>
+<p><img src="https://ps.toolinbox.net/buae4.jpg" alt=""></p>
+<p>也即，macOS 会让你确认，是否允许 iPaste 发送 <code>⌘V</code> 快捷键。点击 <code>Open System Preferences</code>（如果此时点了拒绝，可手动打开 <code>System Preferences.app</code>），然后依次点击 <code>Security &amp; Privacy</code>、<code>Privacy</code>、<code>Accessibility</code>，点击左下角的锁，输入密码后解锁。然后在右侧选中 iPaste：</p>
+<p><img src="https://ps.toolinbox.net/tfcdu.jpg" alt=""></p>
+<p>４. 再次在 iPaste 中尝试粘贴，应该就可以了；大功告成。</p>
+<p>一旦设置完成，之后就不需要再次设置了。一切如常，请继续保持高效。</p>
+]]></content>
     
     <summary type="html">
     
@@ -162,7 +247,42 @@
     <published>2017-10-21T00:08:00.000Z</published>
     <updated>2018-11-07T12:33:33.877Z</updated>
     
-    <content type="html"><![CDATA[<p>使用 Kindle 的重度用户会知道，在 Kindle 上读书时可以任性标注，但在导出标注时则有限制：<strong>Kindle 限制能导出的标注的文字总数</strong>。这个比例没有明文规定，各本书也有不同，通常理解是一本书所有内容的 10%；一旦超出这一限制，导出时则会看到恼人的 <code>&lt;您已达到本内容的剪贴上限&gt;</code>。</p><p><img src="https://ps.toolinbox.net/r0f3c.png" alt=""></p><p>如果大家遇到这个问题，又实在想导出所有的标注，<strong>怎么办呢？可以这样操作</strong>：</p><ul><li>先使用 <a href="https://toolinbox.net/Klib/">Klib</a> 导入 Kindle 中的标注。</li><li>使用 Kindle for macOS 继续下面的操作（因为效率高）<ul><li><a href="https://www.amazon.cn/kindleformac" target="_blank" rel="external">点击这里，从亚马逊下载最新版 Kindle for macOS</a></li></ul></li><li>在 Kindle for macOS 中删除已经导入的标注。<ul><li>可以在 Klib 中查看最后一条标注的内容，在 Kindle for macOS 中搜索这条标注，然后删除这条标注前面所有的标注。</li><li>同时，在 Klib 中多选 <code>&lt;您已达到本内容的剪贴上限&gt;</code> 对应的标注，右击并删除。</li></ul></li><li>将剩下的标注导出为 html 文件，操作示意：<ul><li><img src="https://ps.toolinbox.net/vo0ua.jpg" alt=""></li></ul></li><li>使用 Klib 导入 html 文件<ul><li>点击 Klib <code>文件</code> 菜单，选择 <code>从 Kindle 导入…</code>，然后选择刚才导出的 html 文件。</li></ul></li><li>如果 Klib 依然有 <code>&lt;您已达到本内容的剪贴上限&gt;</code>，重复上面的步骤：删除已导入的、重新导出、然后导入。</li></ul><p>我测试过，这个办法是有效的。技术上，是 Kindle 在导出标注时，会机械地判断导出的内容是否过多。而一旦删除已经导入的标注，自然能向后延伸，导出后面更多的标注。</p><p>这个方法有 2 个潜在的问题需要注意：</p><ol><li>标注一旦导出，就无法在 Kindle 中展现了。</li><li>一旦删除，Amazon 是不会替你恢复的。<ul><li>你要自己保存标注（比如使用 Klib 管理，并定期备份）</li></ul></li></ol><p>这 2 点请大家知会。如果理解了，就可以放心地使用上述方法，<strong>完整导出你自己花时间做出的读书笔记</strong>。</p><p>祝，阅读愉快。</p>]]></content>
+    <content type="html"><![CDATA[<p>使用 Kindle 的重度用户会知道，在 Kindle 上读书时可以任性标注，但在导出标注时则有限制：<strong>Kindle 限制能导出的标注的文字总数</strong>。这个比例没有明文规定，各本书也有不同，通常理解是一本书所有内容的 10%；一旦超出这一限制，导出时则会看到恼人的 <code>&lt;您已达到本内容的剪贴上限&gt;</code>。</p>
+<p><img src="https://ps.toolinbox.net/r0f3c.png" alt=""></p>
+<p>如果大家遇到这个问题，又实在想导出所有的标注，<strong>怎么办呢？可以这样操作</strong>：</p>
+<ul>
+<li>先使用 <a href="https://toolinbox.net/Klib/">Klib</a> 导入 Kindle 中的标注。</li>
+<li>使用 Kindle for macOS 继续下面的操作（因为效率高）<ul>
+<li><a href="https://www.amazon.cn/kindleformac" target="_blank" rel="external">点击这里，从亚马逊下载最新版 Kindle for macOS</a></li>
+</ul>
+</li>
+<li>在 Kindle for macOS 中删除已经导入的标注。<ul>
+<li>可以在 Klib 中查看最后一条标注的内容，在 Kindle for macOS 中搜索这条标注，然后删除这条标注前面所有的标注。</li>
+<li>同时，在 Klib 中多选 <code>&lt;您已达到本内容的剪贴上限&gt;</code> 对应的标注，右击并删除。</li>
+</ul>
+</li>
+<li>将剩下的标注导出为 html 文件，操作示意：<ul>
+<li><img src="https://ps.toolinbox.net/vo0ua.jpg" alt=""></li>
+</ul>
+</li>
+<li>使用 Klib 导入 html 文件<ul>
+<li>点击 Klib <code>文件</code> 菜单，选择 <code>从 Kindle 导入…</code>，然后选择刚才导出的 html 文件。</li>
+</ul>
+</li>
+<li>如果 Klib 依然有 <code>&lt;您已达到本内容的剪贴上限&gt;</code>，重复上面的步骤：删除已导入的、重新导出、然后导入。</li>
+</ul>
+<p>我测试过，这个办法是有效的。技术上，是 Kindle 在导出标注时，会机械地判断导出的内容是否过多。而一旦删除已经导入的标注，自然能向后延伸，导出后面更多的标注。</p>
+<p>这个方法有 2 个潜在的问题需要注意：</p>
+<ol>
+<li>标注一旦导出，就无法在 Kindle 中展现了。</li>
+<li>一旦删除，Amazon 是不会替你恢复的。<ul>
+<li>你要自己保存标注（比如使用 Klib 管理，并定期备份）</li>
+</ul>
+</li>
+</ol>
+<p>这 2 点请大家知会。如果理解了，就可以放心地使用上述方法，<strong>完整导出你自己花时间做出的读书笔记</strong>。</p>
+<p>祝，阅读愉快。</p>
+]]></content>
     
     <summary type="html">
     
@@ -182,11 +302,28 @@
     <published>2017-04-21T00:08:00.000Z</published>
     <updated>2017-05-13T02:30:11.000Z</updated>
     
-    <content type="html"><![CDATA[<p>在 Klib 实现通过 iCloud 在不同 Mac 电脑同步前，可以借助 Dropbox 等第三方工具来同步。这里以 Dropbox 为例进行介绍，假定 Dropbox 本地同步目录位于：<code>~/Sync/Dropbox/</code></p><ul><li>打开「终端」Terminal</li><li>在 Dropbox 中创建「Klib」文件夹<ul><li><code>mkdir -p ~/Sync/Dropbox/Klib/</code></li></ul></li><li>将 Klib 数据库目录链接到 Dropbox 中<ul><li><code>ln -s ~/Library/Containers/net.toolinbox.iKindle/Data/Library/Application\ Support/Klib/data ~/Sync/Dropbox/Klib/data</code></li></ul></li><li>在另一台 Mac 电脑做相同的设置，就可以在多台 Mac 电脑间同步 Klib 数据库了。</li></ul><p>提示：Klib 的数据库为 SQLite 格式，位于下面的目录中，可在 Finder 中按下 <code>Command + Shift + G</code>、输入路径后打开。</p><p><code>~/Library/Containers/net.toolinbox.iKindle/Data/Library/Application\ Support/Klib/data</code></p>]]></content>
+    <content type="html"><![CDATA[<p>在 Klib 实现通过 iCloud 在不同 Mac 电脑同步前，可以借助 Dropbox 等第三方工具来同步。这里以 Dropbox 为例进行介绍，假定 Dropbox 本地同步目录位于：<code>~/Sync/Dropbox/</code></p>
+<ul>
+<li>打开「终端」Terminal</li>
+<li>在 Dropbox 中创建「Klib」文件夹<ul>
+<li><code>mkdir -p ~/Sync/Dropbox/Klib/</code></li>
+</ul>
+</li>
+<li>将 Klib 数据库目录链接到 Dropbox 中<ul>
+<li><code>ln -s ~/Library/Containers/net.toolinbox.iKindle/Data/Library/Application\ Support/Klib/data ~/Sync/Dropbox/Klib/data</code></li>
+</ul>
+</li>
+<li>在另一台 Mac 电脑做相同的设置，就可以在多台 Mac 电脑间同步 Klib 数据库了。</li>
+</ul>
+<p>提示：Klib 的数据库为 SQLite 格式，位于下面的目录中，可在 Finder 中按下 <code>Command + Shift + G</code>、输入路径后打开。</p>
+<p><code>~/Library/Containers/net.toolinbox.iKindle/Data/Library/Application\ Support/Klib/data</code></p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;在 Klib 实现通过 iCloud 在不同 Mac 电脑同步前，可以借助 Dropbox 等第三方工具来同步。这里以 Dropbox 为例进行介绍，假定 Dropbox 本地同步目录位于：&lt;code&gt;~/Sync/Dropbox/&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;打开
+      &lt;p&gt;在 Klib 实现通过 iCloud 在不同 Mac 电脑同步前，可以借助 Dropbox 等第三方工具来同步。这里以 Dropbox 为例进行介绍，假定 Dropbox 本地同步目录位于：&lt;code&gt;~/Sync/Dropbox/&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
     
     </summary>
     
@@ -202,11 +339,35 @@
     <published>2017-03-10T00:08:08.000Z</published>
     <updated>2019-04-25T02:41:15.377Z</updated>
     
-    <content type="html"><![CDATA[<p>iText 是一款从图片中识别文字的 OCR 工具。</p><ul><li>集成百度深度学习算法，识别结果惊人的准确</li><li>配合截图、拖拽、选择图片文件等方式，操作非常便利</li></ul><h2 id="通过截图识别"><a href="#通过截图识别" class="headerlink" title="通过截图识别"></a>通过截图识别</h2><p>选择屏幕任意区域，立即识别其中的文字。</p><p><img src="https://ps-hz.toolinbox.net/006tKfTcgy1flfolsdootg30g20cwdrs.gif" alt=""></p><p>配合快捷键，截图更方便。默认快捷键为 <code>⇧⌘1</code>；当然，你可以在 iText 偏好设置中修改。</p><h2 id="通过拖拽识别"><a href="#通过拖拽识别" class="headerlink" title="通过拖拽识别"></a>通过拖拽识别</h2><p>比如，你在网上看到了一张图片、或者本地有个图片文件，都可以拖拽至 iText 菜单栏图标进行识别。</p><p><img src="https://ps-hz.toolinbox.net/006tKfTcgy1flfolnx0v4g30g60cs4b4.gif" alt=""></p><h2 id="通过选择图片文件识别"><a href="#通过选择图片文件识别" class="headerlink" title="通过选择图片文件识别"></a>通过选择图片文件识别</h2><p>当然，你也可以在 iText 菜单中选择图片文件进行识别。</p><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>目前，iText 还处于公测期。如需体验，<a href="https://s.toolinbox.net/iText/d/" target="_blank" rel="external">点此下载</a></p><p>如果你觉得 iText 还可以改进，欢迎：</p><ul><li><a href="https://toolinbox.net/html/feedback.html?lang=cn&amp;app=iText">在这里留言</a></li><li><a href="https://telegram.me/toolinbox" target="_blank" rel="external">加入 Telegram 群</a></li><li>微信扫码入群：</li></ul><p><img src="https://toolinbox.net/html/iPic/iPicGroup.jpg" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p>iText 是一款从图片中识别文字的 OCR 工具。</p>
+<ul>
+<li>集成百度深度学习算法，识别结果惊人的准确</li>
+<li>配合截图、拖拽、选择图片文件等方式，操作非常便利</li>
+</ul>
+<h2 id="通过截图识别"><a href="#通过截图识别" class="headerlink" title="通过截图识别"></a>通过截图识别</h2><p>选择屏幕任意区域，立即识别其中的文字。</p>
+<p><img src="https://ps-hz.toolinbox.net/006tKfTcgy1flfolsdootg30g20cwdrs.gif" alt=""></p>
+<p>配合快捷键，截图更方便。默认快捷键为 <code>⇧⌘1</code>；当然，你可以在 iText 偏好设置中修改。</p>
+<h2 id="通过拖拽识别"><a href="#通过拖拽识别" class="headerlink" title="通过拖拽识别"></a>通过拖拽识别</h2><p>比如，你在网上看到了一张图片、或者本地有个图片文件，都可以拖拽至 iText 菜单栏图标进行识别。</p>
+<p><img src="https://ps-hz.toolinbox.net/006tKfTcgy1flfolnx0v4g30g60cs4b4.gif" alt=""></p>
+<h2 id="通过选择图片文件识别"><a href="#通过选择图片文件识别" class="headerlink" title="通过选择图片文件识别"></a>通过选择图片文件识别</h2><p>当然，你也可以在 iText 菜单中选择图片文件进行识别。</p>
+<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>目前，iText 还处于公测期。如需体验，<a href="https://s.toolinbox.net/iText/d/" target="_blank" rel="external">点此下载</a></p>
+<p>如果你觉得 iText 还可以改进，欢迎：</p>
+<ul>
+<li><a href="https://toolinbox.net/html/feedback.html?lang=cn&amp;app=iText">在这里留言</a></li>
+<li><a href="https://telegram.me/toolinbox" target="_blank" rel="external">加入 Telegram 群</a></li>
+<li>微信扫码入群：</li>
+</ul>
+<p><img src="https://toolinbox.net/html/iPic/iPicGroup.jpg" alt=""></p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;iText 是一款从图片中识别文字的 OCR 工具。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;集成百度深度学习算法，识别结果惊人的准确&lt;/li&gt;&lt;li&gt;配合截图、拖拽、选择图片文件等方式，操作非常便利&lt;/li&gt;&lt;/ul&gt;&lt;h2 id=&quot;通过截图识别&quot;&gt;&lt;a href=&quot;#通过截图识别&quot; cl
+      &lt;p&gt;iText 是一款从图片中识别文字的 OCR 工具。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;集成百度深度学习算法，识别结果惊人的准确&lt;/li&gt;
+&lt;li&gt;配合截图、拖拽、选择图片文件等方式，操作非常便利&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;通过截图识别&quot;&gt;&lt;a href=&quot;#通过截图识
     
     </summary>
     
@@ -222,11 +383,28 @@
     <published>2017-03-06T00:08:08.000Z</published>
     <updated>2018-11-07T12:34:53.686Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://ps.toolinbox.net/zyvsd.png" alt=""></p><p>Klib 是全新的 Kindle 标注、笔记/书摘管理工具，macOS 平台。<a href="https://toolinbox.net/Klib/">了解更多</a></p><p>经过多次审核、修改，<strong>Klib</strong> 终于成功上架 Mac App Store，<strong>成为 MAS 中首款 Kindle 笔记管理工具</strong>。</p><p><a href="https://itunes.apple.com/cn/app/id1196268448?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=klib_home" target="_blank" rel="external"><img src="https://ps.toolinbox.net/evqdg.jpg" alt=""></a></p><a id="more"></a><p>上架当天，<strong>Klib 在中国区、Utilities 这一品类中，Free 排名 22、Grossing 排名 14</strong>，不错的成绩，感谢大家支持！</p><p><img src="https://ps.toolinbox.net/qvhtr.jpg" alt=""></p><p>如果你觉得 Klib 还可以改进，欢迎：</p><ul><li><a href="https://toolinbox.net/html/feedback.html?lang=cn&amp;app=Klib">在这里留言</a></li><li><a href="https://telegram.me/toolinbox" target="_blank" rel="external">加入 Telegram 群</a></li><li>微信扫码入群：</li></ul><p><img src="https://toolinbox.net/html/iPic/iPicGroup.jpg" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://ps.toolinbox.net/zyvsd.png" alt=""></p>
+<p>Klib 是全新的 Kindle 标注、笔记/书摘管理工具，macOS 平台。<a href="https://toolinbox.net/Klib/">了解更多</a></p>
+<p>经过多次审核、修改，<strong>Klib</strong> 终于成功上架 Mac App Store，<strong>成为 MAS 中首款 Kindle 笔记管理工具</strong>。</p>
+<p><a href="https://itunes.apple.com/cn/app/id1196268448?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=klib_home" target="_blank" rel="external"><img src="https://ps.toolinbox.net/evqdg.jpg" alt=""></a></p>
+<a id="more"></a>
+<p>上架当天，<strong>Klib 在中国区、Utilities 这一品类中，Free 排名 22、Grossing 排名 14</strong>，不错的成绩，感谢大家支持！</p>
+<p><img src="https://ps.toolinbox.net/qvhtr.jpg" alt=""></p>
+<p>如果你觉得 Klib 还可以改进，欢迎：</p>
+<ul>
+<li><a href="https://toolinbox.net/html/feedback.html?lang=cn&amp;app=Klib">在这里留言</a></li>
+<li><a href="https://telegram.me/toolinbox" target="_blank" rel="external">加入 Telegram 群</a></li>
+<li>微信扫码入群：</li>
+</ul>
+<p><img src="https://toolinbox.net/html/iPic/iPicGroup.jpg" alt=""></p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/zyvsd.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;Klib 是全新的 Kindle 标注、笔记/书摘管理工具，macOS 平台。&lt;a href=&quot;https://toolinbox.net/Klib/&quot;&gt;了解更多&lt;/a&gt;&lt;/p&gt;&lt;p&gt;经过多次审核、修改，&lt;strong&gt;Klib&lt;/strong&gt; 终于成功上架 Mac App Store，&lt;strong&gt;成为 MAS 中首款 Kindle 笔记管理工具&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/cn/app/id1196268448?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=klib_home&quot;&gt;&lt;img src=&quot;https://ps.toolinbox.net/evqdg.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/zyvsd.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Klib 是全新的 Kindle 标注、笔记/书摘管理工具，macOS 平台。&lt;a href=&quot;https://toolinbox.net/Klib/&quot;&gt;了解更多&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;经过多次审核、修改，&lt;strong&gt;Klib&lt;/strong&gt; 终于成功上架 Mac App Store，&lt;strong&gt;成为 MAS 中首款 Kindle 笔记管理工具&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/cn/app/id1196268448?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=klib_home&quot;&gt;&lt;img src=&quot;https://ps.toolinbox.net/evqdg.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
@@ -242,11 +420,92 @@
     <published>2016-12-22T00:08:08.000Z</published>
     <updated>2019-04-25T02:35:33.079Z</updated>
     
-    <content type="html"><![CDATA[<p>在 Markdown 中插图很麻烦；还好，<a href="https://toolinbox.net/iPic/">iPic</a> 解决了这个问题。</p><p>可是，已有 Markdown 文件中的图片该如何迁移呢？</p><p>不怕，现在有了 iPic Mover :)</p><p><img src="https://ps.toolinbox.net/c86dx.png" alt=""></p><h1 id="iPic-Mover-是什么？我需要吗？"><a href="#iPic-Mover-是什么？我需要吗？" class="headerlink" title="iPic Mover 是什么？我需要吗？"></a>iPic Mover 是什么？我需要吗？</h1><p>先来看看这几个场景，你有没有遇到过？</p><p>１. <strong>批量将本地图片上传至图床，并更新链接、删除本地图片</strong></p><ul><li>很多 Markdown 都支持插入本地图片，但很少支持上传图片至图床。</li><li><a href="http://www.typora.io/" target="_blank" rel="external">Typora</a> 除外，因为它集成了 iPicUploader，在插入本地图片时，可以调用 iPic 上传。</li></ul><p>２. <strong>更换图床</strong></p><ul><li>比如，最近流行升级至 https，而原来的图床很可能不支持 https，这就需要更换图床。</li></ul><p>３. <strong>WordPress 迁移至 Markdown 时，迁移图片</strong></p><ul><li>Markdown 可谓风头正劲，可 WordPress 也是昔日王者。将 WordPress 迁移至 Markdown 时，比较痛苦的是 WordPress 中上传的图片资源怎么办？</li><li>此功能正在开发中…</li></ul><p>４. <strong>压缩已有图片</strong></p><ul><li>曾经年少轻狂，上传几 MB 的图片，眼都不眨一下。现在看看流量账单，心疼啊。可是，要把所有文章中的图片下载、压缩、再上传、更新图片链接，麻烦啊 :(</li><li>下个版本即将支持…</li></ul><p>如果你遇到过上面的麻烦，恭喜，iPic Mover 就是为你准备的。</p><a id="more"></a><h1 id="如何使用-iPic-Mover"><a href="#如何使用-iPic-Mover" class="headerlink" title="如何使用 iPic Mover ?"></a>如何使用 iPic Mover ?</h1><p>二话不说先上图：</p><p><img src="http://ps-hz.toolinbox.net/006y8lVagw1fajaszqardg30ia0bc4cp.gif" alt=""></p><p>可以看出，只要选择 Markdown 所在文件夹即可，iPic Mover 自动帮你：</p><ul><li>找到所有 Markdown 文件</li><li>找到 Markdown 文件中所有图片</li><li>上传图片</li><li>更新 Markdown 文件中的图片链接</li></ul><p>当然，还有几个可选项：</p><ul><li>迁移图片前复制文件夹或文件<ul><li>如果选定，则仅在复制的 Markdown 文件中更新图片链接。原有的 Markdown 文件将不被修改。这个主要是为了测试使用。</li><li><strong>注意：</strong>强烈建议在迁移前备份原始文件。</li></ul></li><li>仅上传本地图片<ul><li>默认会将所有图片迁移至新图床。如果选定，则仅上传本地图片、不上传已经在云上的图片。</li></ul></li><li>上传后删除本地图片文件<ul><li>如果你不希望本地残留无用的图片，可以勾选。上传失败的本地图片文件不会被删除。</li></ul></li></ul><p>值得注意的是，iPic Mover 还可以按图片大小排序，这样可以快速找出网站中比较大的图片，必要时进行替换、或压缩，以减少网站流量、加快页面打开速度。</p><h1 id="iPic-Mover-是如何工作的？"><a href="#iPic-Mover-是如何工作的？" class="headerlink" title="iPic Mover 是如何工作的？"></a>iPic Mover 是如何工作的？</h1><p>除了上面介绍的，核心的，iPic Mover 是通过调用 iPicUploader，将图片上传至 iPic 当前选中的图床。具体可见：<br><a href="https://toolinbox.net/iPic/iPicUploader.html">图床神器 iPic 免费开放上传服务：iPicUploader</a></p><p>由于需要调用 iPic 来上传图片，iPic Mover 在运行时会检测 iPic 是否安装。如果未安装，会提示在 Mac App Store 下载。</p><h1 id="下载-iPic-Mover"><a href="#下载-iPic-Mover" class="headerlink" title="下载 iPic Mover"></a>下载 iPic Mover</h1><p>说到最后，终于来重点了：</p><p><a href="https://itunes.apple.com/cn/app/id1183822957?ls=1&amp;mt=12" target="_blank" rel="external">&gt;&gt;&gt; 点我下载 iPic Mover &lt;&lt;&lt;</a></p><p>马上试试吧。有 Bug、想吐槽，<a href="https://toolinbox.net/html/feedback.html?lang=zh-Hans&amp;app=iPicMover">点这里跟我聊聊</a>，期待你的反馈。</p>]]></content>
+    <content type="html"><![CDATA[<p>在 Markdown 中插图很麻烦；还好，<a href="https://toolinbox.net/iPic/">iPic</a> 解决了这个问题。</p>
+<p>可是，已有 Markdown 文件中的图片该如何迁移呢？</p>
+<p>不怕，现在有了 iPic Mover :)</p>
+<p><img src="https://ps.toolinbox.net/c86dx.png" alt=""></p>
+<h1 id="iPic-Mover-是什么？我需要吗？"><a href="#iPic-Mover-是什么？我需要吗？" class="headerlink" title="iPic Mover 是什么？我需要吗？"></a>iPic Mover 是什么？我需要吗？</h1><p>先来看看这几个场景，你有没有遇到过？</p>
+<p>１. <strong>批量将本地图片上传至图床，并更新链接、删除本地图片</strong></p>
+<ul>
+<li>很多 Markdown 都支持插入本地图片，但很少支持上传图片至图床。</li>
+<li><a href="http://www.typora.io/" target="_blank" rel="external">Typora</a> 除外，因为它集成了 iPicUploader，在插入本地图片时，可以调用 iPic 上传。</li>
+</ul>
+<p>２. <strong>更换图床</strong></p>
+<ul>
+<li>比如，最近流行升级至 https，而原来的图床很可能不支持 https，这就需要更换图床。</li>
+</ul>
+<p>３. <strong>WordPress 迁移至 Markdown 时，迁移图片</strong></p>
+<ul>
+<li>Markdown 可谓风头正劲，可 WordPress 也是昔日王者。将 WordPress 迁移至 Markdown 时，比较痛苦的是 WordPress 中上传的图片资源怎么办？</li>
+<li>此功能正在开发中…</li>
+</ul>
+<p>４. <strong>压缩已有图片</strong></p>
+<ul>
+<li>曾经年少轻狂，上传几 MB 的图片，眼都不眨一下。现在看看流量账单，心疼啊。可是，要把所有文章中的图片下载、压缩、再上传、更新图片链接，麻烦啊 :(</li>
+<li>下个版本即将支持…</li>
+</ul>
+<p>如果你遇到过上面的麻烦，恭喜，iPic Mover 就是为你准备的。</p>
+<a id="more"></a>
+<h1 id="如何使用-iPic-Mover"><a href="#如何使用-iPic-Mover" class="headerlink" title="如何使用 iPic Mover ?"></a>如何使用 iPic Mover ?</h1><p>二话不说先上图：</p>
+<p><img src="http://ps-hz.toolinbox.net/006y8lVagw1fajaszqardg30ia0bc4cp.gif" alt=""></p>
+<p>可以看出，只要选择 Markdown 所在文件夹即可，iPic Mover 自动帮你：</p>
+<ul>
+<li>找到所有 Markdown 文件</li>
+<li>找到 Markdown 文件中所有图片</li>
+<li>上传图片</li>
+<li>更新 Markdown 文件中的图片链接</li>
+</ul>
+<p>当然，还有几个可选项：</p>
+<ul>
+<li>迁移图片前复制文件夹或文件<ul>
+<li>如果选定，则仅在复制的 Markdown 文件中更新图片链接。原有的 Markdown 文件将不被修改。这个主要是为了测试使用。</li>
+<li><strong>注意：</strong>强烈建议在迁移前备份原始文件。</li>
+</ul>
+</li>
+<li>仅上传本地图片<ul>
+<li>默认会将所有图片迁移至新图床。如果选定，则仅上传本地图片、不上传已经在云上的图片。</li>
+</ul>
+</li>
+<li>上传后删除本地图片文件<ul>
+<li>如果你不希望本地残留无用的图片，可以勾选。上传失败的本地图片文件不会被删除。</li>
+</ul>
+</li>
+</ul>
+<p>值得注意的是，iPic Mover 还可以按图片大小排序，这样可以快速找出网站中比较大的图片，必要时进行替换、或压缩，以减少网站流量、加快页面打开速度。</p>
+<h1 id="iPic-Mover-是如何工作的？"><a href="#iPic-Mover-是如何工作的？" class="headerlink" title="iPic Mover 是如何工作的？"></a>iPic Mover 是如何工作的？</h1><p>除了上面介绍的，核心的，iPic Mover 是通过调用 iPicUploader，将图片上传至 iPic 当前选中的图床。具体可见：<br><a href="https://toolinbox.net/iPic/iPicUploader.html">图床神器 iPic 免费开放上传服务：iPicUploader</a></p>
+<p>由于需要调用 iPic 来上传图片，iPic Mover 在运行时会检测 iPic 是否安装。如果未安装，会提示在 Mac App Store 下载。</p>
+<h1 id="下载-iPic-Mover"><a href="#下载-iPic-Mover" class="headerlink" title="下载 iPic Mover"></a>下载 iPic Mover</h1><p>说到最后，终于来重点了：</p>
+<p><a href="https://itunes.apple.com/cn/app/id1183822957?ls=1&amp;mt=12" target="_blank" rel="external">&gt;&gt;&gt; 点我下载 iPic Mover &lt;&lt;&lt;</a></p>
+<p>马上试试吧。有 Bug、想吐槽，<a href="https://toolinbox.net/html/feedback.html?lang=zh-Hans&amp;app=iPicMover">点这里跟我聊聊</a>，期待你的反馈。</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;在 Markdown 中插图很麻烦；还好，&lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;iPic&lt;/a&gt; 解决了这个问题。&lt;/p&gt;&lt;p&gt;可是，已有 Markdown 文件中的图片该如何迁移呢？&lt;/p&gt;&lt;p&gt;不怕，现在有了 iPic Mover :)&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/c86dx.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;iPic-Mover-是什么？我需要吗？&quot;&gt;&lt;a href=&quot;#iPic-Mover-是什么？我需要吗？&quot; class=&quot;headerlink&quot; title=&quot;iPic Mover 是什么？我需要吗？&quot;&gt;&lt;/a&gt;iPic Mover 是什么？我需要吗？&lt;/h1&gt;&lt;p&gt;先来看看这几个场景，你有没有遇到过？&lt;/p&gt;&lt;p&gt;１. &lt;strong&gt;批量将本地图片上传至图床，并更新链接、删除本地图片&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;很多 Markdown 都支持插入本地图片，但很少支持上传图片至图床。&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.typora.io/&quot;&gt;Typora&lt;/a&gt; 除外，因为它集成了 iPicUploader，在插入本地图片时，可以调用 iPic 上传。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;２. &lt;strong&gt;更换图床&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;比如，最近流行升级至 https，而原来的图床很可能不支持 https，这就需要更换图床。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;３. &lt;strong&gt;WordPress 迁移至 Markdown 时，迁移图片&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Markdown 可谓风头正劲，可 WordPress 也是昔日王者。将 WordPress 迁移至 Markdown 时，比较痛苦的是 WordPress 中上传的图片资源怎么办？&lt;/li&gt;&lt;li&gt;此功能正在开发中…&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;４. &lt;strong&gt;压缩已有图片&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;曾经年少轻狂，上传几 MB 的图片，眼都不眨一下。现在看看流量账单，心疼啊。可是，要把所有文章中的图片下载、压缩、再上传、更新图片链接，麻烦啊 :(&lt;/li&gt;&lt;li&gt;下个版本即将支持…&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;如果你遇到过上面的麻烦，恭喜，iPic Mover 就是为你准备的。&lt;/p&gt;
+      &lt;p&gt;在 Markdown 中插图很麻烦；还好，&lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;iPic&lt;/a&gt; 解决了这个问题。&lt;/p&gt;
+&lt;p&gt;可是，已有 Markdown 文件中的图片该如何迁移呢？&lt;/p&gt;
+&lt;p&gt;不怕，现在有了 iPic Mover :)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/c86dx.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;iPic-Mover-是什么？我需要吗？&quot;&gt;&lt;a href=&quot;#iPic-Mover-是什么？我需要吗？&quot; class=&quot;headerlink&quot; title=&quot;iPic Mover 是什么？我需要吗？&quot;&gt;&lt;/a&gt;iPic Mover 是什么？我需要吗？&lt;/h1&gt;&lt;p&gt;先来看看这几个场景，你有没有遇到过？&lt;/p&gt;
+&lt;p&gt;１. &lt;strong&gt;批量将本地图片上传至图床，并更新链接、删除本地图片&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;很多 Markdown 都支持插入本地图片，但很少支持上传图片至图床。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.typora.io/&quot;&gt;Typora&lt;/a&gt; 除外，因为它集成了 iPicUploader，在插入本地图片时，可以调用 iPic 上传。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;２. &lt;strong&gt;更换图床&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;比如，最近流行升级至 https，而原来的图床很可能不支持 https，这就需要更换图床。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;３. &lt;strong&gt;WordPress 迁移至 Markdown 时，迁移图片&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown 可谓风头正劲，可 WordPress 也是昔日王者。将 WordPress 迁移至 Markdown 时，比较痛苦的是 WordPress 中上传的图片资源怎么办？&lt;/li&gt;
+&lt;li&gt;此功能正在开发中…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;４. &lt;strong&gt;压缩已有图片&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;曾经年少轻狂，上传几 MB 的图片，眼都不眨一下。现在看看流量账单，心疼啊。可是，要把所有文章中的图片下载、压缩、再上传、更新图片链接，麻烦啊 :(&lt;/li&gt;
+&lt;li&gt;下个版本即将支持…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果你遇到过上面的麻烦，恭喜，iPic Mover 就是为你准备的。&lt;/p&gt;
     
     </summary>
     
@@ -262,11 +521,76 @@
     <published>2016-12-10T00:08:08.000Z</published>
     <updated>2017-10-19T14:04:13.266Z</updated>
     
-    <content type="html"><![CDATA[<p>腾讯云对象存储（COS: Cloud Object Storage）是面向企业和个人开发者提供的高可用，高稳定，强安全的云端存储服务。更多介绍，可参考 <a href="https://cloud.tencent.com/product/cos" target="_blank" rel="external">官方介绍</a></p><h1 id="在-iPic-中添加腾讯云-COS-图床"><a href="#在-iPic-中添加腾讯云-COS-图床" class="headerlink" title="在 iPic 中添加腾讯云 COS 图床"></a>在 iPic 中添加腾讯云 COS 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>腾讯云 COS</code></p><p><img src="https://ps.toolinbox.net/7zix6.png" alt=""></p><p>以下分别介绍各项的意义及如何配置：</p><ul><li><code>Bucket</code><ul><li>即腾讯云 COS 中对应的 Bucket</li></ul></li><li><code>Access Key</code> 与 <code>Secret Key</code><ul><li>即腾讯云 API 密钥管理中的 SecretId 与 SecretKey</li></ul></li><li><code>网址前缀</code><ul><li>用于生成上传图片的完成 Http 路径，比如 <em><a href="https://ipic-1251234567.cossh.myqcloud.com" target="_blank" rel="external">https://ipic-1251234567.cossh.myqcloud.com</a></em></li><li>如果你绑定了域名，可以使用绑定的域名</li></ul></li></ul><p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传的图片。</p><a id="more"></a><p>除了上述基本的设置，腾讯云 COS 还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p><p><img src="https://ps.toolinbox.net/pkvsw.png" alt=""></p><ul><li><code>网址前缀</code><ul><li>和前文介绍的一致</li></ul></li><li><code>文件名前缀</code><ul><li>可简单理解为腾讯云 COS 中的目录</li><li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="https://ipic-1251234567.cossh.myqcloud.com/blog/pic.jpg" target="_blank" rel="external">https://ipic-1251234567.cossh.myqcloud.com/blog/pic.jpg</a></em></li></ul></li><li><code>自定义文件名</code><ul><li>支持以下三种文件名</li><li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li><li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li><li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li></ul></li><li><code>网址后缀</code><ul><li>即在网址最后追加自定义的内容，为以后扩展预留</li></ul></li></ul><p>最后，点击 <strong>应用</strong> 按钮进行保存。</p>]]></content>
+    <content type="html"><![CDATA[<p>腾讯云对象存储（COS: Cloud Object Storage）是面向企业和个人开发者提供的高可用，高稳定，强安全的云端存储服务。更多介绍，可参考 <a href="https://cloud.tencent.com/product/cos" target="_blank" rel="external">官方介绍</a></p>
+<h1 id="在-iPic-中添加腾讯云-COS-图床"><a href="#在-iPic-中添加腾讯云-COS-图床" class="headerlink" title="在 iPic 中添加腾讯云 COS 图床"></a>在 iPic 中添加腾讯云 COS 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>腾讯云 COS</code></p>
+<p><img src="https://ps.toolinbox.net/7zix6.png" alt=""></p>
+<p>以下分别介绍各项的意义及如何配置：</p>
+<ul>
+<li><code>Bucket</code><ul>
+<li>即腾讯云 COS 中对应的 Bucket</li>
+</ul>
+</li>
+<li><code>Access Key</code> 与 <code>Secret Key</code><ul>
+<li>即腾讯云 API 密钥管理中的 SecretId 与 SecretKey</li>
+</ul>
+</li>
+<li><code>网址前缀</code><ul>
+<li>用于生成上传图片的完成 Http 路径，比如 <em><a href="https://ipic-1251234567.cossh.myqcloud.com" target="_blank" rel="external">https://ipic-1251234567.cossh.myqcloud.com</a></em></li>
+<li>如果你绑定了域名，可以使用绑定的域名</li>
+</ul>
+</li>
+</ul>
+<p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传的图片。</p>
+<a id="more"></a>
+<p>除了上述基本的设置，腾讯云 COS 还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p>
+<p><img src="https://ps.toolinbox.net/pkvsw.png" alt=""></p>
+<ul>
+<li><code>网址前缀</code><ul>
+<li>和前文介绍的一致</li>
+</ul>
+</li>
+<li><code>文件名前缀</code><ul>
+<li>可简单理解为腾讯云 COS 中的目录</li>
+<li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="https://ipic-1251234567.cossh.myqcloud.com/blog/pic.jpg" target="_blank" rel="external">https://ipic-1251234567.cossh.myqcloud.com/blog/pic.jpg</a></em></li>
+</ul>
+</li>
+<li><code>自定义文件名</code><ul>
+<li>支持以下三种文件名</li>
+<li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li>
+<li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li>
+<li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li>
+</ul>
+</li>
+<li><code>网址后缀</code><ul>
+<li>即在网址最后追加自定义的内容，为以后扩展预留</li>
+</ul>
+</li>
+</ul>
+<p>最后，点击 <strong>应用</strong> 按钮进行保存。</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;腾讯云对象存储（COS: Cloud Object Storage）是面向企业和个人开发者提供的高可用，高稳定，强安全的云端存储服务。更多介绍，可参考 &lt;a href=&quot;https://cloud.tencent.com/product/cos&quot;&gt;官方介绍&lt;/a&gt;&lt;/p&gt;&lt;h1 id=&quot;在-iPic-中添加腾讯云-COS-图床&quot;&gt;&lt;a href=&quot;#在-iPic-中添加腾讯云-COS-图床&quot; class=&quot;headerlink&quot; title=&quot;在 iPic 中添加腾讯云 COS 图床&quot;&gt;&lt;/a&gt;在 iPic 中添加腾讯云 COS 图床&lt;/h1&gt;&lt;p&gt;打开 &lt;code&gt;偏好设置&lt;/code&gt;，进入 &lt;code&gt;图床&lt;/code&gt; 页，选择添加 &lt;code&gt;腾讯云 COS&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/7zix6.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;以下分别介绍各项的意义及如何配置：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;&lt;li&gt;即腾讯云 COS 中对应的 Bucket&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;&lt;li&gt;即腾讯云 API 密钥管理中的 SecretId 与 SecretKey&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;网址前缀&lt;/code&gt;&lt;ul&gt;&lt;li&gt;用于生成上传图片的完成 Http 路径，比如 &lt;em&gt;&lt;a href=&quot;https://ipic-1251234567.cossh.myqcloud.com&quot;&gt;https://ipic-1251234567.cossh.myqcloud.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;li&gt;如果你绑定了域名，可以使用绑定的域名&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;完成输入后，可以点击 &lt;strong&gt;验证&lt;/strong&gt; 按钮。如果输入没有问题，则右侧会出现 &lt;strong&gt;通过&lt;/strong&gt; 链接，点击后就可以看到测试时上传的图片。&lt;/p&gt;
+      &lt;p&gt;腾讯云对象存储（COS: Cloud Object Storage）是面向企业和个人开发者提供的高可用，高稳定，强安全的云端存储服务。更多介绍，可参考 &lt;a href=&quot;https://cloud.tencent.com/product/cos&quot;&gt;官方介绍&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;在-iPic-中添加腾讯云-COS-图床&quot;&gt;&lt;a href=&quot;#在-iPic-中添加腾讯云-COS-图床&quot; class=&quot;headerlink&quot; title=&quot;在 iPic 中添加腾讯云 COS 图床&quot;&gt;&lt;/a&gt;在 iPic 中添加腾讯云 COS 图床&lt;/h1&gt;&lt;p&gt;打开 &lt;code&gt;偏好设置&lt;/code&gt;，进入 &lt;code&gt;图床&lt;/code&gt; 页，选择添加 &lt;code&gt;腾讯云 COS&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/7zix6.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;以下分别介绍各项的意义及如何配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;即腾讯云 COS 中对应的 Bucket&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;即腾讯云 API 密钥管理中的 SecretId 与 SecretKey&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;网址前缀&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;用于生成上传图片的完成 Http 路径，比如 &lt;em&gt;&lt;a href=&quot;https://ipic-1251234567.cossh.myqcloud.com&quot;&gt;https://ipic-1251234567.cossh.myqcloud.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;如果你绑定了域名，可以使用绑定的域名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;完成输入后，可以点击 &lt;strong&gt;验证&lt;/strong&gt; 按钮。如果输入没有问题，则右侧会出现 &lt;strong&gt;通过&lt;/strong&gt; 链接，点击后就可以看到测试时上传的图片。&lt;/p&gt;
     
     </summary>
     
@@ -282,11 +606,86 @@
     <published>2016-12-09T00:08:08.000Z</published>
     <updated>2018-11-07T12:34:01.252Z</updated>
     
-    <content type="html"><![CDATA[<p>最近大家多次提到在 iPic 中支持<code>又拍云</code>，于是 iPic 就支持了<code>又拍云</code>。</p><h1 id="注册又拍云账户"><a href="#注册又拍云账户" class="headerlink" title="注册又拍云账户"></a>注册又拍云账户</h1><p>这点比较简单，直接到 <a href="https://console.upyun.com/#/register/" target="_blank" rel="external">这里</a> 注册即可。</p><h1 id="在又拍云中添加资源"><a href="#在又拍云中添加资源" class="headerlink" title="在又拍云中添加资源"></a>在又拍云中添加资源</h1><p>又拍的数据处理是以 <strong>服务</strong> 为单位的。登录又拍后，进入 <a href="https://console.upyun.com/#/services/" target="_blank" rel="external">服务</a> 页面。下面简单介绍注册的过程（图在上、文字介绍在下）：</p><p><img src="https://ps.toolinbox.net/ahyp3.jpg" alt=""></p><ul><li>点击 <code>创建服务</code></li></ul><a id="more"></a><p><img src="https://ps.toolinbox.net/cgmyw.jpg" alt=""></p><ul><li>输入 <code>服务名称</code></li></ul><p><img src="https://ps.toolinbox.net/rk4by.jpg" alt=""></p><ul><li>选择 <code>又拍云存储</code></li></ul><p><img src="https://ps.toolinbox.net/0d6ak.jpg" alt=""></p><ul><li>添加操作员。注意：至少选中 <code>可写入</code> 权限</li></ul><p><img src="https://ps.toolinbox.net/10rti.jpg" alt=""></p><ul><li>创建完成</li></ul><h1 id="在-iPic-中添加又拍图床"><a href="#在-iPic-中添加又拍图床" class="headerlink" title="在 iPic 中添加又拍图床"></a>在 iPic 中添加又拍图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>又拍</code>。以下分别介绍各项的意义及如何配置：</p><p><img src="https://ps.toolinbox.net/ihqg0.png" alt=""></p><ul><li><code>服务</code><ul><li>就是刚才创建的 <em>资源</em>，这里即是 <em>ipic-test</em></li></ul></li><li><code>操作员</code> 与 <code>密码</code><ul><li>就是刚才创建的 <em>操作员</em> 及其 <em>密码</em></li></ul></li><li><code>网址前缀</code><ul><li>用于生成上传图片的完成 Http 路径，比如 <em><a href="http://ipic-test.b0.upaiyun.com/logo.jpg" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/logo.jpg</a></em></li><li>当输入服务时，网址前缀会自动填充，比如 <em><a href="http://ipic-test.b0.upaiyun.com/" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/</a></em></li><li>如果你绑定了域名，可以使用绑定的域名。</li></ul></li></ul><p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传至又拍的图片。</p><p>除了上述基本的设置，又拍图床还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p><p><img src="https://ps.toolinbox.net/wzz8v.jpg" alt=""></p><ul><li><code>网址前缀</code><ul><li>和前文介绍的一致</li></ul></li><li><code>文件名前缀</code><ul><li>可简单理解为图床中的目录</li><li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="http://ipic-test.b0.upaiyun.com/blog/pic.jpg" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/blog/pic.jpg</a></em></li></ul></li><li><code>自定义文件名</code><ul><li>支持以下三种文件名</li><li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li><li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li><li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li></ul></li><li><code>网址后缀</code><ul><li>可用于自定义图片版本。比如，在又拍中添加了名字为 <code>s</code> 的版本表示缩略图，间隔标识符为 <code>-</code>，则可以在 <code>网址后缀</code> 中输入 <code>-s</code>。这样之后每次上传图片生成的链接最后都会附上 <code>-s</code>，也即表示缩略图。</li></ul></li></ul><p>最后，点击 <strong>应用</strong> 按钮进行保存。</p><h1 id="使用又拍云"><a href="#使用又拍云" class="headerlink" title="使用又拍云"></a>使用又拍云</h1><p>在 <code>iPic 菜单 &gt; 图床</code> 中选择刚刚添加的又拍，之后上传的图片就会在又拍图床中。</p>]]></content>
+    <content type="html"><![CDATA[<p>最近大家多次提到在 iPic 中支持<code>又拍云</code>，于是 iPic 就支持了<code>又拍云</code>。</p>
+<h1 id="注册又拍云账户"><a href="#注册又拍云账户" class="headerlink" title="注册又拍云账户"></a>注册又拍云账户</h1><p>这点比较简单，直接到 <a href="https://console.upyun.com/#/register/" target="_blank" rel="external">这里</a> 注册即可。</p>
+<h1 id="在又拍云中添加资源"><a href="#在又拍云中添加资源" class="headerlink" title="在又拍云中添加资源"></a>在又拍云中添加资源</h1><p>又拍的数据处理是以 <strong>服务</strong> 为单位的。登录又拍后，进入 <a href="https://console.upyun.com/#/services/" target="_blank" rel="external">服务</a> 页面。下面简单介绍注册的过程（图在上、文字介绍在下）：</p>
+<p><img src="https://ps.toolinbox.net/ahyp3.jpg" alt=""></p>
+<ul>
+<li>点击 <code>创建服务</code></li>
+</ul>
+<a id="more"></a>
+<p><img src="https://ps.toolinbox.net/cgmyw.jpg" alt=""></p>
+<ul>
+<li>输入 <code>服务名称</code></li>
+</ul>
+<p><img src="https://ps.toolinbox.net/rk4by.jpg" alt=""></p>
+<ul>
+<li>选择 <code>又拍云存储</code></li>
+</ul>
+<p><img src="https://ps.toolinbox.net/0d6ak.jpg" alt=""></p>
+<ul>
+<li>添加操作员。注意：至少选中 <code>可写入</code> 权限</li>
+</ul>
+<p><img src="https://ps.toolinbox.net/10rti.jpg" alt=""></p>
+<ul>
+<li>创建完成</li>
+</ul>
+<h1 id="在-iPic-中添加又拍图床"><a href="#在-iPic-中添加又拍图床" class="headerlink" title="在 iPic 中添加又拍图床"></a>在 iPic 中添加又拍图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>又拍</code>。以下分别介绍各项的意义及如何配置：</p>
+<p><img src="https://ps.toolinbox.net/ihqg0.png" alt=""></p>
+<ul>
+<li><code>服务</code><ul>
+<li>就是刚才创建的 <em>资源</em>，这里即是 <em>ipic-test</em></li>
+</ul>
+</li>
+<li><code>操作员</code> 与 <code>密码</code><ul>
+<li>就是刚才创建的 <em>操作员</em> 及其 <em>密码</em></li>
+</ul>
+</li>
+<li><code>网址前缀</code><ul>
+<li>用于生成上传图片的完成 Http 路径，比如 <em><a href="http://ipic-test.b0.upaiyun.com/logo.jpg" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/logo.jpg</a></em></li>
+<li>当输入服务时，网址前缀会自动填充，比如 <em><a href="http://ipic-test.b0.upaiyun.com/" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/</a></em></li>
+<li>如果你绑定了域名，可以使用绑定的域名。</li>
+</ul>
+</li>
+</ul>
+<p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传至又拍的图片。</p>
+<p>除了上述基本的设置，又拍图床还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p>
+<p><img src="https://ps.toolinbox.net/wzz8v.jpg" alt=""></p>
+<ul>
+<li><code>网址前缀</code><ul>
+<li>和前文介绍的一致</li>
+</ul>
+</li>
+<li><code>文件名前缀</code><ul>
+<li>可简单理解为图床中的目录</li>
+<li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="http://ipic-test.b0.upaiyun.com/blog/pic.jpg" target="_blank" rel="external">http://ipic-test.b0.upaiyun.com/blog/pic.jpg</a></em></li>
+</ul>
+</li>
+<li><code>自定义文件名</code><ul>
+<li>支持以下三种文件名</li>
+<li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li>
+<li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li>
+<li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li>
+</ul>
+</li>
+<li><code>网址后缀</code><ul>
+<li>可用于自定义图片版本。比如，在又拍中添加了名字为 <code>s</code> 的版本表示缩略图，间隔标识符为 <code>-</code>，则可以在 <code>网址后缀</code> 中输入 <code>-s</code>。这样之后每次上传图片生成的链接最后都会附上 <code>-s</code>，也即表示缩略图。</li>
+</ul>
+</li>
+</ul>
+<p>最后，点击 <strong>应用</strong> 按钮进行保存。</p>
+<h1 id="使用又拍云"><a href="#使用又拍云" class="headerlink" title="使用又拍云"></a>使用又拍云</h1><p>在 <code>iPic 菜单 &gt; 图床</code> 中选择刚刚添加的又拍，之后上传的图片就会在又拍图床中。</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;最近大家多次提到在 iPic 中支持&lt;code&gt;又拍云&lt;/code&gt;，于是 iPic 就支持了&lt;code&gt;又拍云&lt;/code&gt;。&lt;/p&gt;&lt;h1 id=&quot;注册又拍云账户&quot;&gt;&lt;a href=&quot;#注册又拍云账户&quot; class=&quot;headerlink&quot; title=&quot;注册又拍云账户&quot;&gt;&lt;/a&gt;注册又拍云账户&lt;/h1&gt;&lt;p&gt;这点比较简单，直接到 &lt;a href=&quot;https://console.upyun.com/#/register/&quot;&gt;这里&lt;/a&gt; 注册即可。&lt;/p&gt;&lt;h1 id=&quot;在又拍云中添加资源&quot;&gt;&lt;a href=&quot;#在又拍云中添加资源&quot; class=&quot;headerlink&quot; title=&quot;在又拍云中添加资源&quot;&gt;&lt;/a&gt;在又拍云中添加资源&lt;/h1&gt;&lt;p&gt;又拍的数据处理是以 &lt;strong&gt;服务&lt;/strong&gt; 为单位的。登录又拍后，进入 &lt;a href=&quot;https://console.upyun.com/#/services/&quot;&gt;服务&lt;/a&gt; 页面。下面简单介绍注册的过程（图在上、文字介绍在下）：&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/ahyp3.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;点击 &lt;code&gt;创建服务&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;
+      &lt;p&gt;最近大家多次提到在 iPic 中支持&lt;code&gt;又拍云&lt;/code&gt;，于是 iPic 就支持了&lt;code&gt;又拍云&lt;/code&gt;。&lt;/p&gt;
+&lt;h1 id=&quot;注册又拍云账户&quot;&gt;&lt;a href=&quot;#注册又拍云账户&quot; class=&quot;headerlink&quot; title=&quot;注册又拍云账户&quot;&gt;&lt;/a&gt;注册又拍云账户&lt;/h1&gt;&lt;p&gt;这点比较简单，直接到 &lt;a href=&quot;https://console.upyun.com/#/register/&quot;&gt;这里&lt;/a&gt; 注册即可。&lt;/p&gt;
+&lt;h1 id=&quot;在又拍云中添加资源&quot;&gt;&lt;a href=&quot;#在又拍云中添加资源&quot; class=&quot;headerlink&quot; title=&quot;在又拍云中添加资源&quot;&gt;&lt;/a&gt;在又拍云中添加资源&lt;/h1&gt;&lt;p&gt;又拍的数据处理是以 &lt;strong&gt;服务&lt;/strong&gt; 为单位的。登录又拍后，进入 &lt;a href=&quot;https://console.upyun.com/#/services/&quot;&gt;服务&lt;/a&gt; 页面。下面简单介绍注册的过程（图在上、文字介绍在下）：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/ahyp3.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;点击 &lt;code&gt;创建服务&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
@@ -302,11 +701,76 @@
     <published>2016-12-09T00:08:08.000Z</published>
     <updated>2018-11-07T12:34:10.843Z</updated>
     
-    <content type="html"><![CDATA[<p>Amazon Simple Storage Service (<a href="https://aws.amazon.com/s3/" target="_blank" rel="external">Amazon S3</a>) 可轻松使用对象存储，具有简单的 Web 服务接口，可用于在 Web 上的任何位置存储和检索任意数量的数据。更多介绍，可参考 <a href="http://docs.aws.amazon.com/zh_cn/AmazonS3/latest/gsg/GetStartedWithS3.html" target="_blank" rel="external">Amazon S3 入门指南</a></p><h1 id="在-iPic-中添加-Amazon-S3-图床"><a href="#在-iPic-中添加-Amazon-S3-图床" class="headerlink" title="在 iPic 中添加 Amazon S3 图床"></a>在 iPic 中添加 Amazon S3 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>Amazon S3</code></p><p><img src="https://ps.toolinbox.net/s1hej.jpg" alt=""></p><p>以下分别介绍各项的意义及如何配置：</p><ul><li><code>Bucket</code><ul><li>即 Amazon S3 中对应的 Bucket</li></ul></li><li><code>Access Key</code> 与 <code>Secret Key</code><ul><li>推荐使用 Amazon 的 <a href="http://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html" target="_blank" rel="external">AWS Identity and Access Management (IAM) </a>来创建更安全的 Access Key 与 Secret Key，并设置对 Bucket 的最少权限</li></ul></li><li><code>网址前缀</code><ul><li>用于生成上传图片的完成 Http 路径，比如 <em><a href="https://ipic-test.s3.amazonaws.com" target="_blank" rel="external">https://ipic-test.s3.amazonaws.com</a></em></li><li>如果你绑定了域名，可以使用绑定的域名</li></ul></li></ul><p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传的图片。</p><a id="more"></a><p>除了上述基本的设置，Amazon S3 还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p><p><img src="https://ps.toolinbox.net/sjlh5.jpg" alt=""></p><ul><li><code>网址前缀</code><ul><li>和前文介绍的一致</li></ul></li><li><code>文件名前缀</code><ul><li>可简单理解为 Amazon S3 中的目录</li><li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="https://ipic-test.s3.amazonaws.com/blog/pic.jpg" target="_blank" rel="external">https://ipic-test.s3.amazonaws.com/blog/pic.jpg</a></em></li></ul></li><li><code>自定义文件名</code><ul><li>支持以下三种文件名</li><li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li><li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li><li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li></ul></li><li><code>网址后缀</code><ul><li>即在网址最后追加自定义的内容，为以后扩展预留</li></ul></li></ul><p>最后，点击 <strong>应用</strong> 按钮进行保存。</p>]]></content>
+    <content type="html"><![CDATA[<p>Amazon Simple Storage Service (<a href="https://aws.amazon.com/s3/" target="_blank" rel="external">Amazon S3</a>) 可轻松使用对象存储，具有简单的 Web 服务接口，可用于在 Web 上的任何位置存储和检索任意数量的数据。更多介绍，可参考 <a href="http://docs.aws.amazon.com/zh_cn/AmazonS3/latest/gsg/GetStartedWithS3.html" target="_blank" rel="external">Amazon S3 入门指南</a></p>
+<h1 id="在-iPic-中添加-Amazon-S3-图床"><a href="#在-iPic-中添加-Amazon-S3-图床" class="headerlink" title="在 iPic 中添加 Amazon S3 图床"></a>在 iPic 中添加 Amazon S3 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>Amazon S3</code></p>
+<p><img src="https://ps.toolinbox.net/s1hej.jpg" alt=""></p>
+<p>以下分别介绍各项的意义及如何配置：</p>
+<ul>
+<li><code>Bucket</code><ul>
+<li>即 Amazon S3 中对应的 Bucket</li>
+</ul>
+</li>
+<li><code>Access Key</code> 与 <code>Secret Key</code><ul>
+<li>推荐使用 Amazon 的 <a href="http://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html" target="_blank" rel="external">AWS Identity and Access Management (IAM) </a> 来创建更安全的 Access Key 与 Secret Key，并设置对 Bucket 的最少权限</li>
+</ul>
+</li>
+<li><code>网址前缀</code><ul>
+<li>用于生成上传图片的完成 Http 路径，比如 <em><a href="https://ipic-test.s3.amazonaws.com" target="_blank" rel="external">https://ipic-test.s3.amazonaws.com</a></em></li>
+<li>如果你绑定了域名，可以使用绑定的域名</li>
+</ul>
+</li>
+</ul>
+<p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传的图片。</p>
+<a id="more"></a>
+<p>除了上述基本的设置，Amazon S3 还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p>
+<p><img src="https://ps.toolinbox.net/sjlh5.jpg" alt=""></p>
+<ul>
+<li><code>网址前缀</code><ul>
+<li>和前文介绍的一致</li>
+</ul>
+</li>
+<li><code>文件名前缀</code><ul>
+<li>可简单理解为 Amazon S3 中的目录</li>
+<li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="https://ipic-test.s3.amazonaws.com/blog/pic.jpg" target="_blank" rel="external">https://ipic-test.s3.amazonaws.com/blog/pic.jpg</a></em></li>
+</ul>
+</li>
+<li><code>自定义文件名</code><ul>
+<li>支持以下三种文件名</li>
+<li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li>
+<li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li>
+<li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li>
+</ul>
+</li>
+<li><code>网址后缀</code><ul>
+<li>即在网址最后追加自定义的内容，为以后扩展预留</li>
+</ul>
+</li>
+</ul>
+<p>最后，点击 <strong>应用</strong> 按钮进行保存。</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Amazon Simple Storage Service (&lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt;) 可轻松使用对象存储，具有简单的 Web 服务接口，可用于在 Web 上的任何位置存储和检索任意数量的数据。更多介绍，可参考 &lt;a href=&quot;http://docs.aws.amazon.com/zh_cn/AmazonS3/latest/gsg/GetStartedWithS3.html&quot;&gt;Amazon S3 入门指南&lt;/a&gt;&lt;/p&gt;&lt;h1 id=&quot;在-iPic-中添加-Amazon-S3-图床&quot;&gt;&lt;a href=&quot;#在-iPic-中添加-Amazon-S3-图床&quot; class=&quot;headerlink&quot; title=&quot;在 iPic 中添加 Amazon S3 图床&quot;&gt;&lt;/a&gt;在 iPic 中添加 Amazon S3 图床&lt;/h1&gt;&lt;p&gt;打开 &lt;code&gt;偏好设置&lt;/code&gt;，进入 &lt;code&gt;图床&lt;/code&gt; 页，选择添加 &lt;code&gt;Amazon S3&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/s1hej.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;以下分别介绍各项的意义及如何配置：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;&lt;li&gt;即 Amazon S3 中对应的 Bucket&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;&lt;li&gt;推荐使用 Amazon 的 &lt;a href=&quot;http://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html&quot;&gt;AWS Identity and Access Management (IAM) &lt;/a&gt;来创建更安全的 Access Key 与 Secret Key，并设置对 Bucket 的最少权限&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;网址前缀&lt;/code&gt;&lt;ul&gt;&lt;li&gt;用于生成上传图片的完成 Http 路径，比如 &lt;em&gt;&lt;a href=&quot;https://ipic-test.s3.amazonaws.com&quot;&gt;https://ipic-test.s3.amazonaws.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;li&gt;如果你绑定了域名，可以使用绑定的域名&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;完成输入后，可以点击 &lt;strong&gt;验证&lt;/strong&gt; 按钮。如果输入没有问题，则右侧会出现 &lt;strong&gt;通过&lt;/strong&gt; 链接，点击后就可以看到测试时上传的图片。&lt;/p&gt;
+      &lt;p&gt;Amazon Simple Storage Service (&lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt;) 可轻松使用对象存储，具有简单的 Web 服务接口，可用于在 Web 上的任何位置存储和检索任意数量的数据。更多介绍，可参考 &lt;a href=&quot;http://docs.aws.amazon.com/zh_cn/AmazonS3/latest/gsg/GetStartedWithS3.html&quot;&gt;Amazon S3 入门指南&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;在-iPic-中添加-Amazon-S3-图床&quot;&gt;&lt;a href=&quot;#在-iPic-中添加-Amazon-S3-图床&quot; class=&quot;headerlink&quot; title=&quot;在 iPic 中添加 Amazon S3 图床&quot;&gt;&lt;/a&gt;在 iPic 中添加 Amazon S3 图床&lt;/h1&gt;&lt;p&gt;打开 &lt;code&gt;偏好设置&lt;/code&gt;，进入 &lt;code&gt;图床&lt;/code&gt; 页，选择添加 &lt;code&gt;Amazon S3&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/s1hej.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;以下分别介绍各项的意义及如何配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;即 Amazon S3 中对应的 Bucket&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;推荐使用 Amazon 的 &lt;a href=&quot;http://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html&quot;&gt;AWS Identity and Access Management (IAM) &lt;/a&gt; 来创建更安全的 Access Key 与 Secret Key，并设置对 Bucket 的最少权限&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;网址前缀&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;用于生成上传图片的完成 Http 路径，比如 &lt;em&gt;&lt;a href=&quot;https://ipic-test.s3.amazonaws.com&quot;&gt;https://ipic-test.s3.amazonaws.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;如果你绑定了域名，可以使用绑定的域名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;完成输入后，可以点击 &lt;strong&gt;验证&lt;/strong&gt; 按钮。如果输入没有问题，则右侧会出现 &lt;strong&gt;通过&lt;/strong&gt; 链接，点击后就可以看到测试时上传的图片。&lt;/p&gt;
     
     </summary>
     
@@ -322,31 +786,118 @@
     <published>2016-12-06T00:08:08.000Z</published>
     <updated>2018-11-07T12:34:34.257Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://www.aliyun.com/product/oss" target="_blank" rel="external">阿里云对象存储</a>（Object Storage Service，简称OSS），是阿里云对外提供的云存储服务。OSS适合存放任意文件类型，有很多朋友将其作为静态网站加速、或图床。本文就介绍下如何在 iPic 中添加阿里 OSS 图床。</p><h1 id="在偏好设置中添加阿里云-OSS-图床"><a href="#在偏好设置中添加阿里云-OSS-图床" class="headerlink" title="在偏好设置中添加阿里云 OSS 图床"></a>在偏好设置中添加阿里云 OSS 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>阿里云 OSS</code></p><p><img src="https://ps.toolinbox.net/ov7rp.jpg" alt=""></p><p>以下分别介绍各项的意义及如何配置：</p><ul><li><code>Bucket</code><ul><li>即阿里云 OSS 中对应的 Bucket</li><li>更多介绍，请参考下文中的 <a href="#创建阿里云-OSS-存储空间（即-Bucket）">创建阿里云 OSS 存储空间（即 Bucket）</a></li></ul></li><li><code>Access Key</code> 与 <code>Secret Key</code><ul><li>这个稍微有点复杂，不熟悉的朋友可以看下文中的 <a href="#使用安全的-AccessKey">使用安全的 AccessKey</a></li></ul></li><li><code>网址前缀</code><ul><li>用于生成上传图片的完成 Http 路径，比如 <em><a href="http://ipic-test.oss-cn-hangzhou.aliyuncs.com" target="_blank" rel="external">http://ipic-test.oss-cn-hangzhou.aliyuncs.com</a></em></li><li>（可选）如果你绑定了域名，可以使用绑定的域名</li><li>更多介绍，请参考下文中的 <a href="#阿里云-OSS-域名管理">阿里云 OSS 域名管理</a></li></ul></li></ul><p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传至又拍的图片。</p><a id="more"></a><p>除了上述基本的设置，阿里云 OSS 还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p><p><img src="https://ps.toolinbox.net/adsfk.jpg" alt=""></p><ul><li><code>网址前缀</code><ul><li>和前文介绍的一致</li></ul></li><li><code>文件名前缀</code><ul><li>可简单理解为阿里云 OSS 中的目录</li><li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="http://ipic-test.oss-cn-hangzhou.aliyuncs.com/blog/pic.jpg" target="_blank" rel="external">http://ipic-test.oss-cn-hangzhou.aliyuncs.com/blog/pic.jpg</a></em></li></ul></li><li><code>自定义文件名</code><ul><li>支持以下三种文件名</li><li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li><li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li><li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li></ul></li><li><code>网址后缀</code><ul><li>可用于阿里云 OSS 中的自定义样式</li><li>比如，在又拍中添加了名字为 <code>s</code> 的版本表示缩略图，间隔标识符为 <code>-</code>，则可以在 <code>网址后缀</code> 中输入 <code>-s</code>。这样之后每次上传图片生成的链接最后都会附上 <code>-s</code>，例如：<em><a href="http://ipic-test.oss-cn-hangzhou.aliyuncs.com/blog/pic.jpg-s" target="_blank" rel="external">http://ipic-test.oss-cn-hangzhou.aliyuncs.com/blog/pic.jpg-s</a></em></li></ul></li></ul><p>最后，点击 <strong>应用</strong> 按钮进行保存。</p><h1 id="阿里云-OSS-介绍"><a href="#阿里云-OSS-介绍" class="headerlink" title="阿里云 OSS 介绍"></a>阿里云 OSS 介绍</h1><h2 id="创建阿里云-OSS-存储空间（即-Bucket）"><a href="#创建阿里云-OSS-存储空间（即-Bucket）" class="headerlink" title="创建阿里云 OSS 存储空间（即 Bucket）"></a>创建阿里云 OSS 存储空间（即 Bucket）</h2><p>首先，需要 <a href="https://help.aliyun.com/document_detail/31884.html" target="_blank" rel="external">开通 OSS 服务</a></p><p>然后，可参考此教程：<a href="https://help.aliyun.com/document_detail/31885.html" target="_blank" rel="external">创建存储空间</a></p><p>创建后，打开该 Bucket，点击 <code>Bucket 预览</code>，在页面底部即可看到 <code>OSS 外网域名</code>，即是 iPic 图床配置中的 <code>网址前缀</code></p><p><img src="https://ps.toolinbox.net/9i2dn.png" alt=""></p><h2 id="使用安全的-AccessKey"><a href="#使用安全的-AccessKey" class="headerlink" title="使用安全的 AccessKey"></a>使用安全的 AccessKey</h2><p>默认的 AccessKey 具体全部权限，从安全的角度，并不建议直接使用。而事实上，阿里云有更复杂、安全的访问控制服务 RAM (Resource Access Management) 这里简单介绍下如何创建仅能访问某一 Bucket 的 AccessKey.</p><h3 id="新建授权策略"><a href="#新建授权策略" class="headerlink" title="新建授权策略"></a>新建授权策略</h3><p>进入并开启 <code>访问控制</code> 面板</p><p><img src="https://ps.toolinbox.net/edzro.png" alt=""></p><p>点击 <code>授权策略管理</code>，然后点击 <code>新建授权策略</code></p><p><img src="https://ps.toolinbox.net/uokdh.png" alt=""></p><p>搜索 oss，选择 <code>AliyunOSSFullAccess</code> 进入下一步</p><p><img src="https://ps.toolinbox.net/o3qjm.png" alt=""></p><p>设置 <code>授权策略名称</code>，并填写如下内容（注意，需要将 <code>ipic-test</code> 替换为你实际的 Bucket 名称）：</p><p><img src="https://ps.toolinbox.net/hn0vh.png" alt=""></p><figure class="highlight json"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">&#123;</div><div class="line">  <span class="attr">"Statement"</span>: [</div><div class="line">    &#123;</div><div class="line">      <span class="attr">"Action"</span>: <span class="string">"oss:*"</span>,</div><div class="line">      <span class="attr">"Effect"</span>: <span class="string">"Allow"</span>,</div><div class="line">      <span class="attr">"Resource"</span>: [</div><div class="line">        <span class="string">"acs:oss:*:*:ipic-test"</span>,</div><div class="line">        <span class="string">"acs:oss:*:*:ipic-test/*"</span></div><div class="line">      ]</div><div class="line">    &#125;</div><div class="line">  ],</div><div class="line">  <span class="attr">"Version"</span>: <span class="string">"1"</span></div><div class="line">&#125;</div></pre></td></tr></table></figure><p>最后，点击 <code>新建授权策略</code></p><h3 id="新建用户"><a href="#新建用户" class="headerlink" title="新建用户"></a>新建用户</h3><p>依次点击 <code>用户管理</code> &gt; <code>新建用户</code></p><p><img src="https://ps.toolinbox.net/pkshf.png" alt=""></p><p>填写登录名，注意勾选 <code>为该用户自动生成 AccessKey</code>，然后点击确定</p><p><img src="https://ps.toolinbox.net/sycgg.png" alt=""></p><p>保存这里的 <code>AccessKeyID</code> 与 <code>AccessKeySecret</code>，分别对应 iPic 图床配置中的 <code>Access Key</code> 与 <code>Secret Key</code></p><p><img src="https://ps.toolinbox.net/tx7sx.png" alt=""></p><p>在用户列表界面点击新创建用户对应的 <code>授权</code></p><p><img src="https://ps.toolinbox.net/snc3g.png" alt=""></p><p>搜索刚刚创建的策略名称，并点击 <code>&gt;</code> 将其移至右侧，然后点击 <code>确定</code></p><p><img src="https://ps.toolinbox.net/12jxj.png" alt=""></p><p><img src="https://ps.toolinbox.net/inquj.png" alt=""></p><p>这样，就完成了新建用户及授权，接下来可以使用文章开头介绍的方法，使用该 AccessKey 连接阿里云 OSS 图床。</p><h2 id="阿里云-OSS-图片处理服务"><a href="#阿里云-OSS-图片处理服务" class="headerlink" title="阿里云 OSS 图片处理服务"></a>阿里云 OSS 图片处理服务</h2><p>和七牛等图床一样，阿里云 OSS 也支持自定义图片样式，比如宽度最大为 500 px 的缩略图。需要注意的是，如果要使用自定义样式，网址前缀就要使用图片服务特定的网址，而非一般文件的网址。比如：</p><ul><li>一般文件的网址：<a href="http://ipic-test.oss-cn-hangzhou.aliyuncs.com" target="_blank" rel="external">http://ipic-test.oss-cn-hangzhou.aliyuncs.com</a></li><li>图片服务特定网址：<a href="http://ipic-test.img-cn-hangzhou.aliyuncs.com" target="_blank" rel="external">http://ipic-test.img-cn-hangzhou.aliyuncs.com</a></li><li>事实上，也就是将标准链接中的 <em>oss</em> 替换为 <em>img</em></li></ul><p>具体的，在打开该 Bucket 后，点击 <code>图片处理</code>，然后在右侧即可看到 <code>图床服务的域名</code>，将其设置为 iPic 图床配置中的 <code>网址前缀</code>，即可使用阿里云 OSS <code>样式管理</code> 中所定义的样式。</p><p><img src="https://ps.toolinbox.net/ffdlr.png" alt=""></p><p>更多介绍：<a href="https://help.aliyun.com/document_detail/31917.html" target="_blank" rel="external">OSS 图片处理服务</a></p><h2 id="阿里云-OSS-域名管理"><a href="#阿里云-OSS-域名管理" class="headerlink" title="阿里云 OSS 域名管理"></a>阿里云 OSS 域名管理</h2><p>除了使用标准的域名，也可以绑定自己的域名。<br>官方教程：<a href="https://help.aliyun.com/document_detail/31902.html" target="_blank" rel="external">阿里 OSS 域名管理</a></p>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://www.aliyun.com/product/oss" target="_blank" rel="external">阿里云对象存储</a>（Object Storage Service，简称OSS），是阿里云对外提供的云存储服务。OSS适合存放任意文件类型，有很多朋友将其作为静态网站加速、或图床。本文就介绍下如何在 iPic 中添加阿里 OSS 图床。</p>
+<h1 id="在偏好设置中添加阿里云-OSS-图床"><a href="#在偏好设置中添加阿里云-OSS-图床" class="headerlink" title="在偏好设置中添加阿里云 OSS 图床"></a>在偏好设置中添加阿里云 OSS 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>阿里云 OSS</code></p>
+<p><img src="https://ps.toolinbox.net/ov7rp.jpg" alt=""></p>
+<p>以下分别介绍各项的意义及如何配置：</p>
+<ul>
+<li><code>Bucket</code><ul>
+<li>即阿里云 OSS 中对应的 Bucket</li>
+<li>更多介绍，请参考下文中的 <a href="#创建阿里云-OSS-存储空间（即-Bucket）">创建阿里云 OSS 存储空间（即 Bucket）</a></li>
+</ul>
+</li>
+<li><code>Access Key</code> 与 <code>Secret Key</code><ul>
+<li>这个稍微有点复杂，不熟悉的朋友可以看下文中的 <a href="#使用安全的-AccessKey">使用安全的 AccessKey</a></li>
+</ul>
+</li>
+<li><code>网址前缀</code><ul>
+<li>用于生成上传图片的完成 Http 路径，比如 <em><a href="http://ipic-test.oss-cn-hangzhou.aliyuncs.com" target="_blank" rel="external">http://ipic-test.oss-cn-hangzhou.aliyuncs.com</a></em></li>
+<li>（可选）如果你绑定了域名，可以使用绑定的域名</li>
+<li>更多介绍，请参考下文中的 <a href="#阿里云-OSS-域名管理">阿里云 OSS 域名管理</a></li>
+</ul>
+</li>
+</ul>
+<p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传至又拍的图片。</p>
+<a id="more"></a>
+<p>除了上述基本的设置，阿里云 OSS 还支持几项高级设置。点击 <code>网址前缀</code> 右侧的高级设置图标，即可弹出如下设置界面：</p>
+<p><img src="https://ps.toolinbox.net/adsfk.jpg" alt=""></p>
+<ul>
+<li><code>网址前缀</code><ul>
+<li>和前文介绍的一致</li>
+</ul>
+</li>
+<li><code>文件名前缀</code><ul>
+<li>可简单理解为阿里云 OSS 中的目录</li>
+<li>例如，如果希望 iPic 上传的图片都位于 <code>blog</code> 目录中，只要在这里输入 <code>blog</code>，所有上传的图片则均位于 <code>blog</code> 目录中，生成的图片链接类似于：<em><a href="http://ipic-test.oss-cn-hangzhou.aliyuncs.com/blog/pic.jpg" target="_blank" rel="external">http://ipic-test.oss-cn-hangzhou.aliyuncs.com/blog/pic.jpg</a></em></li>
+</ul>
+</li>
+<li><code>自定义文件名</code><ul>
+<li>支持以下三种文件名</li>
+<li><code>纯文件名</code> 也即和上传时文件名相同，比如 <code>pic.jpg</code></li>
+<li><code>日期-文件名</code> 也即和之前的 iPic 相同，比如 <code>2016-06-16-pic.jpg</code></li>
+<li><code>随机</code> 比如 <code>jk8l1.jpg</code>，可以大大缩短链接长度</li>
+</ul>
+</li>
+<li><code>网址后缀</code><ul>
+<li>可用于阿里云 OSS 中的自定义样式</li>
+<li>比如，在又拍中添加了名字为 <code>s</code> 的版本表示缩略图，间隔标识符为 <code>-</code>，则可以在 <code>网址后缀</code> 中输入 <code>-s</code>。这样之后每次上传图片生成的链接最后都会附上 <code>-s</code>，例如：<em><a href="http://ipic-test.oss-cn-hangzhou.aliyuncs.com/blog/pic.jpg-s" target="_blank" rel="external">http://ipic-test.oss-cn-hangzhou.aliyuncs.com/blog/pic.jpg-s</a></em></li>
+</ul>
+</li>
+</ul>
+<p>最后，点击 <strong>应用</strong> 按钮进行保存。</p>
+<h1 id="阿里云-OSS-介绍"><a href="#阿里云-OSS-介绍" class="headerlink" title="阿里云 OSS 介绍"></a>阿里云 OSS 介绍</h1><h2 id="创建阿里云-OSS-存储空间（即-Bucket）"><a href="#创建阿里云-OSS-存储空间（即-Bucket）" class="headerlink" title="创建阿里云 OSS 存储空间（即 Bucket）"></a>创建阿里云 OSS 存储空间（即 Bucket）</h2><p>首先，需要 <a href="https://help.aliyun.com/document_detail/31884.html" target="_blank" rel="external">开通 OSS 服务</a></p>
+<p>然后，可参考此教程：<a href="https://help.aliyun.com/document_detail/31885.html" target="_blank" rel="external">创建存储空间</a></p>
+<p>创建后，打开该 Bucket，点击 <code>Bucket 预览</code>，在页面底部即可看到 <code>OSS 外网域名</code>，即是 iPic 图床配置中的 <code>网址前缀</code></p>
+<p><img src="https://ps.toolinbox.net/9i2dn.png" alt=""></p>
+<h2 id="使用安全的-AccessKey"><a href="#使用安全的-AccessKey" class="headerlink" title="使用安全的 AccessKey"></a>使用安全的 AccessKey</h2><p>默认的 AccessKey 具体全部权限，从安全的角度，并不建议直接使用。而事实上，阿里云有更复杂、安全的访问控制服务 RAM (Resource Access Management) 这里简单介绍下如何创建仅能访问某一 Bucket 的 AccessKey.</p>
+<h3 id="新建授权策略"><a href="#新建授权策略" class="headerlink" title="新建授权策略"></a>新建授权策略</h3><p>进入并开启 <code>访问控制</code> 面板</p>
+<p><img src="https://ps.toolinbox.net/edzro.png" alt=""></p>
+<p>点击 <code>授权策略管理</code>，然后点击 <code>新建授权策略</code></p>
+<p><img src="https://ps.toolinbox.net/uokdh.png" alt=""></p>
+<p>搜索 oss，选择 <code>AliyunOSSFullAccess</code> 进入下一步</p>
+<p><img src="https://ps.toolinbox.net/o3qjm.png" alt=""></p>
+<p>设置 <code>授权策略名称</code>，并填写如下内容（注意，需要将 <code>ipic-test</code> 替换为你实际的 Bucket 名称）：</p>
+<p><img src="https://ps.toolinbox.net/hn0vh.png" alt=""></p>
+<figure class="highlight json"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">&#123;</div><div class="line">  <span class="attr">"Statement"</span>: [</div><div class="line">    &#123;</div><div class="line">      <span class="attr">"Action"</span>: <span class="string">"oss:*"</span>,</div><div class="line">      <span class="attr">"Effect"</span>: <span class="string">"Allow"</span>,</div><div class="line">      <span class="attr">"Resource"</span>: [</div><div class="line">        <span class="string">"acs:oss:*:*:ipic-test"</span>,</div><div class="line">        <span class="string">"acs:oss:*:*:ipic-test/*"</span></div><div class="line">      ]</div><div class="line">    &#125;</div><div class="line">  ],</div><div class="line">  <span class="attr">"Version"</span>: <span class="string">"1"</span></div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>最后，点击 <code>新建授权策略</code></p>
+<h3 id="新建用户"><a href="#新建用户" class="headerlink" title="新建用户"></a>新建用户</h3><p>依次点击 <code>用户管理</code> &gt; <code>新建用户</code> </p>
+<p><img src="https://ps.toolinbox.net/pkshf.png" alt=""></p>
+<p>填写登录名，注意勾选 <code>为该用户自动生成 AccessKey</code>，然后点击确定</p>
+<p><img src="https://ps.toolinbox.net/sycgg.png" alt=""></p>
+<p>保存这里的 <code>AccessKeyID</code> 与 <code>AccessKeySecret</code>，分别对应 iPic 图床配置中的 <code>Access Key</code> 与 <code>Secret Key</code></p>
+<p><img src="https://ps.toolinbox.net/tx7sx.png" alt=""></p>
+<p>在用户列表界面点击新创建用户对应的 <code>授权</code></p>
+<p><img src="https://ps.toolinbox.net/snc3g.png" alt=""></p>
+<p>搜索刚刚创建的策略名称，并点击 <code>&gt;</code> 将其移至右侧，然后点击 <code>确定</code></p>
+<p><img src="https://ps.toolinbox.net/12jxj.png" alt=""></p>
+<p><img src="https://ps.toolinbox.net/inquj.png" alt=""></p>
+<p>这样，就完成了新建用户及授权，接下来可以使用文章开头介绍的方法，使用该 AccessKey 连接阿里云 OSS 图床。</p>
+<h2 id="阿里云-OSS-图片处理服务"><a href="#阿里云-OSS-图片处理服务" class="headerlink" title="阿里云 OSS 图片处理服务"></a>阿里云 OSS 图片处理服务</h2><p>和七牛等图床一样，阿里云 OSS 也支持自定义图片样式，比如宽度最大为 500 px 的缩略图。需要注意的是，如果要使用自定义样式，网址前缀就要使用图片服务特定的网址，而非一般文件的网址。比如：</p>
+<ul>
+<li>一般文件的网址：<a href="http://ipic-test.oss-cn-hangzhou.aliyuncs.com" target="_blank" rel="external">http://ipic-test.oss-cn-hangzhou.aliyuncs.com</a></li>
+<li>图片服务特定网址：<a href="http://ipic-test.img-cn-hangzhou.aliyuncs.com" target="_blank" rel="external">http://ipic-test.img-cn-hangzhou.aliyuncs.com</a></li>
+<li>事实上，也就是将标准链接中的 <em>oss</em> 替换为 <em>img</em></li>
+</ul>
+<p>具体的，在打开该 Bucket 后，点击 <code>图片处理</code>，然后在右侧即可看到 <code>图床服务的域名</code>，将其设置为 iPic 图床配置中的 <code>网址前缀</code>，即可使用阿里云 OSS <code>样式管理</code> 中所定义的样式。</p>
+<p><img src="https://ps.toolinbox.net/ffdlr.png" alt=""></p>
+<p>更多介绍：<a href="https://help.aliyun.com/document_detail/31917.html" target="_blank" rel="external">OSS 图片处理服务</a></p>
+<h2 id="阿里云-OSS-域名管理"><a href="#阿里云-OSS-域名管理" class="headerlink" title="阿里云 OSS 域名管理"></a>阿里云 OSS 域名管理</h2><p>除了使用标准的域名，也可以绑定自己的域名。<br>官方教程：<a href="https://help.aliyun.com/document_detail/31902.html" target="_blank" rel="external">阿里 OSS 域名管理</a></p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;https://www.aliyun.com/product/oss&quot;&gt;阿里云对象存储&lt;/a&gt;（Object Storage Service，简称OSS），是阿里云对外提供的云存储服务。OSS适合存放任意文件类型，有很多朋友将其作为静态网站加速、或图床。本文就介绍下如何在 iPic 中添加阿里 OSS 图床。&lt;/p&gt;&lt;h1 id=&quot;在偏好设置中添加阿里云-OSS-图床&quot;&gt;&lt;a href=&quot;#在偏好设置中添加阿里云-OSS-图床&quot; class=&quot;headerlink&quot; title=&quot;在偏好设置中添加阿里云 OSS 图床&quot;&gt;&lt;/a&gt;在偏好设置中添加阿里云 OSS 图床&lt;/h1&gt;&lt;p&gt;打开 &lt;code&gt;偏好设置&lt;/code&gt;，进入 &lt;code&gt;图床&lt;/code&gt; 页，选择添加 &lt;code&gt;阿里云 OSS&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/ov7rp.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;以下分别介绍各项的意义及如何配置：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;&lt;li&gt;即阿里云 OSS 中对应的 Bucket&lt;/li&gt;&lt;li&gt;更多介绍，请参考下文中的 &lt;a href=&quot;#创建阿里云-OSS-存储空间（即-Bucket）&quot;&gt;创建阿里云 OSS 存储空间（即 Bucket）&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;&lt;li&gt;这个稍微有点复杂，不熟悉的朋友可以看下文中的 &lt;a href=&quot;#使用安全的-AccessKey&quot;&gt;使用安全的 AccessKey&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;网址前缀&lt;/code&gt;&lt;ul&gt;&lt;li&gt;用于生成上传图片的完成 Http 路径，比如 &lt;em&gt;&lt;a href=&quot;http://ipic-test.oss-cn-hangzhou.aliyuncs.com&quot;&gt;http://ipic-test.oss-cn-hangzhou.aliyuncs.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;li&gt;（可选）如果你绑定了域名，可以使用绑定的域名&lt;/li&gt;&lt;li&gt;更多介绍，请参考下文中的 &lt;a href=&quot;#阿里云-OSS-域名管理&quot;&gt;阿里云 OSS 域名管理&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;完成输入后，可以点击 &lt;strong&gt;验证&lt;/strong&gt; 按钮。如果输入没有问题，则右侧会出现 &lt;strong&gt;通过&lt;/strong&gt; 链接，点击后就可以看到测试时上传至又拍的图片。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Typora: 首个集成 iPic 上传服务的 Markdown 编辑器</title>
-    <link href="https://toolinbox.net/iPic/iPicUploader_Typora.html"/>
-    <id>https://toolinbox.net/iPic/iPicUploader_Typora.html</id>
-    <published>2016-11-09T00:08:08.000Z</published>
-    <updated>2019-04-25T02:36:30.984Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://ps.toolinbox.net/z68rh.jpg" alt=""></p><p>有了 <a href="https://toolinbox.net/iPic/">iPic</a> 的加持，<a href="http://www.typora.io/" target="_blank" rel="external">Typora</a> 也可以很方便地在 Markdown 中插图。</p><h1 id="一键上传本地图片"><a href="#一键上传本地图片" class="headerlink" title="一键上传本地图片"></a>一键上传本地图片</h1><p>如果已经在 Markdown 中使用的本地图片、需要将其上传至图床，只要一键：</p><p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah02u0ekcg30ha0c0k3l.gif" alt=""></p><a id="more"></a><h1 id="插入图片时自动上传至图床"><a href="#插入图片时自动上传至图床" class="headerlink" title="插入图片时自动上传至图床"></a>插入图片时自动上传至图床</h1><p>如果在开启此选择，则在插入本地图片时，自动上传至图床、并替换图床链接。</p><p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah02vc5sdg30hm0bsnbg.gif" alt=""></p><h1 id="iPicUploader"><a href="#iPicUploader" class="headerlink" title="iPicUploader"></a>iPicUploader</h1><p><a href="https://toolinbox.net/iPic/iPicUploader.html">前情回顾</a></p><p>图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。同时，iPic 开放了自己的上传服务：如果你的 App 也需要上传图片至图床，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。</p><p>这就是 <strong>iPicUploader</strong> 目前，iPicUploader 已经开源、并发布在 GitHub 中。</p><p><a href="https://github.com/toolinbox/iPicUploader" target="_blank" rel="external">&gt;&gt;&gt; 在 GitHub 中查看 iPicUploader &lt;&lt;&lt;</a></p><p>Typora 则是首个接入 iPicUploader 的知名 Markdown 编辑器。</p><p>如果你希望 iPic 集成到你现在用的 Markdown 编辑器中，可以联系我、或 Markdown 编辑器的作者，希望 iPic 能让大家更方便地在 Markdown 中插入图片。</p><p><img src="https://ps.toolinbox.net/levrk.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/z68rh.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;有了 &lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;iPic&lt;/a&gt; 的加持，&lt;a href=&quot;http://www.typora.io/&quot;&gt;Typora&lt;/a&gt; 也可以很方便地在 Markdown 中插图。&lt;/p&gt;&lt;h1 id=&quot;一键上传本地图片&quot;&gt;&lt;a href=&quot;#一键上传本地图片&quot; class=&quot;headerlink&quot; title=&quot;一键上传本地图片&quot;&gt;&lt;/a&gt;一键上传本地图片&lt;/h1&gt;&lt;p&gt;如果已经在 Markdown 中使用的本地图片、需要将其上传至图床，只要一键：&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ps-hz.toolinbox.net/006tNc79gw1fah02u0ekcg30ha0c0k3l.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.aliyun.com/product/oss&quot;&gt;阿里云对象存储&lt;/a&gt;（Object Storage Service，简称OSS），是阿里云对外提供的云存储服务。OSS适合存放任意文件类型，有很多朋友将其作为静态网站加速、或图床。本文就介绍下如何在 iPic 中添加阿里 OSS 图床。&lt;/p&gt;
+&lt;h1 id=&quot;在偏好设置中添加阿里云-OSS-图床&quot;&gt;&lt;a href=&quot;#在偏好设置中添加阿里云-OSS-图床&quot; class=&quot;headerlink&quot; title=&quot;在偏好设置中添加阿里云 OSS 图床&quot;&gt;&lt;/a&gt;在偏好设置中添加阿里云 OSS 图床&lt;/h1&gt;&lt;p&gt;打开 &lt;code&gt;偏好设置&lt;/code&gt;，进入 &lt;code&gt;图床&lt;/code&gt; 页，选择添加 &lt;code&gt;阿里云 OSS&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/ov7rp.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;以下分别介绍各项的意义及如何配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;即阿里云 OSS 中对应的 Bucket&lt;/li&gt;
+&lt;li&gt;更多介绍，请参考下文中的 &lt;a href=&quot;#创建阿里云-OSS-存储空间（即-Bucket）&quot;&gt;创建阿里云 OSS 存储空间（即 Bucket）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;这个稍微有点复杂，不熟悉的朋友可以看下文中的 &lt;a href=&quot;#使用安全的-AccessKey&quot;&gt;使用安全的 AccessKey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;网址前缀&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;用于生成上传图片的完成 Http 路径，比如 &lt;em&gt;&lt;a href=&quot;http://ipic-test.oss-cn-hangzhou.aliyuncs.com&quot;&gt;http://ipic-test.oss-cn-hangzhou.aliyuncs.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;（可选）如果你绑定了域名，可以使用绑定的域名&lt;/li&gt;
+&lt;li&gt;更多介绍，请参考下文中的 &lt;a href=&quot;#阿里云-OSS-域名管理&quot;&gt;阿里云 OSS 域名管理&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;完成输入后，可以点击 &lt;strong&gt;验证&lt;/strong&gt; 按钮。如果输入没有问题，则右侧会出现 &lt;strong&gt;通过&lt;/strong&gt; 链接，点击后就可以看到测试时上传至又拍的图片。&lt;/p&gt;
     
     </summary>
     
@@ -362,11 +913,89 @@
     <published>2016-11-09T00:08:08.000Z</published>
     <updated>2019-04-25T02:36:08.116Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://ps.toolinbox.net/hnqid.png" alt=""></p><h1 id="iPic-是什么？"><a href="#iPic-是什么？" class="headerlink" title="iPic 是什么？"></a>iPic 是什么？</h1><p>图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。</p><ul><li>通过拖拽上传图片</li><li>通过服务上传图片 [Command + U]</li><li>上传复制的图片 [Shift + Command + U]</li><li>支持微博、七牛、又拍、阿里云等图床</li><li>自动保存 Markdown 格式链接</li><li><a href="https://toolinbox.net/iPic/">操作视频</a></li></ul><p><a href="https://itunes.apple.com/app/id1101244278?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPic_home" target="_blank" rel="external">下载 iPic 试试</a></p><h1 id="iPicUploader"><a href="#iPicUploader" class="headerlink" title="iPicUploader"></a>iPicUploader</h1><p>iPic 开放了自己的上传服务。</p><p>如果你的 App 也需要上传图片至图床，不需要自己开发，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。</p><p>这就是 <strong>iPicUploader</strong></p><a id="more"></a><h2 id="iPicUploader-主要接口"><a href="#iPicUploader-主要接口" class="headerlink" title="iPicUploader 主要接口"></a>iPicUploader 主要接口</h2><p>只需几行代码，即可上传图片至七牛、又拍、阿里云等图床。</p><figure class="highlight swift"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">let</span> imageFilePath = <span class="string">"/Path/to/the/pic.jpg"</span></div><div class="line"></div><div class="line">iPic.uploadImage(imageFilePath, handler: &#123; (imageLink, error) <span class="keyword">in</span>    </div><div class="line">	<span class="keyword">if</span> <span class="keyword">let</span> imageLink = imageLink &#123;</div><div class="line">		<span class="comment">// Image uploaded        </span></div><div class="line">	   </div><div class="line">	&#125; <span class="keyword">else</span> <span class="keyword">if</span> <span class="keyword">let</span> error = error &#123;</div><div class="line">		<span class="comment">// Some error happened</span></div><div class="line">	&#125;</div><div class="line">&#125;)</div></pre></td></tr></table></figure><h2 id="iPicUploader-示例"><a href="#iPicUploader-示例" class="headerlink" title="iPicUploader 示例"></a>iPicUploader 示例</h2><p>iPicUploader 中还包含了一个全功能示例项目，让我们来看看它都支持哪些上传方式。</p><h3 id="1-通过拖拽上传"><a href="#1-通过拖拽上传" class="headerlink" title="1. 通过拖拽上传"></a>1. 通过拖拽上传</h3><p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah02pdgycg30j60ase7o.gif" alt=""></p><p>可以看出，iPicUploader 支持同时上传多张图片。</p><h3 id="2-通过选择图片文件上传"><a href="#2-通过选择图片文件上传" class="headerlink" title="2. 通过选择图片文件上传"></a>2. 通过选择图片文件上传</h3><p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah02quok1g30j60ashdt.gif" alt=""></p><h3 id="3-通过复制粘贴上传"><a href="#3-通过复制粘贴上传" class="headerlink" title="3. 通过复制粘贴上传"></a>3. 通过复制粘贴上传</h3><p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah02sw6c9g30j60asb29.gif" alt=""></p><p>当然，除了复制图片文件，还可以复制其他 App （比如浏览器）中的图片来上传。</p><h2 id="如何使用-iPicUploader"><a href="#如何使用-iPicUploader" class="headerlink" title="如何使用 iPicUploader"></a>如何使用 iPicUploader</h2><p>目前，iPicUploader 已经开源、并发布在 GitHub 中。</p><p><a href="https://github.com/toolinbox/iPicUploader" target="_blank" rel="external">&gt;&gt;&gt; 在 GitHub 中查看 iPicUploader &lt;&lt;&lt;</a></p><p>并且，iPicUploader 也已经上架 CocoaPods，只需在项目的 Podfile 中增加下面一行即可。</p><figure class="highlight ruby"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">pod <span class="string">"iPicUploader"</span></div></pre></td></tr></table></figure><p>希望 iPicUploader 可以帮你创造更有意思的 App 😀</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://ps.toolinbox.net/hnqid.png" alt=""></p>
+<h1 id="iPic-是什么？"><a href="#iPic-是什么？" class="headerlink" title="iPic 是什么？"></a>iPic 是什么？</h1><p>图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。</p>
+<ul>
+<li>通过拖拽上传图片</li>
+<li>通过服务上传图片 [Command + U]</li>
+<li>上传复制的图片 [Shift + Command + U]</li>
+<li>支持微博、七牛、又拍、阿里云等图床</li>
+<li>自动保存 Markdown 格式链接</li>
+<li><a href="https://toolinbox.net/iPic/">操作视频</a></li>
+</ul>
+<p><a href="https://itunes.apple.com/app/id1101244278?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPic_home" target="_blank" rel="external">下载 iPic 试试</a></p>
+<h1 id="iPicUploader"><a href="#iPicUploader" class="headerlink" title="iPicUploader"></a>iPicUploader</h1><p>iPic 开放了自己的上传服务。</p>
+<p>如果你的 App 也需要上传图片至图床，不需要自己开发，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。</p>
+<p>这就是 <strong>iPicUploader</strong></p>
+<a id="more"></a>
+<h2 id="iPicUploader-主要接口"><a href="#iPicUploader-主要接口" class="headerlink" title="iPicUploader 主要接口"></a>iPicUploader 主要接口</h2><p>只需几行代码，即可上传图片至七牛、又拍、阿里云等图床。</p>
+<figure class="highlight swift"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">let</span> imageFilePath = <span class="string">"/Path/to/the/pic.jpg"</span></div><div class="line"></div><div class="line">iPic.uploadImage(imageFilePath, handler: &#123; (imageLink, error) <span class="keyword">in</span>    </div><div class="line">	<span class="keyword">if</span> <span class="keyword">let</span> imageLink = imageLink &#123;</div><div class="line">		<span class="comment">// Image uploaded        </span></div><div class="line">	   </div><div class="line">	&#125; <span class="keyword">else</span> <span class="keyword">if</span> <span class="keyword">let</span> error = error &#123;</div><div class="line">		<span class="comment">// Some error happened</span></div><div class="line">	&#125;</div><div class="line">&#125;)</div></pre></td></tr></table></figure>
+<h2 id="iPicUploader-示例"><a href="#iPicUploader-示例" class="headerlink" title="iPicUploader 示例"></a>iPicUploader 示例</h2><p>iPicUploader 中还包含了一个全功能示例项目，让我们来看看它都支持哪些上传方式。</p>
+<h3 id="1-通过拖拽上传"><a href="#1-通过拖拽上传" class="headerlink" title="1. 通过拖拽上传"></a>1. 通过拖拽上传</h3><p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah02pdgycg30j60ase7o.gif" alt=""></p>
+<p>可以看出，iPicUploader 支持同时上传多张图片。</p>
+<h3 id="2-通过选择图片文件上传"><a href="#2-通过选择图片文件上传" class="headerlink" title="2. 通过选择图片文件上传"></a>2. 通过选择图片文件上传</h3><p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah02quok1g30j60ashdt.gif" alt=""></p>
+<h3 id="3-通过复制粘贴上传"><a href="#3-通过复制粘贴上传" class="headerlink" title="3. 通过复制粘贴上传"></a>3. 通过复制粘贴上传</h3><p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah02sw6c9g30j60asb29.gif" alt=""></p>
+<p>当然，除了复制图片文件，还可以复制其他 App （比如浏览器）中的图片来上传。</p>
+<h2 id="如何使用-iPicUploader"><a href="#如何使用-iPicUploader" class="headerlink" title="如何使用 iPicUploader"></a>如何使用 iPicUploader</h2><p>目前，iPicUploader 已经开源、并发布在 GitHub 中。</p>
+<p><a href="https://github.com/toolinbox/iPicUploader" target="_blank" rel="external">&gt;&gt;&gt; 在 GitHub 中查看 iPicUploader &lt;&lt;&lt;</a></p>
+<p>并且，iPicUploader 也已经上架 CocoaPods，只需在项目的 Podfile 中增加下面一行即可。</p>
+<figure class="highlight ruby"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">pod <span class="string">"iPicUploader"</span></div></pre></td></tr></table></figure>
+<p>希望 iPicUploader 可以帮你创造更有意思的 App 😀</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/hnqid.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;iPic-是什么？&quot;&gt;&lt;a href=&quot;#iPic-是什么？&quot; class=&quot;headerlink&quot; title=&quot;iPic 是什么？&quot;&gt;&lt;/a&gt;iPic 是什么？&lt;/h1&gt;&lt;p&gt;图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;通过拖拽上传图片&lt;/li&gt;&lt;li&gt;通过服务上传图片 [Command + U]&lt;/li&gt;&lt;li&gt;上传复制的图片 [Shift + Command + U]&lt;/li&gt;&lt;li&gt;支持微博、七牛、又拍、阿里云等图床&lt;/li&gt;&lt;li&gt;自动保存 Markdown 格式链接&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;操作视频&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iPic_home&quot;&gt;下载 iPic 试试&lt;/a&gt;&lt;/p&gt;&lt;h1 id=&quot;iPicUploader&quot;&gt;&lt;a href=&quot;#iPicUploader&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader&quot;&gt;&lt;/a&gt;iPicUploader&lt;/h1&gt;&lt;p&gt;iPic 开放了自己的上传服务。&lt;/p&gt;&lt;p&gt;如果你的 App 也需要上传图片至图床，不需要自己开发，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。&lt;/p&gt;&lt;p&gt;这就是 &lt;strong&gt;iPicUploader&lt;/strong&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/hnqid.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;iPic-是什么？&quot;&gt;&lt;a href=&quot;#iPic-是什么？&quot; class=&quot;headerlink&quot; title=&quot;iPic 是什么？&quot;&gt;&lt;/a&gt;iPic 是什么？&lt;/h1&gt;&lt;p&gt;图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;通过拖拽上传图片&lt;/li&gt;
+&lt;li&gt;通过服务上传图片 [Command + U]&lt;/li&gt;
+&lt;li&gt;上传复制的图片 [Shift + Command + U]&lt;/li&gt;
+&lt;li&gt;支持微博、七牛、又拍、阿里云等图床&lt;/li&gt;
+&lt;li&gt;自动保存 Markdown 格式链接&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;操作视频&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iPic_home&quot;&gt;下载 iPic 试试&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;iPicUploader&quot;&gt;&lt;a href=&quot;#iPicUploader&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader&quot;&gt;&lt;/a&gt;iPicUploader&lt;/h1&gt;&lt;p&gt;iPic 开放了自己的上传服务。&lt;/p&gt;
+&lt;p&gt;如果你的 App 也需要上传图片至图床，不需要自己开发，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。&lt;/p&gt;
+&lt;p&gt;这就是 &lt;strong&gt;iPicUploader&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Typora: 首个集成 iPic 上传服务的 Markdown 编辑器</title>
+    <link href="https://toolinbox.net/iPic/iPicUploader_Typora.html"/>
+    <id>https://toolinbox.net/iPic/iPicUploader_Typora.html</id>
+    <published>2016-11-09T00:08:08.000Z</published>
+    <updated>2019-04-25T02:36:30.984Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://ps.toolinbox.net/z68rh.jpg" alt=""></p>
+<p>有了 <a href="https://toolinbox.net/iPic/">iPic</a> 的加持，<a href="http://www.typora.io/" target="_blank" rel="external">Typora</a> 也可以很方便地在 Markdown 中插图。</p>
+<h1 id="一键上传本地图片"><a href="#一键上传本地图片" class="headerlink" title="一键上传本地图片"></a>一键上传本地图片</h1><p>如果已经在 Markdown 中使用的本地图片、需要将其上传至图床，只要一键：</p>
+<p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah02u0ekcg30ha0c0k3l.gif" alt=""></p>
+<a id="more"></a>
+<h1 id="插入图片时自动上传至图床"><a href="#插入图片时自动上传至图床" class="headerlink" title="插入图片时自动上传至图床"></a>插入图片时自动上传至图床</h1><p>如果在开启此选择，则在插入本地图片时，自动上传至图床、并替换图床链接。</p>
+<p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah02vc5sdg30hm0bsnbg.gif" alt=""></p>
+<h1 id="iPicUploader"><a href="#iPicUploader" class="headerlink" title="iPicUploader"></a>iPicUploader</h1><p><a href="https://toolinbox.net/iPic/iPicUploader.html">前情回顾</a></p>
+<p>图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。同时，iPic 开放了自己的上传服务：如果你的 App 也需要上传图片至图床，不需要费时费力接入各个图床，只需要调用 iPic 提供的上传服务即可。</p>
+<p>这就是 <strong>iPicUploader</strong> 目前，iPicUploader 已经开源、并发布在 GitHub 中。</p>
+<p><a href="https://github.com/toolinbox/iPicUploader" target="_blank" rel="external">&gt;&gt;&gt; 在 GitHub 中查看 iPicUploader &lt;&lt;&lt;</a></p>
+<p>Typora 则是首个接入 iPicUploader 的知名 Markdown 编辑器。</p>
+<p>如果你希望 iPic 集成到你现在用的 Markdown 编辑器中，可以联系我、或 Markdown 编辑器的作者，希望 iPic 能让大家更方便地在 Markdown 中插入图片。</p>
+<p><img src="https://ps.toolinbox.net/levrk.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/z68rh.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;有了 &lt;a href=&quot;https://toolinbox.net/iPic/&quot;&gt;iPic&lt;/a&gt; 的加持，&lt;a href=&quot;http://www.typora.io/&quot;&gt;Typora&lt;/a&gt; 也可以很方便地在 Markdown 中插图。&lt;/p&gt;
+&lt;h1 id=&quot;一键上传本地图片&quot;&gt;&lt;a href=&quot;#一键上传本地图片&quot; class=&quot;headerlink&quot; title=&quot;一键上传本地图片&quot;&gt;&lt;/a&gt;一键上传本地图片&lt;/h1&gt;&lt;p&gt;如果已经在 Markdown 中使用的本地图片、需要将其上传至图床，只要一键：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ps-hz.toolinbox.net/006tNc79gw1fah02u0ekcg30ha0c0k3l.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
@@ -382,31 +1011,61 @@
     <published>2016-10-09T00:08:08.000Z</published>
     <updated>2017-04-23T14:56:34.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="什么是-iPic-上传服务"><a href="#什么是-iPic-上传服务" class="headerlink" title="什么是 iPic 上传服务"></a>什么是 iPic 上传服务</h1><p>图床神器 iPic 可以方便的上传图片、插入博客。不仅是独立的 App，iPic 同样提供开放的上传服务，你的 App 可以方便的调用 iPic 上传服务进行图片的上传。</p><h1 id="使用-iPic-上传服务的条件"><a href="#使用-iPic-上传服务的条件" class="headerlink" title="使用 iPic 上传服务的条件"></a>使用 iPic 上传服务的条件</h1><ul><li>iPic 已安装（可位于任意位置，不一定是 <code>/Applications</code>）</li><li>iPic 至少被运行一次</li></ul><p><a href="https://raw.githubusercontent.com/toolinbox/iPic/master/UploadService/iPic_v0.7.2.dmg" target="_blank" rel="external">点此下载 iPic</a></p><h1 id="如何使用-iPic-上传服务"><a href="#如何使用-iPic-上传服务" class="headerlink" title="如何使用 iPic 上传服务"></a>如何使用 iPic 上传服务</h1><p>目前 iPic 上传服务支持使用 URL scheme 进行通信。</p><p>调用 iPic 上传服务的示例 URL scheme:</p><p><code>iPic:///upload?filePath=/Users/jason/Downloads/test.jpg&amp;callback=iPicDemo:///uploadResult</code></p><ul><li><code>iPic:///upload</code><ul><li>固定值</li></ul></li><li><code>filePath</code><ul><li>图片文件的完整路径</li></ul></li><li><code>callback</code><ul><li>用于 iPic 上传服务回调你的 App</li></ul></li></ul><p>iPic 上传服务回调你的 App 的示例 URL scheme:</p><p><code>iPicDemo:///uploadResult?filePath=/Users/jason/Downloads/1753061.jpg&amp;url=http://img.com/test.jpg</code></p><ul><li><code>iPicDemo:///uploadResult</code><ul><li>你的 App 支持的 URL Scheme</li></ul></li><li><code>filePath</code><ul><li>和调用 iPic 上传服务时的路径完全一致</li><li>用于上传多张图片时获取不同图片对应的 url</li></ul></li><li><code>url</code><ul><li>图片文件的 URL</li><li>如果上传失败，回调中无此参数</li></ul></li></ul><p>注：</p><ul><li><p>一次调用仅支持上传一张图片。如需上传多张，多次调用即可。回调将依次执行</p></li><li><p>目前尚未支持错误码</p><p>​</p></li></ul><p>更多细节，可以查看示例项目：<a href="https://github.com/toolinbox/iPic/tree/master/UploadService/UploadImageDemo" target="_blank" rel="external">UploadImageDemo</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="什么是-iPic-上传服务"><a href="#什么是-iPic-上传服务" class="headerlink" title="什么是 iPic 上传服务"></a>什么是 iPic 上传服务</h1><p>图床神器 iPic 可以方便的上传图片、插入博客。不仅是独立的 App，iPic 同样提供开放的上传服务，你的 App 可以方便的调用 iPic 上传服务进行图片的上传。</p>
+<h1 id="使用-iPic-上传服务的条件"><a href="#使用-iPic-上传服务的条件" class="headerlink" title="使用 iPic 上传服务的条件"></a>使用 iPic 上传服务的条件</h1><ul>
+<li>iPic 已安装（可位于任意位置，不一定是 <code>/Applications</code>）</li>
+<li>iPic 至少被运行一次</li>
+</ul>
+<p><a href="https://raw.githubusercontent.com/toolinbox/iPic/master/UploadService/iPic_v0.7.2.dmg" target="_blank" rel="external">点此下载 iPic</a></p>
+<h1 id="如何使用-iPic-上传服务"><a href="#如何使用-iPic-上传服务" class="headerlink" title="如何使用 iPic 上传服务"></a>如何使用 iPic 上传服务</h1><p>目前 iPic 上传服务支持使用 URL scheme 进行通信。</p>
+<p>调用 iPic 上传服务的示例 URL scheme:</p>
+<p><code>iPic:///upload?filePath=/Users/jason/Downloads/test.jpg&amp;callback=iPicDemo:///uploadResult</code></p>
+<ul>
+<li><code>iPic:///upload</code><ul>
+<li>固定值</li>
+</ul>
+</li>
+<li><code>filePath</code><ul>
+<li>图片文件的完整路径</li>
+</ul>
+</li>
+<li><code>callback</code><ul>
+<li>用于 iPic 上传服务回调你的 App</li>
+</ul>
+</li>
+</ul>
+<p>iPic 上传服务回调你的 App 的示例 URL scheme:</p>
+<p><code>iPicDemo:///uploadResult?filePath=/Users/jason/Downloads/1753061.jpg&amp;url=http://img.com/test.jpg</code></p>
+<ul>
+<li><code>iPicDemo:///uploadResult</code><ul>
+<li>你的 App 支持的 URL Scheme</li>
+</ul>
+</li>
+<li><code>filePath</code><ul>
+<li>和调用 iPic 上传服务时的路径完全一致</li>
+<li>用于上传多张图片时获取不同图片对应的 url</li>
+</ul>
+</li>
+<li><code>url</code><ul>
+<li>图片文件的 URL</li>
+<li>如果上传失败，回调中无此参数</li>
+</ul>
+</li>
+</ul>
+<p>注：</p>
+<ul>
+<li><p>一次调用仅支持上传一张图片。如需上传多张，多次调用即可。回调将依次执行</p>
+</li>
+<li><p>目前尚未支持错误码</p>
+<p>​</p>
+</li>
+</ul>
+<p>更多细节，可以查看示例项目：<a href="https://github.com/toolinbox/iPic/tree/master/UploadService/UploadImageDemo" target="_blank" rel="external">UploadImageDemo</a></p>
+]]></content>
     
     <summary type="html">
     
       &lt;h1 id=&quot;什么是-iPic-上传服务&quot;&gt;&lt;a href=&quot;#什么是-iPic-上传服务&quot; class=&quot;headerlink&quot; title=&quot;什么是 iPic 上传服务&quot;&gt;&lt;/a&gt;什么是 iPic 上传服务&lt;/h1&gt;&lt;p&gt;图床神器 iPic 可以方便的上传图片、插入博客。不
-    
-    </summary>
-    
-      <category term="iPic" scheme="https://toolinbox.net/categories/iPic/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>图床神器 iPic 第二波体验：支持^七牛^</title>
-    <link href="https://toolinbox.net/iPic/iPicIntroduce2.html"/>
-    <id>https://toolinbox.net/iPic/iPicIntroduce2.html</id>
-    <published>2016-05-26T12:50:42.000Z</published>
-    <updated>2019-04-25T02:44:04.674Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="在博客中插图，你痛吗？"><a href="#在博客中插图，你痛吗？" class="headerlink" title="在博客中插图，你痛吗？"></a>在博客中插图，你痛吗？</h1><p>先设想一下，要将文档中的图片插入博客，需要多少步？</p><ol><li>将文档中的图片保存为临时图片文件</li><li>打开浏览器，登录图床</li><li>跳转至文档管理页面</li><li>上传刚才保存的图片文件</li><li>复制图片链接</li><li>在博客程序中插入图片，并将链接改为 Markdown 格式</li><li>删除刚才创建的临时图片文件</li><li>…</li></ol><h1 id="图床神器-iPic-出场"><a href="#图床神器-iPic-出场" class="headerlink" title="图床神器 iPic 出场"></a>图床神器 iPic 出场</h1><p>现在再来看看，有了图床神器 iPic 后，有什么美好的事情即将发生：</p><p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah01whu9yg30j60asqv5.gif" alt="iPic2.gif"></p><p><strong>复制、自动上传、粘贴，搞定！</strong></p><p>没错，这就是图床神器 iPic，带给你从未有过的插图体验。</p><a id="more"></a><h1 id="体验改进"><a href="#体验改进" class="headerlink" title="体验改进"></a>体验改进</h1><p>第一版体验中，大家对 <strong>七牛</strong> 的呼声很高，于是这版就增加了对 <strong>七牛</strong> 的支持（<a href="https://toolinbox.net/iPic/AddQiniuImageHost.html">在 iPic 中添加七牛教程</a>）<br>除此以外，这一版本还在一些细节上进行改进。</p><h2 id="1-监控-自动上传-状态"><a href="#1-监控-自动上传-状态" class="headerlink" title="1. 监控 自动上传 状态"></a>1. 监控 自动上传 状态</h2><p>上一波体验中，有朋友反馈说自动上传会被误用。比如明明想进行截图后通过 QQ 发给朋友，结果却被上传了。</p><p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah01y1h6ig307c01g74b.gif" alt="iPic3.gif"></p><p>如上图所示，改进的方式是：当启用自动上传时，菜单栏的图标会有个小小的闪烁，有点类似于相机在录像时的闪烁。不晃眼，却能有效提醒你在不需要的时候关闭自动上传。</p><h2 id="2-查看上传进度"><a href="#2-查看上传进度" class="headerlink" title="2. 查看上传进度"></a>2. 查看上传进度</h2><p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah01ywdw6g307g01ct8q.gif" alt="iPic4.gif"></p><p>很简洁，上传时显示进度；却很有用，不再盲目等待。</p><h2 id="3-全局快捷键"><a href="#3-全局快捷键" class="headerlink" title="3. 全局快捷键"></a>3. 全局快捷键</h2><p><img src="https://ps.toolinbox.net/an43x.jpg" alt="0035361.jpg"></p><p>不论当前在使用任何程序，都可以使用快捷键呼出 iPic 菜单，进而快速地上传图片、复制图片链接、等等。</p><p><strong>点滴改进，只为你体验更好。</strong></p><h1 id="我也要体验"><a href="#我也要体验" class="headerlink" title="我也要体验"></a>我也要体验</h1><p>是的，你不应该错失 iPic 这款图床神器。</p><p>老规矩，发邮件至 iToolinbox+iPic#gmail.com，邮件中回答以下问题即可。</p><ul><li>你在什么场景下需要插入图片？<ul><li>比如写博客、在 V2EX 发贴</li></ul></li><li>你目前是怎么做的？<ul><li>比如使用论坛本身的插图功能</li></ul></li><li>你最希望这种工具有什么功能？<ul><li>比如替我叫外卖</li></ul></li></ul><p>期待你的反馈。</p><p>注：文中的图就是通过 iPic 插入的，确实很方便，大家可以试试。</p><p><img src="https://ps.toolinbox.net/t1j4p.png" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;在博客中插图，你痛吗？&quot;&gt;&lt;a href=&quot;#在博客中插图，你痛吗？&quot; class=&quot;headerlink&quot; title=&quot;在博客中插图，你痛吗？&quot;&gt;&lt;/a&gt;在博客中插图，你痛吗？&lt;/h1&gt;&lt;p&gt;先设想一下，要将文档中的图片插入博客，需要多少步？&lt;/p&gt;&lt;ol&gt;&lt;li&gt;将文档中的图片保存为临时图片文件&lt;/li&gt;&lt;li&gt;打开浏览器，登录图床&lt;/li&gt;&lt;li&gt;跳转至文档管理页面&lt;/li&gt;&lt;li&gt;上传刚才保存的图片文件&lt;/li&gt;&lt;li&gt;复制图片链接&lt;/li&gt;&lt;li&gt;在博客程序中插入图片，并将链接改为 Markdown 格式&lt;/li&gt;&lt;li&gt;删除刚才创建的临时图片文件&lt;/li&gt;&lt;li&gt;…&lt;/li&gt;&lt;/ol&gt;&lt;h1 id=&quot;图床神器-iPic-出场&quot;&gt;&lt;a href=&quot;#图床神器-iPic-出场&quot; class=&quot;headerlink&quot; title=&quot;图床神器 iPic 出场&quot;&gt;&lt;/a&gt;图床神器 iPic 出场&lt;/h1&gt;&lt;p&gt;现在再来看看，有了图床神器 iPic 后，有什么美好的事情即将发生：&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ps-hz.toolinbox.net/006tNc79gw1fah01whu9yg30j60asqv5.gif&quot; alt=&quot;iPic2.gif&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;复制、自动上传、粘贴，搞定！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;没错，这就是图床神器 iPic，带给你从未有过的插图体验。&lt;/p&gt;
     
     </summary>
     
