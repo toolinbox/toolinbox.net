@@ -127,26 +127,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[兑换码使用方式]]></title>
-      <url>https://toolinbox.net/help/redeem.html</url>
-      <content type="html"><![CDATA[<p><img src="http://p.toolinbox.net/it9vj.jpg" alt=""></p>
-<ol>
-<li>在 macOS 中打开 Mac App Store</li>
-<li>找到兑换入口，输入兑换码并兑换。入口参见上图，旧版 Mac App Store 在首页右侧中部</li>
-<li>重启 App 并稍等，然后在「偏好设置 &gt; 账户」中查看是否已升级。如果未升级，可尝试点击页面底部「恢复」</li>
-</ol>
-]]></content>
-      
-        <categories>
-            
-            <category> Help </category>
-            
-        </categories>
-        
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[序列号使用方式]]></title>
       <url>https://toolinbox.net/iText/license.html</url>
       <content type="html"><![CDATA[<h2 id="序列号激活方式"><a href="#序列号激活方式" class="headerlink" title="序列号激活方式"></a>序列号激活方式</h2><p><img src="https://ps.toolinbox.net/jbpsn.jpg" width="400"></p>
@@ -160,6 +140,26 @@
 </ul>
 <p><strong><em>序列号的设备数量限制？</em></strong></p>
 <p>序列号激活后是与 iCloud 账户绑定的；使用相同 iCloud 账户登录的设备，数量不限。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Help </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[兑换码使用方式]]></title>
+      <url>https://toolinbox.net/help/redeem.html</url>
+      <content type="html"><![CDATA[<p><img src="http://p.toolinbox.net/it9vj.jpg" alt=""></p>
+<ol>
+<li>在 macOS 中打开 Mac App Store</li>
+<li>找到兑换入口，输入兑换码并兑换。入口参见上图，旧版 Mac App Store 在首页右侧中部</li>
+<li>重启 App 并稍等，然后在「偏好设置 &gt; 账户」中查看是否已升级。如果未升级，可尝试点击页面底部「恢复」</li>
+</ol>
 ]]></content>
       
         <categories>

@@ -175,35 +175,6 @@
   </entry>
   
   <entry>
-    <title>兑换码使用方式</title>
-    <link href="https://toolinbox.net/help/redeem.html"/>
-    <id>https://toolinbox.net/help/redeem.html</id>
-    <published>2019-04-04T22:00:00.000Z</published>
-    <updated>2019-05-05T09:26:15.444Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://p.toolinbox.net/it9vj.jpg" alt=""></p>
-<ol>
-<li>在 macOS 中打开 Mac App Store</li>
-<li>找到兑换入口，输入兑换码并兑换。入口参见上图，旧版 Mac App Store 在首页右侧中部</li>
-<li>重启 App 并稍等，然后在「偏好设置 &gt; 账户」中查看是否已升级。如果未升级，可尝试点击页面底部「恢复」</li>
-</ol>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://p.toolinbox.net/it9vj.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;在 macOS 中打开 Mac App Store&lt;/li&gt;
-&lt;li&gt;找到兑换入口，输入兑换码并兑换。入口参见上图，旧版 Mac App Sto
-    
-    </summary>
-    
-      <category term="Help" scheme="https://toolinbox.net/categories/Help/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>序列号使用方式</title>
     <link href="https://toolinbox.net/iText/license.html"/>
     <id>https://toolinbox.net/iText/license.html</id>
@@ -226,6 +197,35 @@
     <summary type="html">
     
       &lt;h2 id=&quot;序列号激活方式&quot;&gt;&lt;a href=&quot;#序列号激活方式&quot; class=&quot;headerlink&quot; title=&quot;序列号激活方式&quot;&gt;&lt;/a&gt;序列号激活方式&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://ps.toolinbox.net/jbpsn.jpg&quot; widt
+    
+    </summary>
+    
+      <category term="Help" scheme="https://toolinbox.net/categories/Help/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>兑换码使用方式</title>
+    <link href="https://toolinbox.net/help/redeem.html"/>
+    <id>https://toolinbox.net/help/redeem.html</id>
+    <published>2019-04-04T22:00:00.000Z</published>
+    <updated>2019-05-05T09:26:15.444Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://p.toolinbox.net/it9vj.jpg" alt=""></p>
+<ol>
+<li>在 macOS 中打开 Mac App Store</li>
+<li>找到兑换入口，输入兑换码并兑换。入口参见上图，旧版 Mac App Store 在首页右侧中部</li>
+<li>重启 App 并稍等，然后在「偏好设置 &gt; 账户」中查看是否已升级。如果未升级，可尝试点击页面底部「恢复」</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://p.toolinbox.net/it9vj.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在 macOS 中打开 Mac App Store&lt;/li&gt;
+&lt;li&gt;找到兑换入口，输入兑换码并兑换。入口参见上图，旧版 Mac App Sto
     
     </summary>
     
