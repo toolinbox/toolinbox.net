@@ -127,6 +127,26 @@
     </entry>
     
     <entry>
+      <title><![CDATA[iText 适配 macOS Catalina]]></title>
+      <url>https://toolinbox.net/iText/macOS_Catalina.html</url>
+      <content type="html"><![CDATA[<p>macOS Catalina (10.15) 对权限进行更严格的限制；iText 截图识字功能，需要开启「屏幕录制」权限，才能正常截图。</p>
+<p>具体的，当在 macOS Catalina 中首次使用 iText 截图时，系统会弹出如下提示：</p>
+<p><img src="https://ps.toolinbox.net/tl3ns.png" alt=""></p>
+<p>此时，可点击「打开偏好设置」；如果之前点击了「拒绝」，可手动打开「系统偏好设置」应用，选择「安全性与隐私」，然后在「隐私」栏中，选择左侧的「屏幕录制」</p>
+<p><img src="https://ps.toolinbox.net/mu6zn.png" alt=""></p>
+<p>在此页面中，勾选 iText，然后重启 iText，即可正常截图识字。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> iText </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[兑换码使用方式]]></title>
       <url>https://toolinbox.net/help/redeem.html</url>
       <content type="html"><![CDATA[<p><img src="http://p.toolinbox.net/it9vj.jpg" alt=""></p>
@@ -1216,6 +1236,41 @@
     </entry>
     
     <entry>
+      <title><![CDATA[iTimer 更新日志]]></title>
+      <url>https://toolinbox.net/iTimer/ChangeLog.html</url>
+      <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p>2016/12/28</p>
+<ul>
+<li>可自定义计时器时长</li>
+<li>适配 Swift 3</li>
+</ul>
+<h1 id="v1-2-3"><a href="#v1-2-3" class="headerlink" title="v1.2.3"></a>v1.2.3</h1><p>2016/09/26</p>
+<ul>
+<li>意念钟更名为 <strong>iTimer</strong>，并更新 Logo</li>
+<li>增加更多计时器</li>
+<li>支持 macOS Sierra</li>
+</ul>
+<a id="more"></a>
+<h1 id="v0-6-2"><a href="#v0-6-2" class="headerlink" title="v0.6.2"></a>v0.6.2</h1><p>2015/12/15</p>
+<ul>
+<li>提醒你开始计时</li>
+<li>支持开机自启动</li>
+</ul>
+<h1 id="v0-5-1"><a href="#v0-5-1" class="headerlink" title="v0.5.1"></a>v0.5.1</h1><p>2015/12/05</p>
+<ul>
+<li>正式上架 Mac App Store</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> iTimer </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[iPaste 更新日志]]></title>
       <url>https://toolinbox.net/iPaste/ChangeLog.html</url>
       <content type="html"><![CDATA[<h1 id="v2-1-0"><a href="#v2-1-0" class="headerlink" title="v2.1.0"></a>v2.1.0</h1><p>2017/10/19</p>
@@ -1259,41 +1314,6 @@
         <categories>
             
             <category> iPaste </category>
-            
-        </categories>
-        
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[iTimer 更新日志]]></title>
-      <url>https://toolinbox.net/iTimer/ChangeLog.html</url>
-      <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p>2016/12/28</p>
-<ul>
-<li>可自定义计时器时长</li>
-<li>适配 Swift 3</li>
-</ul>
-<h1 id="v1-2-3"><a href="#v1-2-3" class="headerlink" title="v1.2.3"></a>v1.2.3</h1><p>2016/09/26</p>
-<ul>
-<li>意念钟更名为 <strong>iTimer</strong>，并更新 Logo</li>
-<li>增加更多计时器</li>
-<li>支持 macOS Sierra</li>
-</ul>
-<a id="more"></a>
-<h1 id="v0-6-2"><a href="#v0-6-2" class="headerlink" title="v0.6.2"></a>v0.6.2</h1><p>2015/12/15</p>
-<ul>
-<li>提醒你开始计时</li>
-<li>支持开机自启动</li>
-</ul>
-<h1 id="v0-5-1"><a href="#v0-5-1" class="headerlink" title="v0.5.1"></a>v0.5.1</h1><p>2015/12/05</p>
-<ul>
-<li>正式上架 Mac App Store</li>
-</ul>
-]]></content>
-      
-        <categories>
-            
-            <category> iTimer </category>
             
         </categories>
         

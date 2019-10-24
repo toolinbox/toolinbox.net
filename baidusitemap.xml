@@ -3,6 +3,23 @@
 
 
     
+  <url>
+    <loc>https://toolinbox.net/iText/macOS_Catalina.html</loc>
+    <lastmod>2019-10-24T12:45:23.619Z</lastmod>
+    <data>
+        <display>
+        <title>iText 适配 macOS Catalina</title>
+        <pubTime>2019-04-06T02:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iText" url="https://toolinbox.net/categories/iText/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>https://toolinbox.net/help/license.html</loc>
@@ -533,24 +550,6 @@
 
     
   <url>
-    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
-    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>iTimer 更新日志</title>
-        <pubTime>2015-11-22T10:32:16.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iTimer" url="https://toolinbox.net/categories/iTimer/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     <data>
@@ -562,6 +561,24 @@
            
              
               <breadCrumb title="iHosts" url="https://toolinbox.net/categories/iHosts/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
+    <lastmod>2017-04-23T08:21:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>iTimer 更新日志</title>
+        <pubTime>2015-11-22T10:32:16.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iTimer" url="https://toolinbox.net/categories/iTimer/"/>
           
         </display>
     </data>
