@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://toolinbox.net/iHosts/iHosts.html</loc>
+    
+    <lastmod>2019-11-12T10:05:49.252Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iTimer/iTimer.html</loc>
+    
+    <lastmod>2019-11-12T10:05:43.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iPic/iPic.html</loc>
+    
+    <lastmod>2019-11-12T10:05:20.758Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iText/iText.html</loc>
+    
+    <lastmod>2019-11-12T10:05:15.632Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iText/index.html</loc>
+    
+    <lastmod>2019-11-12T10:01:38.184Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iPic/index.html</loc>
+    
+    <lastmod>2019-11-12T10:01:34.204Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://toolinbox.net/iText/macOS_Catalina.html</loc>
     
     <lastmod>2019-10-24T12:45:23.619Z</lastmod>
@@ -23,37 +65,9 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iTimer/iTimer.html</loc>
-    
-    <lastmod>2019-05-05T09:19:49.315Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iText/iText.html</loc>
-    
-    <lastmod>2019-05-05T09:19:44.512Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iPic/iPic.html</loc>
-    
-    <lastmod>2019-05-05T09:19:40.055Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://toolinbox.net/iPaste/iPaste.html</loc>
     
     <lastmod>2019-05-05T09:19:36.074Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iHosts/iHosts.html</loc>
-    
-    <lastmod>2019-05-05T09:19:31.825Z</lastmod>
     
   </url>
   
@@ -93,23 +107,9 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iPic/index.html</loc>
-    
-    <lastmod>2019-04-25T02:42:27.285Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://toolinbox.net/iText/Beta.html</loc>
     
     <lastmod>2019-04-25T02:41:15.377Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iText/index.html</loc>
-    
-    <lastmod>2019-04-25T02:40:26.891Z</lastmod>
     
   </url>
   
@@ -254,14 +254,14 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
+    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iTimer/ChangeLog.html</loc>
+    <loc>https://toolinbox.net/iHostsChangeLog.html</loc>
     
     <lastmod>2017-04-23T08:21:21.000Z</lastmod>
     
