@@ -2,9 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://toolinbox.net/iTimer/index.html</loc>
+    
+    <lastmod>2022-06-06T10:41:49.779Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iText/index.html</loc>
+    
+    <lastmod>2022-06-06T10:41:44.696Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iPic/index.html</loc>
+    
+    <lastmod>2022-06-06T10:41:39.571Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iPaste/index.html</loc>
+    
+    <lastmod>2022-06-06T10:41:35.435Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://toolinbox.net/iHosts/index.html</loc>
+    
+    <lastmod>2022-06-06T10:41:27.948Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://toolinbox.net/Klib/index.html</loc>
     
-    <lastmod>2021-06-04T02:54:37.749Z</lastmod>
+    <lastmod>2022-06-06T10:40:43.435Z</lastmod>
     
   </url>
   
@@ -44,20 +79,6 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iText/index.html</loc>
-    
-    <lastmod>2019-11-12T10:01:38.184Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iPic/index.html</loc>
-    
-    <lastmod>2019-11-12T10:01:34.204Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://toolinbox.net/iText/macOS_Catalina.html</loc>
     
     <lastmod>2019-10-24T12:45:23.619Z</lastmod>
@@ -93,23 +114,9 @@
   </url>
   
   <url>
-    <loc>https://toolinbox.net/iPaste/index.html</loc>
-    
-    <lastmod>2019-04-25T02:43:37.378Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://toolinbox.net/iPic/iPicIntroduce3.html</loc>
     
     <lastmod>2019-04-25T02:43:07.268Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iTimer/index.html</loc>
-    
-    <lastmod>2019-04-25T02:42:44.993Z</lastmod>
     
   </url>
   
@@ -152,13 +159,6 @@
     <loc>https://toolinbox.net/iPaste/iPaste_macOS_Mojave.html</loc>
     
     <lastmod>2018-11-15T04:28:27.940Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://toolinbox.net/iHosts/index.html</loc>
-    
-    <lastmod>2018-11-14T13:33:47.358Z</lastmod>
     
   </url>
   
