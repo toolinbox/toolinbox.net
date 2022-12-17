@@ -252,6 +252,172 @@
   
 
   <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://toolinbox.net/iPic/AddB2.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Toolinbox">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="https://ps.toolinbox.net/9ctis.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Toolinbox">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/iPic/AddB2.html" itemprop="url">
+                  在 iPic 中添加 Backblaze B2 图床
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2022-12-12T08:00:00+08:00">
+                2022-12-12
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/iPic/" itemprop="url" rel="index">
+                    <span itemprop="name">iPic</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <p>Backblaze B2 账户是最便宜的云存储服务。具体请参考其 <a href="https://www.backblaze.com/zh_CN/cloud-storage.html">官网</a></p>
+<h1 id="在-iPic-中添加-Backblaze-B2-图床"><a href="#在-iPic-中添加-Backblaze-B2-图床" class="headerlink" title="在 iPic 中添加 Backblaze B2 图床"></a>在 iPic 中添加 Backblaze B2 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>Backblaze B2</code></p>
+<p><img src="https://p.nuli.life/blog/yk5mj.png" alt=""></p>
+<p>以下分别介绍各项的意义及如何配置：</p>
+<ul>
+<li><code>Bucket</code><ul>
+<li>即 Backblaze B2 中对应的 Bucket</li>
+</ul>
+</li>
+<li><code>Access Key</code> 与 <code>Secret Key</code><ul>
+<li>对应 Backblaze B2 中 Application Key 的 <code>keyID</code> and <code>applicationKey</code>。具体请参考其 <a href="https://secure.backblaze.com/app_keys.htm">官网</a></li>
+<li>注意：在创建 Application Key 时，至少开启 <code>Write</code> 权限。</li>
+</ul>
+</li>
+<li><code>网址前缀</code><ul>
+<li>用于生成上传图片的完成 Http 路径，比如 <em><a href="https://ipic-test.s3.amazonaws.com">https://ipic-test.s3.amazonaws.com</a></em></li>
+<li>如果你绑定了域名，可以使用绑定的域名</li>
+</ul>
+</li>
+</ul>
+<p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传的图片。</p>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/iPic/AddB2.html#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
     <link itemprop="mainEntityOfPage" href="https://toolinbox.net/iText/macOS_Catalina.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -352,9 +518,9 @@
           
             <p>macOS Catalina (10.15) 对权限进行更严格的限制；iText 截图识字功能，需要开启「屏幕录制」权限，才能正常截图。</p>
 <p>具体的，当在 macOS Catalina 中首次使用 iText 截图时，系统会弹出如下提示：</p>
-<p><img src="https://ps.toolinbox.net/tl3ns.png" alt=""></p>
+<p><img src="https://p.nuli.life/tool/tl3ns.png" alt=""></p>
 <p>此时，可点击「打开偏好设置」；如果之前点击了「拒绝」，可手动打开「系统偏好设置」应用，选择「安全性与隐私」，然后在「隐私」栏中，选择左侧的「屏幕录制」</p>
-<p><img src="https://ps.toolinbox.net/mu6zn.png" alt=""></p>
+<p><img src="https://p.nuli.life/tool/mu6zn.png" alt=""></p>
 <p>在此页面中，勾选 iText，然后重启 iText，即可正常截图识字。</p>
 
           
@@ -497,7 +663,7 @@
       
         
           
-            <p><img src="http://p.toolinbox.net/it9vj.jpg" alt=""></p>
+            <p><img src="https://p.nuli.life/tool/it9vj.jpg" alt=""></p>
 <ol>
 <li>在 macOS 中打开 Mac App Store</li>
 <li>找到兑换入口，输入兑换码并兑换。入口参见上图，旧版 Mac App Store 在首页右侧中部</li>
@@ -644,7 +810,7 @@
       
         
           
-            <h2 id="激活序列号"><a href="#激活序列号" class="headerlink" title="激活序列号"></a>激活序列号</h2><p><img src="https://ps.toolinbox.net/jbpsn.jpg" width="400"></p>
+            <h2 id="激活序列号"><a href="#激活序列号" class="headerlink" title="激活序列号"></a>激活序列号</h2><p><img src="https://p.nuli.life/tool/jbpsn.jpg" width="400"></p>
 <p>以 <a href="https://toolinbox.net/iText/">iText</a> 为例，打开 <code>iText 菜单</code> &gt; <code>更多</code> &gt; <code>偏好设置</code>，点击 <code>账户</code> &gt; <code>序列号</code>，输入序列号并点击激活即可。</p>
 <h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><p><strong><em>为什么会有序列号？</em></strong></p>
 <p>首先，<strong>依然推荐通过 App Store 订阅高级版</strong>，会有很多便利。序列号主要用于以下场景：</p>
@@ -801,16 +967,16 @@
 <p>之前一直可以正常工作，但 macOS Mojave 10.14 对脚本进行更严格的限制，使得目前的策略可能失效。怎么解决呢？请看接下来的介绍。</p>
 <h2 id="如何在-macOS-Mojave-下正常使用-iPaste"><a href="#如何在-macOS-Mojave-下正常使用-iPaste" class="headerlink" title="如何在 macOS Mojave 下正常使用 iPaste"></a>如何在 macOS Mojave 下正常使用 iPaste</h2><p>１. 在 iPaste 中尝试粘贴，根据提示保存脚本。</p>
 <p>２. 再次在 iPaste 中尝试粘贴，这里 iPaste 会尝试调用脚本。macOS 系统会有如下提示：</p>
-<p><img src="https://ps.toolinbox.net/dp0es.jpg" alt=""></p>
+<p><img src="https://p.nuli.life/tool/dp0es.jpg" alt=""></p>
 <p>也即，macOS 会让你确认，是否允许 iPaste 调用脚本。自然，需要点击 <code>OK</code> 确定。</p>
 <p>如果之前点了不允许，需要打开系统偏好设置 <code>System Preferences.app</code>：</p>
-<p><img src="https://ps.toolinbox.net/rdclp.jpg" alt=""></p>
+<p><img src="https://p.nuli.life/tool/rdclp.jpg" alt=""></p>
 <p>然后依次点击 <code>Security &amp; Privacy</code>、<code>Privacy</code>、<code>Automation</code>，点击左下角的锁，输入密码后解锁。然后选中 iPaste 下面的 <code>System Events</code>：</p>
-<p><img src="https://ps.toolinbox.net/k9bk0.jpg" alt=""></p>
+<p><img src="https://p.nuli.life/tool/k9bk0.jpg" alt=""></p>
 <p>３. 继续尝试粘贴，这里 iPaste 会调用脚本，并尝试发送 <code>⌘V</code> 快捷键。macOS 系统会有如下提示：</p>
-<p><img src="https://ps.toolinbox.net/buae4.jpg" alt=""></p>
+<p><img src="https://p.nuli.life/tool/buae4.jpg" alt=""></p>
 <p>也即，macOS 会让你确认，是否允许 iPaste 发送 <code>⌘V</code> 快捷键。点击 <code>Open System Preferences</code>（如果此时点了拒绝，可手动打开 <code>System Preferences.app</code>），然后依次点击 <code>Security &amp; Privacy</code>、<code>Privacy</code>、<code>Accessibility</code>，点击左下角的锁，输入密码后解锁。然后在右侧选中 iPaste：</p>
-<p><img src="https://ps.toolinbox.net/tfcdu.jpg" alt=""></p>
+<p><img src="https://p.nuli.life/tool/tfcdu.jpg" alt=""></p>
 <p>４. 再次在 iPaste 中尝试粘贴，应该就可以了；大功告成。</p>
 <p>一旦设置完成，之后就不需要再次设置了。一切如常，请继续保持高效。</p>
 
@@ -955,7 +1121,7 @@
         
           
             <p>使用 Kindle 的重度用户会知道，在 Kindle 上读书时可以任性标注，但在导出标注时则有限制：<strong>Kindle 限制能导出的标注的文字总数</strong>。这个比例没有明文规定，各本书也有不同，通常理解是一本书所有内容的 10%；一旦超出这一限制，导出时则会看到恼人的 <code>&lt;您已达到本内容的剪贴上限&gt;</code>。</p>
-<p><img src="https://ps.toolinbox.net/r0f3c.png" alt=""></p>
+<p><img src="https://p.nuli.life/tool/r0f3c.png" alt=""></p>
 <p>如果大家遇到这个问题，又实在想导出所有的标注，<strong>怎么办呢？可以这样操作</strong>：</p>
 <ul>
 <li>先使用 <a href="https://toolinbox.net/Klib/">Klib</a> 导入 Kindle 中的标注。</li>
@@ -969,7 +1135,7 @@
 </ul>
 </li>
 <li>将剩下的标注导出为 html 文件，操作示意：<ul>
-<li><img src="https://ps.toolinbox.net/vo0ua.jpg" alt=""></li>
+<li><img src="https://p.nuli.life/tool/vo0ua.jpg" alt=""></li>
 </ul>
 </li>
 <li>使用 Klib 导入 html 文件<ul>
@@ -989,162 +1155,6 @@
 </ol>
 <p>这 2 点请大家知会。如果理解了，就可以放心地使用上述方法，<strong>完整导出你自己花时间做出的读书笔记</strong>。</p>
 <p>祝，阅读愉快。</p>
-
-          
-        
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-
-
-    
-      
-
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-    <link itemprop="mainEntityOfPage" href="https://toolinbox.net/Klib/KlibDropbox.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Toolinbox">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="https://ps.toolinbox.net/9ctis.jpg">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Toolinbox">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-            
-            
-              
-                
-                <a class="post-title-link" href="/Klib/KlibDropbox.html" itemprop="url">
-                  使用 Dropbox 同步 Klib 数据库
-                </a>
-              
-            
-          </h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">发表于</span>
-              
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-04-21T08:08:00+08:00">
-                2017-04-21
-              </time>
-            
-
-            
-
-            
-          </span>
-
-          
-            <span class="post-category" >
-            
-              <span class="post-meta-divider">|</span>
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">分类于</span>
-              
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Klib/" itemprop="url" rel="index">
-                    <span itemprop="name">Klib</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-            
-          
-
-          
-          
-
-          
-
-          
-
-          
-
-        </div>
-      </header>
-    
-
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          
-            <p>在 Klib 实现通过 iCloud 在不同 Mac 电脑同步前，可以借助 Dropbox 等第三方工具来同步。这里以 Dropbox 为例进行介绍，假定 Dropbox 本地同步目录位于：<code>~/Sync/Dropbox/</code></p>
-<ul>
-<li>打开「终端」Terminal</li>
-<li>在 Dropbox 中创建「Klib」文件夹<ul>
-<li><code>mkdir -p ~/Sync/Dropbox/Klib/</code></li>
-</ul>
-</li>
-<li>将 Klib 数据库目录链接到 Dropbox 中<ul>
-<li><code>ln -s ~/Library/Containers/net.toolinbox.iKindle/Data/Library/Application\ Support/Klib/data ~/Sync/Dropbox/Klib/data</code></li>
-</ul>
-</li>
-<li>在另一台 Mac 电脑做相同的设置，就可以在多台 Mac 电脑间同步 Klib 数据库了。</li>
-</ul>
-<p>提示：Klib 的数据库为 SQLite 格式，位于下面的目录中，可在 Finder 中按下 <code>Command + Shift + G</code>、输入路径后打开。</p>
-<p><code>~/Library/Containers/net.toolinbox.iKindle/Data/Library/Application\ Support/Klib/data</code></p>
 
           
         
@@ -1228,7 +1238,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/">
-                <span class="site-state-item-count">32</span>
+                <span class="site-state-item-count">33</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>

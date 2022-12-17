@@ -252,6 +252,171 @@
   
 
   <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://toolinbox.net/iPic/AddS3.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Toolinbox">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="https://ps.toolinbox.net/9ctis.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Toolinbox">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/iPic/AddS3.html" itemprop="url">
+                  在 iPic 中添加 Amazon S3 图床
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2016-12-09T08:08:08+08:00">
+                2016-12-09
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/iPic/" itemprop="url" rel="index">
+                    <span itemprop="name">iPic</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <p>Amazon Simple Storage Service (<a href="https://aws.amazon.com/s3/">Amazon S3</a>) 可轻松使用对象存储，具有简单的 Web 服务接口，可用于在 Web 上的任何位置存储和检索任意数量的数据。更多介绍，可参考 <a href="http://docs.aws.amazon.com/zh_cn/AmazonS3/latest/gsg/GetStartedWithS3.html">Amazon S3 入门指南</a></p>
+<h1 id="在-iPic-中添加-Amazon-S3-图床"><a href="#在-iPic-中添加-Amazon-S3-图床" class="headerlink" title="在 iPic 中添加 Amazon S3 图床"></a>在 iPic 中添加 Amazon S3 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>Amazon S3</code></p>
+<p><img src="https://p.nuli.life/tool/s1hej.jpg" alt=""></p>
+<p>以下分别介绍各项的意义及如何配置：</p>
+<ul>
+<li><code>Bucket</code><ul>
+<li>即 Amazon S3 中对应的 Bucket</li>
+</ul>
+</li>
+<li><code>Access Key</code> 与 <code>Secret Key</code><ul>
+<li>推荐使用 Amazon 的 <a href="http://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html">AWS Identity and Access Management (IAM) </a> 来创建更安全的 Access Key 与 Secret Key，并设置对 Bucket 的最少权限</li>
+</ul>
+</li>
+<li><code>网址前缀</code><ul>
+<li>用于生成上传图片的完成 Http 路径，比如 <em><a href="https://ipic-test.s3.amazonaws.com">https://ipic-test.s3.amazonaws.com</a></em></li>
+<li>如果你绑定了域名，可以使用绑定的域名</li>
+</ul>
+</li>
+</ul>
+<p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传的图片。</p>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/iPic/AddS3.html#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
     <link itemprop="mainEntityOfPage" href="https://toolinbox.net/iPic/AddAliOSS.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -351,7 +516,7 @@
         
           <p><a href="https://www.aliyun.com/product/oss">阿里云对象存储</a>（Object Storage Service，简称OSS），是阿里云对外提供的云存储服务。OSS适合存放任意文件类型，有很多朋友将其作为静态网站加速、或图床。本文就介绍下如何在 iPic 中添加阿里 OSS 图床。</p>
 <h1 id="在偏好设置中添加阿里云-OSS-图床"><a href="#在偏好设置中添加阿里云-OSS-图床" class="headerlink" title="在偏好设置中添加阿里云 OSS 图床"></a>在偏好设置中添加阿里云 OSS 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>阿里云 OSS</code></p>
-<p><img src="https://ps.toolinbox.net/ov7rp.jpg" alt=""></p>
+<p><img src="https://p.nuli.life/tool/ov7rp.jpg" alt=""></p>
 <p>以下分别介绍各项的意义及如何配置：</p>
 <ul>
 <li><code>Bucket</code><ul>
@@ -374,155 +539,6 @@
           <!--noindex-->
           <div class="post-button text-center">
             <a class="btn" href="/iPic/AddAliOSS.html#more" rel="contents">
-              阅读全文 &raquo;
-            </a>
-          </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-
-
-    
-      
-
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-    <link itemprop="mainEntityOfPage" href="https://toolinbox.net/iPic/iPicUploader_Typora.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Toolinbox">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="https://ps.toolinbox.net/9ctis.jpg">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Toolinbox">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-            
-            
-              
-                
-                <a class="post-title-link" href="/iPic/iPicUploader_Typora.html" itemprop="url">
-                  Typora: 首个集成 iPic 上传服务的 Markdown 编辑器
-                </a>
-              
-            
-          </h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">发表于</span>
-              
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2016-11-09T08:08:08+08:00">
-                2016-11-09
-              </time>
-            
-
-            
-
-            
-          </span>
-
-          
-            <span class="post-category" >
-            
-              <span class="post-meta-divider">|</span>
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">分类于</span>
-              
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/iPic/" itemprop="url" rel="index">
-                    <span itemprop="name">iPic</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-            
-          
-
-          
-          
-
-          
-
-          
-
-          
-
-        </div>
-      </header>
-    
-
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          <p><img src="https://ps.toolinbox.net/z68rh.jpg" alt=""></p>
-<p>有了 <a href="https://toolinbox.net/iPic/">iPic</a> 的加持，<a href="http://www.typora.io/">Typora</a> 也可以很方便地在 Markdown 中插图。</p>
-<h1 id="一键上传本地图片"><a href="#一键上传本地图片" class="headerlink" title="一键上传本地图片"></a>一键上传本地图片</h1><p>如果已经在 Markdown 中使用的本地图片、需要将其上传至图床，只要一键：</p>
-<p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah02u0ekcg30ha0c0k3l.gif" alt=""></p>
-          <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/iPic/iPicUploader_Typora.html#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -665,7 +681,7 @@
 
       
         
-          <p><img src="https://ps.toolinbox.net/hnqid.png" alt=""></p>
+          <p><img src="https://p.nuli.life/tool/hnqid.png" alt=""></p>
 <h1 id="iPic-是什么？"><a href="#iPic-是什么？" class="headerlink" title="iPic 是什么？"></a>iPic 是什么？</h1><p>图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。</p>
 <ul>
 <li>通过拖拽上传图片</li>
@@ -682,6 +698,155 @@
           <!--noindex-->
           <div class="post-button text-center">
             <a class="btn" href="/iPic/iPicUploader.html#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://toolinbox.net/iPic/iPicUploader_Typora.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Toolinbox">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="https://ps.toolinbox.net/9ctis.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Toolinbox">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/iPic/iPicUploader_Typora.html" itemprop="url">
+                  Typora: 首个集成 iPic 上传服务的 Markdown 编辑器
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2016-11-09T08:08:08+08:00">
+                2016-11-09
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/iPic/" itemprop="url" rel="index">
+                    <span itemprop="name">iPic</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <p><img src="https://p.nuli.life/tool/z68rh.jpg" alt=""></p>
+<p>有了 <a href="https://toolinbox.net/iPic/">iPic</a> 的加持，<a href="http://www.typora.io/">Typora</a> 也可以很方便地在 Markdown 中插图。</p>
+<h1 id="一键上传本地图片"><a href="#一键上传本地图片" class="headerlink" title="一键上传本地图片"></a>一键上传本地图片</h1><p>如果已经在 Markdown 中使用的本地图片、需要将其上传至图床，只要一键：</p>
+<p><img src="https://p.nuli.life/tool/006tNc79gw1fah02u0ekcg30ha0c0k3l.gif" alt=""></p>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/iPic/iPicUploader_Typora.html#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1027,166 +1192,12 @@
 <li>…</li>
 </ol>
 <h1 id="图床神器-iPic-出场"><a href="#图床神器-iPic-出场" class="headerlink" title="图床神器 iPic 出场"></a>图床神器 iPic 出场</h1><p>现在再来看看，有了图床神器 iPic 后，有什么美好的事情即将发生：</p>
-<p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah01whu9yg30j60asqv5.gif" alt="iPic2.gif"></p>
+<p><img src="https://p.nuli.life/tool/006tNc79gw1fah01whu9yg30j60asqv5.gif" alt="iPic2.gif"></p>
 <p><strong>复制、自动上传、粘贴，搞定！</strong></p>
 <p>没错，这就是图床神器 iPic，带给你从未有过的插图体验。</p>
           <!--noindex-->
           <div class="post-button text-center">
             <a class="btn" href="/iPic/iPicIntroduce2.html#more" rel="contents">
-              阅读全文 &raquo;
-            </a>
-          </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-
-
-    
-      
-
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-    <link itemprop="mainEntityOfPage" href="https://toolinbox.net/iPic/iPicIntroduce3.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Toolinbox">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="https://ps.toolinbox.net/9ctis.jpg">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Toolinbox">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-            
-            
-              
-                
-                <a class="post-title-link" href="/iPic/iPicIntroduce3.html" itemprop="url">
-                  图床神器 iPic 第三波体验：支持 Imgur
-                </a>
-              
-            
-          </h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">发表于</span>
-              
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2016-05-26T08:08:08+08:00">
-                2016-05-26
-              </time>
-            
-
-            
-
-            
-          </span>
-
-          
-            <span class="post-category" >
-            
-              <span class="post-meta-divider">|</span>
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">分类于</span>
-              
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/iPic/" itemprop="url" rel="index">
-                    <span itemprop="name">iPic</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-            
-          
-
-          
-          
-
-          
-
-          
-
-          
-
-        </div>
-      </header>
-    
-
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          <p>之前，图床神器 iPic 已经带来两大波体验：</p>
-<ul>
-<li><a href="https://toolinbox.net/iPic/iPicIntroduce1.html">iPic - 从未插得如此顺滑（有动图）</a></li>
-<li><a href="https://toolinbox.net/iPic/iPicIntroduce2.html">图床神器 iPic 第二波体验：支持^七牛^</a></li>
-</ul>
-<p>而 iPic 的第三波体验又会带来了哪些变化呢？赶快来看看吧：</p>
-<h1 id="1-支持上传图片至-Imgur"><a href="#1-支持上传图片至-Imgur" class="headerlink" title="1. 支持上传图片至 Imgur"></a>1. 支持上传图片至 <strong>Imgur</strong></h1><p><a href="https://imgur.com">Imgur</a> 是最好用的免费图床之一。</p>
-<p><img src="https://ps-hz.toolinbox.net/006tNc79gw1fah0210fhdg30j60as1f9.gif" alt="iPic_3.gif"></p>
-<p>在 iPic 中添加 Imgur 图床也很简单，只要在偏好设置中添加 Imgur 即可。需要注意的是，Imgur 在国内处于半墙状态：生成的图片链接可以直接访问、但上传图片等操作需要翻墙。</p>
-          <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/iPic/iPicIntroduce3.html#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1272,7 +1283,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/">
-                <span class="site-state-item-count">32</span>
+                <span class="site-state-item-count">33</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>
