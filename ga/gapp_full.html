@@ -1,3 +1,4 @@
+<script src="https://www.googletagmanager.com/gtag/js?id=G-KBFX744FKR"></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -53,6 +54,22 @@
     cmd+=');';
     eval(cmd);
   }
+
+  // GA4 Related.
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KBFX744FKR');
+
+  const level3 = (la || '').substring(0, 100)
+  gtag('event', name, {
+    version,
+    level1: ca,
+    level2: ev,
+    level3,
+  });
   
   //setTimeout(function(){ window.location = "https://toolinbox.net"; }, 1e4);
 </script>
