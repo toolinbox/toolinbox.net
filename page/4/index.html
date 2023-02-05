@@ -251,7 +251,7 @@
   
 
   <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-    <link itemprop="mainEntityOfPage" href="https://toolinbox.net/iPic/AddUpYunImageHost.html">
+    <link itemprop="mainEntityOfPage" href="https://toolinbox.net/iPic/AddS3.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Toolinbox">
@@ -273,8 +273,8 @@
             
               
                 
-                <a class="post-title-link" href="/iPic/AddUpYunImageHost.html" itemprop="url">
-                  在 iPic 中添加又拍云
+                <a class="post-title-link" href="/iPic/AddS3.html" itemprop="url">
+                  在 iPic 中添加 Amazon S3 图床
                 </a>
               
             
@@ -348,16 +348,29 @@
 
       
         
-          <p>最近大家多次提到在 iPic 中支持<code>又拍云</code>，于是 iPic 就支持了<code>又拍云</code>。</p>
-<h1 id="注册又拍云账户"><a href="#注册又拍云账户" class="headerlink" title="注册又拍云账户"></a>注册又拍云账户</h1><p>这点比较简单，直接到 <a href="https://console.upyun.com/#/register/">这里</a> 注册即可。</p>
-<h1 id="在又拍云中添加资源"><a href="#在又拍云中添加资源" class="headerlink" title="在又拍云中添加资源"></a>在又拍云中添加资源</h1><p>又拍的数据处理是以 <strong>服务</strong> 为单位的。登录又拍后，进入 <a href="https://console.upyun.com/#/services/">服务</a> 页面。下面简单介绍注册的过程（图在上、文字介绍在下）：</p>
-<p><img src="https://p.nuli.life/tool/ahyp3.jpg" alt=""></p>
+          <p>Amazon Simple Storage Service (<a href="https://aws.amazon.com/s3/">Amazon S3</a>) 可轻松使用对象存储，具有简单的 Web 服务接口，可用于在 Web 上的任何位置存储和检索任意数量的数据。更多介绍，可参考 <a href="http://docs.aws.amazon.com/zh_cn/AmazonS3/latest/gsg/GetStartedWithS3.html">Amazon S3 入门指南</a></p>
+<h1 id="在-iPic-中添加-Amazon-S3-图床"><a href="#在-iPic-中添加-Amazon-S3-图床" class="headerlink" title="在 iPic 中添加 Amazon S3 图床"></a>在 iPic 中添加 Amazon S3 图床</h1><p>打开 <code>偏好设置</code>，进入 <code>图床</code> 页，选择添加 <code>Amazon S3</code></p>
+<p><img src="https://p.nuli.life/tool/s1hej.jpg" alt=""></p>
+<p>以下分别介绍各项的意义及如何配置：</p>
 <ul>
-<li>点击 <code>创建服务</code></li>
+<li><code>Bucket</code><ul>
+<li>即 Amazon S3 中对应的 Bucket</li>
 </ul>
+</li>
+<li><code>Access Key</code> 与 <code>Secret Key</code><ul>
+<li>推荐使用 Amazon 的 <a href="http://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html">AWS Identity and Access Management (IAM) </a> 来创建更安全的 Access Key 与 Secret Key，并设置对 Bucket 的最少权限</li>
+</ul>
+</li>
+<li><code>网址前缀</code><ul>
+<li>用于生成上传图片的完成 Http 路径，比如 <em><a href="https://ipic-test.s3.amazonaws.com">https://ipic-test.s3.amazonaws.com</a></em></li>
+<li>如果你绑定了域名，可以使用绑定的域名</li>
+</ul>
+</li>
+</ul>
+<p>完成输入后，可以点击 <strong>验证</strong> 按钮。如果输入没有问题，则右侧会出现 <strong>通过</strong> 链接，点击后就可以看到测试时上传的图片。</p>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/iPic/AddUpYunImageHost.html#more" rel="contents">
+            <a class="btn" href="/iPic/AddS3.html#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
